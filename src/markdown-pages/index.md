@@ -1,7 +1,7 @@
 ---
 path: "/"
 date: "2020-03-30"
-title: "Liste collaborative pour vivre le confinement"
+title: "Liste collaborative pour vivre le confinement autrement"
 ---
 
 Grâce à cette liste, nous vous proposons de vivre le confinement en Chrétien, c'est-à-dire de chercher tout au long de ce confinement à grandir dans notre foi, notre espérance et notre charité.
@@ -48,7 +48,7 @@ L'Église propose tous ses contenus en ligne :
 * [Homélies 2020 du Pape François](http://www.vatican.va/content/francesco/fr/homilies/2020.index.html#homilies)
 * [Catéchisme de l'Église Catholique](http://www.vatican.va/archive/FRA0013/_INDEX.HTM)
 
-### Cours de théologie
+### Suivre un cours de théologie
 
 * Institut Docteur Angélique, [Cours de théologie catholique](http://docteurangelique.free.fr/cours.html)
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
@@ -61,6 +61,11 @@ L'Église propose tous ses contenus en ligne :
 * [Pourquoi, Padre ?](https://www.ktotv.com/emissions/pourquoi-padre) sur KTOTV répond à des questions du grand public de façon claire et précise.
 * La communauté de l'Emmanuel a lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
+* Regarder les [Jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV.
+
+### Écouter un podcast
+
+* [Évangile et commentaire](https://radionotredame.net/emissions/evangiledujouretcommentaire/) sur Radio Notre Dame.
 
 ### S'inscrire à unne newsletter
 
@@ -68,7 +73,7 @@ L'Église propose tous ses contenus en ligne :
 
 ## Me former (en anglais)
 
-### Podcasts
+### Écouter un podcasts (en anglais)
 
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
 * Matt Fradd, [Pints with Aquinas](https://pintswithaquinas.com/)
