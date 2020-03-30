@@ -10,6 +10,8 @@ Cette liste est nécessairement limitée, nous avons choisi de ne pas être exha
 
 Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos idées !
 
+![](./resurrection-lazare-confinement.jpg)
+
 ## Prier
 
 ### Prier avec d'autres chrétiens
