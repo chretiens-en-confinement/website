@@ -21,12 +21,13 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 
 ### Participer à un groupe de prière
 
-* [Hozana](https://hozana.org/live) propose un vaste programme de prière pendant le confinement.
-
+* [Hozana](https://hozana.org/live) propose un vaste programme de prière pendant le confinement, notamment une [neuvaine](https://hozana.org/communaute/8816-neuvaine-pour-les-victimes-du-coronavirus)
+* Suivre la [Retraite dans la Ville](https://www.retraitedanslaville.org/)
 
 ### Prier en famille
 
 * Commencer à réciter l'angélus, en union avec les chrétiens du monde entier, à 7h, 12h, et 19h. Chanter par exemple la version sur l'air de Greensleeves : [Voici que l'ange Gabriel](https://www.youtube.com/watch?v=nyYhhLzorb8).
+* Le Service National de la Pastorale Liturgique et Sacramentelle propose une [liturgie familiale](https://liturgie.catholique.fr/accueil/annee-liturgique/le-dimanche/302749-liturgie-domestique-5eme-dimanche-de-careme-annee-a/)
 
 ### Prier seul
 
@@ -52,6 +53,18 @@ L'Église propose tous ses contenus en ligne :
 * Institut Docteur Angélique, [Cours de théologie catholique](http://docteurangelique.free.fr/cours.html)
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [iAquinas](https://www.youtube.com/channel/UCxZHuVgmRJpuwEYMiX0QYtQ/videos) (Petites vidéos à l'école de saint Thomas d'Aquin)
+* [SINOD](https://sinod.fr/) recense les MOOC proposés par le Collège des Bernardins.
+* Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=)
+
+### Regarder des vidéos
+
+* [Pourquoi, Padre ?](https://www.ktotv.com/emissions/pourquoi-padre) sur KTOTV répond à des questions du grand public de façon claire et précise.
+* La communauté de l'Emmanuel a lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
+* [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
+
+### S'inscrire à unne newsletter
+
+* [PRIXM](https://www.prixm.org/) dévoile les Écritures et les chefs-d'œuvre qu'elles ont inspirés. Le projet est porté par l’École biblique et archéologique française de Jérusalem
 
 ## Me former (en anglais)
 
@@ -60,14 +73,12 @@ L'Église propose tous ses contenus en ligne :
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
 * Matt Fradd, [Pints with Aquinas](https://pintswithaquinas.com/)
 
-
 ## Écouter de la musique
-
-
 
 ## Regarder un film
 
 * Une sélection de films chrétiens pour tous les âges, en streaming et VOD : [Le Film Chrétien](https://www.lefilmchretien.fr)
+* Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/propositions-danimation/294787-propositions-danimation-a-partir-de-films/)
 
 ## Donner de mon temps
 
@@ -84,9 +95,15 @@ L'Église propose tous ses contenus en ligne :
 
 ## Occuper mes enfants pendant 10 min
 
+* Magnificat Junior propose de très jolis [coloriages](https://francais.magnificat.net/accueil/coloriages/)
+* Prions en Église propose également des coloriage dans sa section [En famille](https://www.prionseneglise.fr/en-famille).
+* Les éditions Mame met à disposition gracieusement un grand nombre de [coloriages et activités à la maison](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
+
 ## Occuper mes enfants pendant 1 heure
 
 * Les albums [Graines de saints](https://open.spotify.com/artist/6pgw29CZnP7uMfrJu8aoiN?si=f8mQ9lmXQKGJ8_p2kETbyg) proposent d'excellentes vies de saints avec de très beaux chants : Sainte Teresa de Calcuta, Saint François d'Assise, Sainte Thérèse de Lisieux, etc.
+* Théobule propose des [jeux et bricolages](https://www.theobule.org/jeux-et-bricolages).
+* Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/jeux/)
 
 ## Écouter de la musique avec mes enfants
 
@@ -99,6 +116,8 @@ L'Église propose tous ses contenus en ligne :
 ## Jouer avec mes enfants (avec préparation)
 
 ## Faire la catéchèse pour des enfants
+
+* [Théobule, les enfants connectés à la parole de Dieu](https://www.theobule.org/) propose un grand nombre de contenus catéchétiques pour les enfants.
 
 ## Faire la catéchèse pour des ados
 
