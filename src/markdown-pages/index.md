@@ -14,16 +14,19 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 
 ## Prier
 
-### Prier avec d'autres chrétiens
-
-#### Suivre la messe
+### Suivre la messe
 
 * Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
 * Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto)
 
-#### Participer à un groupe de prière
+### Participer à un groupe de prière
 
 * [Hozana](https://hozana.org/live) propose un vaste programme de prière pendant le confinement.
+
+
+### Prier en famille
+
+* Commencer à réciter l'angélus, en union avec les chrétiens du monde entier, à 7h, 12h, et 19h. Chanter par exemple la version sur l'air de Greensleeves : [Voici que l'ange Gabriel](https://www.youtube.com/watch?v=nyYhhLzorb8).
 
 ### Prier seul
 
