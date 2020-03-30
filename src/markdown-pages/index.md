@@ -1,7 +1,7 @@
 ---
 path: "/"
-date: "2019-05-04"
-title: "My first blog post"
+date: "2020-03-30"
+title: "Liste collaborative pour vivre le confinement"
 ---
 
 Grâce à cette liste, nous vous proposons de vivre le confinement en Chrétien, c'est-à-dire de chercher tout au long de ce confinement à grandir dans notre foi, notre espérance et notre charité.
@@ -10,16 +10,23 @@ Cette liste est nécessairement limitée, nous avons choisi de ne pas être exha
 
 Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos idées !
 
-## Prier avec d'autres chrétiens
+## Prier
+
+### Prier avec d'autres chrétiens
+
+#### Suivre la messe
+
+* Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
+* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto)
+
+#### Participer à un groupe de prière
 
 * [Hozana](https://hozana.org/live) propose un vaste programme de prière pendant le confinement.
 
-## Prier seul
+### Prier seul
 
 * Magnificat est disponible gratuitement en ligne pendant le confinement : [Prier avec Magnificat](https://francais.magnificat.net/prier)
-
-## Participer à un parcours
-
+* L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
 
 ## Me former
@@ -48,16 +55,14 @@ L'Église propose tous ses contenus en ligne :
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
 * Matt Fradd, [Pints with Aquinas](https://pintswithaquinas.com/)
 
-## Suivre la messe
-
-* Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
-
 
 ## Écouter de la musique
 
 
 
 ## Regarder un film
+
+* Une sélection de films chrétiens pour tous les âges, en streaming et VOD : [Le Film Chrétien](https://www.lefilmchretien.fr)
 
 ## Donner de mon temps
 
