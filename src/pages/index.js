@@ -10,7 +10,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Chrétiens en confinement : une liste collaborative pour vivre le confinement autrement !" />
       <div
         className="blog-post-content"
         dangerouslySetInnerHTML={{ __html: html }}
