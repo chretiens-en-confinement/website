@@ -83,6 +83,7 @@ L'Église propose tous ses contenus en ligne :
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
 * Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV.
 * La chaîne [Padreblog](https://www.youtube.com/channel/UCRSBl51vh5qVSn3rDXFiitQ) propose de nombreux contenus d'actualités.
+* Suivez les conférences de Carême proposée par le diocèse de Paris : [Conférences 2020 - Diocèse de Paris](https://www.paris.catholique.fr/-conferences-2020-.html)
 
 ### Écouter un podcast
 

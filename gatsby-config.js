@@ -3,6 +3,7 @@ module.exports = {
     title: `Chrétiens en confinement`,
     description: `Une liste collaborative de qualité pour vivre le confinement en chrétiens.`,
     author: `@charlax`,
+    siteUrl: "https://www.chretiens-en-confinement.org",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -52,6 +53,12 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        policy: [{ userAgent: "*", allow: "/" }],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
