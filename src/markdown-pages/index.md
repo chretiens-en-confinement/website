@@ -95,6 +95,10 @@ L'Église propose tous ses contenus en ligne :
 
 ## 🇬🇧 Me former (en anglais)
 
+### Suivre un cours de théologie
+
+* Découvrez St Thomas d'Aquin avec [Aquinas 101](https://aquinas101.thomisticinstitute.org/) proposé par le Thomistic Institute.
+
 ### Écouter un podcasts (en anglais)
 
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
