@@ -16,7 +16,7 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 
 * Suivez les conseils de spécialistes pluri-centenaires du confinement ! [Rester cloîtré… des spécialistes vous donnent leurs conseils](https://www.dieumattend.fr/rester-cloitre-conseils-de-specialistes/?fbclid=IwAR2xE4fY8mCoErDK_ixts9xCUkDy0vtvD8Nn1932dMSHexESz_S0vXHmw5Q)
 
-## Prier
+## 🙏 Prier
 
 ### Suivre la messe
 
@@ -47,9 +47,7 @@ Pour mieux célébrer le dimanche :
 * L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
 
-## Me former
-
-### Lire
+## 📖 Lire la Bible
 
 En commençant par la Bible, bien sûr, disponible intégralement et gratuitement dans sa traduction officielle sur [AELF](https://www.aelf.org/)
 
@@ -58,6 +56,10 @@ Des apps permettent également d'y accéder, dont :
 * [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
   (installée plus de 415 M de fois, elle propose de nombreuses traductions en
   français, des plans de lectures, etc.)
+
+## 🎓 Me former
+
+### Lire
 
 L'Église propose tous ses contenus en ligne :
 
@@ -90,14 +92,14 @@ L'Église propose tous ses contenus en ligne :
 
 * [PRIXM](https://www.prixm.org/) dévoile les Écritures et les chefs-d'œuvre qu'elles ont inspirés. Le projet est porté par l’École biblique et archéologique française de Jérusalem
 
-## Me former (en anglais)
+## 🇬🇧 Me former (en anglais)
 
 ### Écouter un podcasts (en anglais)
 
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
 * Matt Fradd, [Pints with Aquinas](https://pintswithaquinas.com/)
 
-## Donner
+## ⛑ Donner
 
 ### Donner de mon argent
 
@@ -116,7 +118,7 @@ L'Église propose tous ses contenus en ligne :
 * Le diocèse de Nantes propose des [tutos pour retransmettre une messes sur Youtube et Facebook](https://diocese44.fr/retransmission-de-messes-en-loire-atlantique/)
 * [Jésus Box - tuto confinement](https://www.jesusbox.fr/confinement)
 
-## Me distraire
+## 🏖 Me distraire
 
 ### Regarder un film
 
@@ -125,7 +127,7 @@ L'Église propose tous ses contenus en ligne :
 
 ### Écouter de la musique
 
-## En famille
+## 🚸 En famille
 
 ### Occuper mes enfants pendant 10 min
 
@@ -161,7 +163,7 @@ L'Église propose tous ses contenus en ligne :
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [Jésus Box - le parcours de carême](https://www.jesusbox.fr/le-parcours-de-careme)
 
-## Être aidé
+## 👋 Être aidé
 
 Le diocèse des Yvelines propose un accueil téléphonique anonyme sur [Family PHONE](https://familyphone.fr/)
 
