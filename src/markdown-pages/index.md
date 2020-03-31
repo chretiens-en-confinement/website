@@ -78,53 +78,64 @@ L'Église propose tous ses contenus en ligne :
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
 * Matt Fradd, [Pints with Aquinas](https://pintswithaquinas.com/)
 
-## Écouter de la musique
+## Donner
 
-## Regarder un film
-
-* Une sélection de films chrétiens pour tous les âges, en streaming et VOD : [Le Film Chrétien](https://www.lefilmchretien.fr)
-* Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/propositions-danimation/294787-propositions-danimation-a-partir-de-films/)
-
-## Donner de mon temps
-
-## Donner de mon argent
+### Donner de mon argent
 
 * [La Quête](https://jedonnealeglise.fr/) Donner à la quête en ligne
 * [CredoFunding, plateforme de financement participatif chrétien](https://www.credofunding.fr/fr)
 * [Plate-forme nationale d’offrande de quête en ligne- CEF](https://donner.catholique.fr/quete/~mon-don?_cv=1)
 
-## Créer du contenu catho en ligne
+### Donner de mon temps
+
+#### Créer et partager du contenu en ligne
 
 * Diocèse de Nantes, [Tutos pour retransmission de messes Youtube et facebook](https://diocese44.fr/retransmission-de-messes-en-loire-atlantique/)
 * [Jésus Box - tuto confinement](https://www.jesusbox.fr/confinement)
 
-## Occuper mes enfants pendant 10 min
+## Me distraire
+
+### Regarder un film
+
+* Une sélection de films chrétiens pour tous les âges, en streaming et VOD : [Le Film Chrétien](https://www.lefilmchretien.fr)
+* Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/propositions-danimation/294787-propositions-danimation-a-partir-de-films/)
+
+### Écouter de la musique
+
+## En famille
+
+### Occuper mes enfants pendant 10 min
 
 * Magnificat Junior propose de très jolis [coloriages](https://francais.magnificat.net/accueil/coloriages/)
 * Prions en Église propose également des coloriage dans sa section [En famille](https://www.prionseneglise.fr/en-famille).
 * Les éditions Mame met à disposition gracieusement un grand nombre de [coloriages et activités à la maison](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 
-## Occuper mes enfants pendant 1 heure
+### Occuper mes enfants pendant 1 heure
 
 * Les albums [Graines de saints](https://open.spotify.com/artist/6pgw29CZnP7uMfrJu8aoiN?si=f8mQ9lmXQKGJ8_p2kETbyg) proposent d'excellentes vies de saints avec de très beaux chants : Sainte Teresa de Calcuta, Saint François d'Assise, Sainte Thérèse de Lisieux, etc.
 * Théobule propose des [jeux et bricolages](https://www.theobule.org/jeux-et-bricolages).
 * Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/jeux/)
 
-## Écouter de la musique avec mes enfants
+### Écouter de la musique avec mes enfants
 
 * Jean-François Kieffer, [Les chansons de Loupio](https://open.spotify.com/album/09MppnnTFAydHGZvPzsVoF?si=Tt6oCpoDQf6SW4FYQJvRiA)
 
-## Jouer avec mes enfants (sans préparation)
+### Jouer avec mes enfants (sans préparation)
 
 * [Zou les Boulons](https://www.librairie-emmanuel.fr/zou-les-boulons-jeu-collaboratif-pour-resserrer-les-boulons-de-la-famille-p-145150) (disponible chez plusieurs marchands en ligne, dont la Librairie de l'Emmanuel)
 
-## Jouer avec mes enfants (avec préparation)
+### Jouer avec mes enfants (avec préparation)
 
-## Faire la catéchèse pour des enfants
+### Faire la catéchèse pour des enfants
 
 * [Théobule, les enfants connectés à la parole de Dieu](https://www.theobule.org/) propose un grand nombre de contenus catéchétiques pour les enfants.
 
-## Faire la catéchèse pour des ados
+### Faire la catéchèse pour des ados
 
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [Jésus Box - le parcours de carême](https://www.jesusbox.fr/le-parcours-de-careme)
+
+
+
+### Qui sommes-nous ?
+Nous sommes un petit groupe de chrétiens confinés un peu partout en France, qui souhaitons vivre ce temps très particulier en continuant de répondre à notre appel : aimer chaque jour un peu plus Dieu et notre prochain. Internet permet de faire 1000 choses en restant chez soi. Ausi, nous nous efforçons de proposer, par cette liste, du contenu afin de continuer à faire grandir notre foi, notre espérance et notre charité, que nous soyons seul, en couple, en famille, ou en communauté.
