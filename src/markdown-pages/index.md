@@ -8,7 +8,7 @@ Grâce à cette liste, nous vous proposons de vivre le confinement en Chrétien,
 
 Cette liste est nécessairement limitée, nous avons choisi de ne pas être exhaustif mais de vous proposer uniquement des contenus de grande qualité.
 
-Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos idées !
+Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos idées : contact@chretiens-en-confinement.org
 
 ![](./resurrection-lazare-confinement.jpg)
 
@@ -135,7 +135,15 @@ L'Église propose tous ses contenus en ligne :
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [Jésus Box - le parcours de carême](https://www.jesusbox.fr/le-parcours-de-careme)
 
+# À propos
 
+## Contribuer
 
-### Qui sommes-nous ?
+Deux solutions pour contribuer :
+
+* Nous envoyer un email sur contact@chretiens-en-confinement.org
+* Contribuer sur notre repo Github [chretiens-en-confinement](https://github.com/chretiens-en-confinement/website)
+
+## Qui sommes-nous ?
+
 Nous sommes un petit groupe de chrétiens confinés un peu partout en France, qui souhaitons vivre ce temps très particulier en continuant de répondre à notre appel : aimer chaque jour un peu plus Dieu et notre prochain. Internet permet de faire 1000 choses en restant chez soi. Ausi, nous nous efforçons de proposer, par cette liste, du contenu afin de continuer à faire grandir notre foi, notre espérance et notre charité, que nous soyons seul, en couple, en famille, ou en communauté.
