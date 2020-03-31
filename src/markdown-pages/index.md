@@ -12,12 +12,24 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 
 ![](./resurrection-lazare-confinement.jpg)
 
+## Autres page de conseils
+
+* Suivez les conseils de spécialistes pluri-centenaires du confinement ! [Rester cloîtré… des spécialistes vous donnent leurs conseils](https://www.dieumattend.fr/rester-cloitre-conseils-de-specialistes/?fbclid=IwAR2xE4fY8mCoErDK_ixts9xCUkDy0vtvD8Nn1932dMSHexESz_S0vXHmw5Q)
+
 ## Prier
 
 ### Suivre la messe
 
 * Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
-* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto)
+* La messe de la communauté de l'Emmanuel en direct, à 12h en semaine et 11h le
+  dimanche est sur [Emmanuel Play](https://play.emmanuel.info/)
+* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
+
+Pour mieux célébrer le dimanche :
+
+* Vous pouvez regarder la vidéo [Vivre la messe en famille pendant le confinement](https://www.youtube.com/watch?v=RpszGrDJ6lI&feature=youtu.be) qui propose des conseils très pratiques.
+* Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
+* [prierenfamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
 
 ### Participer à un groupe de prière
 
@@ -41,6 +53,12 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 
 En commençant par la Bible, bien sûr, disponible intégralement et gratuitement dans sa traduction officielle sur [AELF](https://www.aelf.org/)
 
+Des apps permettent également d'y accéder, dont :
+
+* [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
+  (installée plus de 415 M de fois, elle propose de nombreuses traductions en
+  français, des plans de lectures, etc.)
+
 L'Église propose tous ses contenus en ligne :
 
 * [Encycliques du Pape François](http://www.vatican.va/content/francesco/fr/encyclicals.index.html)
@@ -59,15 +77,16 @@ L'Église propose tous ses contenus en ligne :
 ### Regarder des vidéos
 
 * [Pourquoi, Padre ?](https://www.ktotv.com/emissions/pourquoi-padre) sur KTOTV répond à des questions du grand public de façon claire et précise.
-* La communauté de l'Emmanuel a lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
+* La communauté de l'Emmanuel propose une webtv « [Emmanuel Play - La WebTV qui diffuse la joie de Dieu](https://play.emmanuel.info/) » et a notamment lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
-* Regarder les [Jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV.
+* Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV.
+* La chaîne [Padreblog](https://www.youtube.com/channel/UCRSBl51vh5qVSn3rDXFiitQ) propose de nombreux contenus d'actualités.
 
 ### Écouter un podcast
 
 * [Évangile et commentaire](https://radionotredame.net/emissions/evangiledujouretcommentaire/) sur Radio Notre Dame.
 
-### S'inscrire à unne newsletter
+### S'inscrire à une newsletter
 
 * [PRIXM](https://www.prixm.org/) dévoile les Écritures et les chefs-d'œuvre qu'elles ont inspirés. Le projet est porté par l’École biblique et archéologique française de Jérusalem
 
@@ -88,9 +107,13 @@ L'Église propose tous ses contenus en ligne :
 
 ### Donner de mon temps
 
+#### Aider les autres
+
+* Envoyez des lettres pour donner le sourire aux personnes isolées grâce à [1 lettre 1 sourire](https://1lettre1sourire.org/)
+
 #### Créer et partager du contenu en ligne
 
-* Diocèse de Nantes, [Tutos pour retransmission de messes Youtube et facebook](https://diocese44.fr/retransmission-de-messes-en-loire-atlantique/)
+* Le diocèse de Nantes propose des [tutos pour retransmettre une messes sur Youtube et Facebook](https://diocese44.fr/retransmission-de-messes-en-loire-atlantique/)
 * [Jésus Box - tuto confinement](https://www.jesusbox.fr/confinement)
 
 ## Me distraire
@@ -129,11 +152,18 @@ L'Église propose tous ses contenus en ligne :
 ### Faire la catéchèse pour des enfants
 
 * [Théobule, les enfants connectés à la parole de Dieu](https://www.theobule.org/) propose un grand nombre de contenus catéchétiques pour les enfants.
+* L'application [The Bible App for Kids (YouVersion)](https://www.youversion.com/the-bible-app-for-kids/) est disponible avec une narration en français ainsi que de nombreuses activités pour découvrir la bible.
+* En plus des coloriages et des activités, les éditions Mame proposent également des [ressources catéchèse et éveil à la foi à la maison](https://www.mameeditions.com/ressources-catechese-a-la-maison)
+* Le diocèse de Paris propose [un jardin de Pâques à fabriquer avec les enfants](https://www.paris.catholique.fr/un-jardin-de-paques-a-fabriquer-49223.html)
 
 ### Faire la catéchèse pour des ados
 
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [Jésus Box - le parcours de carême](https://www.jesusbox.fr/le-parcours-de-careme)
+
+## Être aidé
+
+Le diocèse des Yvelines propose un accueil téléphonique anonyme sur [Family PHONE](https://familyphone.fr/)
 
 # À propos
 
@@ -141,7 +171,7 @@ L'Église propose tous ses contenus en ligne :
 
 Deux solutions pour contribuer :
 
-* Nous envoyer un email sur [contact@chretiens-en-confinement.org](contact@chretiens-en-confinement.org)gg
+* Nous envoyer un email sur [contact@chretiens-en-confinement.org](contact@chretiens-en-confinement.org)
 * Contribuer sur notre repo Github [chretiens-en-confinement](https://github.com/chretiens-en-confinement/website)
 
 ## Qui sommes-nous ?

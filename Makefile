@@ -6,4 +6,4 @@ MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
 develop:
-	gatsby develop
+	npm start
