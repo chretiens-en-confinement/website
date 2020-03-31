@@ -8,7 +8,7 @@ Grâce à cette liste, nous vous proposons de vivre le confinement en Chrétien,
 
 Cette liste est nécessairement limitée, nous avons choisi de ne pas être exhaustif mais de vous proposer uniquement des contenus de grande qualité.
 
-Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos idées : contact@chretiens-en-confinement.org
+Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos idées : [contact@chretiens-en-confinement.org](contact@chretiens-en-confinement.org)
 
 ![](./resurrection-lazare-confinement.jpg)
 
@@ -141,7 +141,7 @@ L'Église propose tous ses contenus en ligne :
 
 Deux solutions pour contribuer :
 
-* Nous envoyer un email sur contact@chretiens-en-confinement.org
+* Nous envoyer un email sur [contact@chretiens-en-confinement.org](contact@chretiens-en-confinement.org)gg
 * Contribuer sur notre repo Github [chretiens-en-confinement](https://github.com/chretiens-en-confinement/website)
 
 ## Qui sommes-nous ?
