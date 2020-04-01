@@ -12,7 +12,7 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 
 ![](./resurrection-lazare-confinement.jpg)
 
-## Autres page de conseils
+## Autres pages de conseils
 
 * Suivez les conseils de spécialistes pluri-centenaires du confinement ! [Rester cloîtré… des spécialistes vous donnent leurs conseils](https://www.dieumattend.fr/rester-cloitre-conseils-de-specialistes/?fbclid=IwAR2xE4fY8mCoErDK_ixts9xCUkDy0vtvD8Nn1932dMSHexESz_S0vXHmw5Q)
 
@@ -54,10 +54,10 @@ En commençant par lire la Bible, bien sûr :
 * Des apps permettent également d'y accéder, dont [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
   (installée plus de 415 M de fois, elle propose de nombreuses traductions en
   français, des plans de lectures, etc.)
-  
+
   * Suivez les conférences de Carême proposée par le diocèse de Paris : [Conférences 2020 - Diocèse de Paris](https://www.paris.catholique.fr/-conferences-2020-.html)
- 
- 2 podcasts pour écouter l'Evangile avec ses commentaires : 
+
+ 2 podcasts pour écouter l'Evangile avec ses commentaires :
  * L'Evangile du jour : [Évangile et commentaire](https://radionotredame.net/emissions/evangiledujouretcommentaire/) sur Radio Notre Dame
  * L'Evangile du dimanche : [Enfin une bonne nouvelle](https://rcf.fr/spiritualite/enfin-une-bonne-nouvelle) sur RCF
 
