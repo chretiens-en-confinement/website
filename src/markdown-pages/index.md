@@ -39,6 +39,8 @@ Pour mieux célébrer le dimanche :
 
 ### Prier seul
 
+![](./la-traversee.png)
+
 * Magnificat est disponible gratuitement en ligne pendant le confinement : [Prier avec Magnificat](https://francais.magnificat.net/prier)
 * L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
@@ -52,6 +54,8 @@ En commençant par lire la Bible, bien sûr :
 * Des apps permettent également d'y accéder, dont [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
   (installée plus de 415 M de fois, elle propose de nombreuses traductions en
   français, des plans de lectures, etc.)
+
+![](./bible-app.png)
 
 Propositions plus spécifiques :
 
@@ -82,7 +86,6 @@ L'Église propose tous ses contenus en ligne :
 * Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=)
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
 * Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV
-
 
 ### Répondre à mes questions sur la foi et l'Eglise
 
@@ -115,6 +118,8 @@ L'Église propose tous ses contenus en ligne :
 
 * Envoyez des lettres pour donner le sourire aux personnes isolées grâce à [1 lettre 1 sourire](https://1lettre1sourire.org/)
 
+![](./1lettre1sourire.png)
+
 #### Créer et partager du contenu en ligne
 
 * Le diocèse de Nantes propose des [tutos pour retransmettre une messes sur Youtube et Facebook](https://diocese44.fr/retransmission-de-messes-en-loire-atlantique/)
@@ -138,14 +143,21 @@ L'Église propose tous ses contenus en ligne :
 ### Occuper mes enfants pendant 10 min
 
 * Magnificat Junior propose de très jolis [coloriages](https://francais.magnificat.net/accueil/coloriages/)
-* Prions en Église propose également des coloriage dans sa section [En famille](https://www.prionseneglise.fr/en-famille).
+* Prions en Église propose également des coloriages dans sa section [En famille](https://www.prionseneglise.fr/en-famille).
 * Les éditions Mame met à disposition gracieusement un grand nombre de [coloriages et activités à la maison](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
+
+![](./coloriages-magnificat.png)
 
 ### Occuper mes enfants pendant 1 heure
 
-* Les albums [Graines de saints](https://open.spotify.com/artist/6pgw29CZnP7uMfrJu8aoiN?si=f8mQ9lmXQKGJ8_p2kETbyg) proposent d'excellentes vies de saints avec de très beaux chants : Sainte Teresa de Calcuta, Saint François d'Assise, Sainte Thérèse de Lisieux, etc.
+* Les albums [Graines de saints](https://open.spotify.com/artist/6pgw29CZnP7uMfrJu8aoiN?si=f8mQ9lmXQKGJ8_p2kETbyg) proposent d'excellentes vies de saints avec de très beaux chants.
+  * [Sainte Teresa de Calcuta](https://open.spotify.com/album/1De7taeBDXQL7d3JNAoPjw?si=awCYr_d7QkKjA3VQ77ccGQ)
+  * [Saint François d'Assise](https://open.spotify.com/album/5hknzKNtMQTclf19EZi8kC?si=_q2KWtSFQUiVzzGq1DP9ZQ)
+  * [Sainte Thérèse de Lisieux](https://open.spotify.com/album/2IdcVZh8OcEUjfN5QQpTsW?si=w35vcxTLSEapw4SdsCUTUw)
 * Théobule propose des [jeux et bricolages](https://www.theobule.org/jeux-et-bricolages).
 * Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/jeux/)
+
+<img src="./sainte-teresa-dis-nous-en-qui-tu-crois.jpg" width="500" />
 
 ### Écouter de la musique avec mes enfants
 
