@@ -21,9 +21,9 @@ Cette liste est collaborative, n'hésitez pas à nous contacter pour ajouter vos
 ### Suivre la messe
 
 * Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
+* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
 * La messe de la communauté de l'Emmanuel en direct, à 12h en semaine et 11h le
   dimanche est sur [Emmanuel Play](https://play.emmanuel.info/)
-* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
 
 Pour mieux célébrer le dimanche :
 
@@ -47,15 +47,19 @@ Pour mieux célébrer le dimanche :
 * L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
 
-## 📖 Lire la Bible
+## 📖 Nourrir ma prière
 
-En commençant par la Bible, bien sûr, disponible intégralement et gratuitement dans sa traduction officielle sur [AELF](https://www.aelf.org/)
-
-Des apps permettent également d'y accéder, dont :
-
-* [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
+En commençant par lire la Bible, bien sûr :
+* Disponible intégralement et gratuitement dans sa traduction officielle sur [AELF](https://www.aelf.org/)
+* Des apps permettent également d'y accéder, dont [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
   (installée plus de 415 M de fois, elle propose de nombreuses traductions en
   français, des plans de lectures, etc.)
+  
+  * Suivez les conférences de Carême proposée par le diocèse de Paris : [Conférences 2020 - Diocèse de Paris](https://www.paris.catholique.fr/-conferences-2020-.html)
+ 
+ 2 podcasts pour écouter l'Evangile avec ses commentaires : 
+ * L'Evangile du jour : [Évangile et commentaire](https://radionotredame.net/emissions/evangiledujouretcommentaire/) sur Radio Notre Dame
+ * L'Evangile du dimanche : [Enfin une bonne nouvelle](https://rcf.fr/spiritualite/enfin-une-bonne-nouvelle) sur RCF
 
 ## 🎓 Me former
 
@@ -75,23 +79,15 @@ L'Église propose tous ses contenus en ligne :
 * [iAquinas](https://www.youtube.com/channel/UCxZHuVgmRJpuwEYMiX0QYtQ/videos) (Petites vidéos à l'école de saint Thomas d'Aquin)
 * [SINOD](https://sinod.fr/) recense les MOOC proposés par le Collège des Bernardins.
 * Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=)
+* [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
+* Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV
 
-### Regarder des vidéos
+
+### Répondre à mes questions sur la foi et l'Eglise
 
 * [Pourquoi, Padre ?](https://www.ktotv.com/emissions/pourquoi-padre) sur KTOTV répond à des questions du grand public de façon claire et précise.
-* La communauté de l'Emmanuel propose une webtv « [Emmanuel Play - La WebTV qui diffuse la joie de Dieu](https://play.emmanuel.info/) » et a notamment lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
-* [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
-* Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV.
 * La chaîne [Padreblog](https://www.youtube.com/channel/UCRSBl51vh5qVSn3rDXFiitQ) propose de nombreux contenus d'actualités.
-* Suivez les conférences de Carême proposée par le diocèse de Paris : [Conférences 2020 - Diocèse de Paris](https://www.paris.catholique.fr/-conferences-2020-.html)
-
-### Écouter un podcast
-
-* [Évangile et commentaire](https://radionotredame.net/emissions/evangiledujouretcommentaire/) sur Radio Notre Dame.
-
-### S'inscrire à une newsletter
-
-* [PRIXM](https://www.prixm.org/) dévoile les Écritures et les chefs-d'œuvre qu'elles ont inspirés. Le projet est porté par l’École biblique et archéologique française de Jérusalem
+* La communauté de l'Emmanuel propose une webtv « [Emmanuel Play - La WebTV qui diffuse la joie de Dieu](https://play.emmanuel.info/) » et a notamment lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
 
 ## 🇬🇧 Me former (en anglais)
 
@@ -124,6 +120,10 @@ L'Église propose tous ses contenus en ligne :
 * [Jésus Box - tuto confinement](https://www.jesusbox.fr/confinement)
 
 ## 🏖 Me distraire
+
+### Faire un tour au musée
+
+* [PRIXM](https://www.prixm.org/) dévoile les Écritures et les chefs-d'œuvre qu'elles ont inspirés. Le projet est porté par l’École biblique et archéologique française de Jérusalem
 
 ### Regarder un film
 
