@@ -98,11 +98,14 @@ L'Église propose tous ses contenus en ligne :
 ### Suivre un cours de théologie
 
 * Découvrez St Thomas d'Aquin avec [Aquinas 101](https://aquinas101.thomisticinstitute.org/) proposé par le Thomistic Institute.
+* Profitez d'un des nombreux contenus proposés par [Word on Fire](https://www.wordonfire.org/), un projet de Mgr Barron.
 
 ### Écouter un podcasts (en anglais)
 
 * Bishop Barron, [The Word on Fire Show](https://www.wordonfireshow.com/)
 * Matt Fradd, [Pints with Aquinas](https://pintswithaquinas.com/)
+
+![](./b-barron.png)
 
 ## ⛑ Donner
 
