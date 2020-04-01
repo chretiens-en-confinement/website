@@ -42,6 +42,7 @@ Pour mieux célébrer le dimanche :
 * Magnificat est disponible gratuitement en ligne pendant le confinement : [Prier avec Magnificat](https://francais.magnificat.net/prier)
 * L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
+* [Découvrir Dieu - pour rencontrer Dieu dans nos vies de tous les jours](https://decouvrir-dieu.com/) vous envoie un email tous les jours avec l’évangile, un commentaire pour vous aider à le méditer et un chant pour vous accompagner.
 
 ## 📖 Nourrir ma prière
 
@@ -162,6 +163,7 @@ L'Église propose tous ses contenus en ligne :
 * L'application [The Bible App for Kids (YouVersion)](https://www.youversion.com/the-bible-app-for-kids/) est disponible avec une narration en français ainsi que de nombreuses activités pour découvrir la bible.
 * En plus des coloriages et des activités, les éditions Mame proposent également des [ressources catéchèse et éveil à la foi à la maison](https://www.mameeditions.com/ressources-catechese-a-la-maison)
 * Le diocèse de Paris propose [un jardin de Pâques à fabriquer avec les enfants](https://www.paris.catholique.fr/un-jardin-de-paques-a-fabriquer-49223.html)
+* Le catéchisme de l'Emmanuel pour les enfants de 8 à 11 ans propose pour chaque thème : un chant, une œuvre d’art, une vidéo : [Catéchisme Emmanuel](https://catechisme-emmanuel.com/)
 
 ### Faire la catéchèse pour des ados
 
@@ -175,7 +177,6 @@ Le diocèse des Yvelines propose un accueil téléphonique anonyme sur [Family P
 ## Autres pages de conseils
 
 * Suivez les conseils de spécialistes pluri-centenaires du confinement ! [Rester cloîtré… des spécialistes vous donnent leurs conseils](https://www.dieumattend.fr/rester-cloitre-conseils-de-specialistes/?fbclid=IwAR2xE4fY8mCoErDK_ixts9xCUkDy0vtvD8Nn1932dMSHexESz_S0vXHmw5Q)
-
 
 # À propos
 
