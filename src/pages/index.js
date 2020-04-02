@@ -12,7 +12,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Chrétiens en confinement : une liste collaborative pour vivre le confinement autrement !" />
       <h1>
-        Les meilleurs ressources du web pour vivre le confinement chrétiennement
+        Les meilleures ressources du web pour vivre le confinement chrétiennement
         !
       </h1>
 
