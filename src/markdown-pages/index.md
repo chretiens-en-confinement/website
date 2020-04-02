@@ -206,6 +206,6 @@ Le diocèse des Yvelines propose un accueil téléphonique anonyme sur [Family P
 
 Nous sommes un petit groupe de chrétiens confinés un peu partout en France, qui souhaitons vivre ce temps très particulier en continuant de répondre à notre appel : aimer chaque jour un peu plus Dieu et notre prochain. Internet permet de faire 1000 choses en restant chez soi. Aussi, nous nous efforçons de proposer, par cette liste, du contenu afin de continuer à faire grandir notre foi, notre espérance et notre charité, que nous soyons seul, en couple, en famille, ou en communauté.
 
-Les principaux contributeurs : Père Vincent Gaisne, Louis-Marie Gaisne, Etienne Dein, Charles-Axel Dein
+Les principaux contributeurs : Père Vincent Gaisne, Père Jean-Baptiste Siboulet, Louis-Marie Gaisne, Etienne Dein, Charles-Axel Dein
 
 ## Contribuer
