@@ -70,8 +70,16 @@ module.exports = {
     },
     `gatsby-transformer-yaml`,
     `gatsby-plugin-sitemap`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-build-date`,
+      options: {
+        formatAsDateString: true,
+        formatting: {
+          format: "dddd D MMMM YYYY à HH:mm",
+          utc: false,
+        },
+        locale: "fr",
+      },
+    },
   ],
 }

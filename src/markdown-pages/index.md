@@ -43,6 +43,7 @@ Pour mieux célébrer le dimanche :
 ## Spécial Semaine Sainte
 
 * Un Kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
+* Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
 
 ## 📖 Nourrir ma prière
 
