@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import ContributeMessage from "../components/ContributeMessage"
 
 const IndexPage = ({ data }) => {
   const { markdownRemark } = data
@@ -12,10 +13,9 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Chrétiens en confinement : une liste collaborative pour vivre le confinement autrement !" />
       <h1>
-        Les meilleures ressources du web pour vivre le confinement chrétiennement
-        !
+        Les meilleures ressources du web pour vivre le confinement
+        chrétiennement !
       </h1>
-
       <p>
         Grâce à cette liste, nous vous proposons de vivre le confinement en
         chrétien, c'est-à-dire de chercher à grandir dans notre foi, notre
@@ -28,14 +28,8 @@ const IndexPage = ({ data }) => {
         qualité.
       </p>
 
-      <p>
-        Cette liste est collaborative, n'hésitez pas à nous contacter pour
-        ajouter vos idées :{" "}
-        <a href="mailto:contact@chretiens-en-confinement.org">
-          contact@chretiens-en-confinement.org
-        </a>
-        .
-      </p>
+      <ContributeMessage />
+
       <div
         className="blog-post-content"
         dangerouslySetInnerHTML={{ __html: tableOfContents }}
@@ -44,6 +38,8 @@ const IndexPage = ({ data }) => {
         className="blog-post-content"
         dangerouslySetInnerHTML={{ __html: html }}
       />
+
+      <ContributeMessage />
     </Layout>
   )
 }
