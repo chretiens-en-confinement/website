@@ -166,6 +166,7 @@ L'Église propose tous ses contenus en ligne :
 ## Écouter de la musique avec mes enfants
 
 * Jean-François Kieffer, [Les chansons de Loupio](https://open.spotify.com/album/09MppnnTFAydHGZvPzsVoF?si=Tt6oCpoDQf6SW4FYQJvRiA)
+* [Soeur Agathe](https://open.spotify.com/artist/6yLJHGxVuHych1O7WsPRhJ?si=Yki27oVzQ5eeMsp7kULJBw)
 
 ## Jouer avec mes enfants (sans préparation)
 
