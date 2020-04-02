@@ -190,7 +190,8 @@ L'Église propose tous ses contenus en ligne :
 ## Faire grandir mon couple
 
 * Se former et s'exercer à la communication non violente (CNV). De nombreux contenus et articles sont disponibles sur Internet.
-* Acheter et jouer à la [La Boîte de Comm' du Couple](https://www.lesboitesdecomm.com/la-boite-de-comm-du-couple)
+* Jouer à la [La Boîte de Comm' du Couple](https://www.lesboitesdecomm.com/la-boite-de-comm-du-couple)
+* S'exercer tous les jours pour utiliser les trois mots qui ouvrent à une vie de famille réussie : [puis-je, merci, pardon](https://www.famillechretienne.fr/eglise/pape-et-vatican/pape-francois-trois-mots-pour-une-vie-familiale-heureuse-167312)
 
 # 👋 Être aidé
 
