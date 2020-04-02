@@ -28,7 +28,7 @@ Pour mieux célébrer le dimanche :
 
 ## Prier en famille
 
-* Commencer à réciter l'angélus, en union avec les chrétiens du monde entier, à 7h, 12h, et 19h. Chanter par exemple la version sur l'air de Greensleeves : [Voici que l'ange Gabriel](https://www.youtube.com/watch?v=nyYhhLzorb8).
+* Commencer à réciter l'angélus, en union avec les chrétiens du monde entier, à 7h, 12h, et 19h. Chanter par exemple la version sur l'air de Greensleeves : [Voici que l'ange Gabriel](https://www.youtube.com/watch?v=nyYhhLzorb8) (ou cette [autre version sur Spotify](https://open.spotify.com/track/2tXrBWRO8CnUJodCupH2Tp?si=ktlWI63kR2iPEbGjIDVChg)).
 * Le Service National de la Pastorale Liturgique et Sacramentelle propose une [liturgie familiale](https://liturgie.catholique.fr/accueil/annee-liturgique/le-dimanche/302749-liturgie-domestique-5eme-dimanche-de-careme-annee-a/)
 
 ## Prier seul
@@ -184,6 +184,8 @@ L'Église propose tous ses contenus en ligne :
 
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [Jésus Box - le parcours de carême](https://www.jesusbox.fr/le-parcours-de-careme)
+* Découvez les vidéos du [Parcours Alpha Jeunes](https://www.youtube.com/watch?v=_dLQ3wvF5wE&list=PLiVJ7ObStzQ3EbGJDgqMV7Sp-PEt1tw6E) (il existe une version sous-titrée et une version doublée en français).
+* Le site [Rencontrer Jésus](https://jesus.catholique.fr/) de l'église catholique en France propose des questions, des témoignages, des oeuvres d'art, etc.
 
 ## Faire grandir mon couple
 
