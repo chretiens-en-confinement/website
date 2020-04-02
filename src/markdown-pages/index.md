@@ -11,9 +11,9 @@ title: "Liste collaborative pour vivre le confinement autrement"
 ## Suivre la messe
 
 * Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
+* Retrouvez également une liste probablement exhaustive des messes sur Internet grâce à [messes en direct](https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296)
 * Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
-* La messe de la communauté de l'Emmanuel en direct, à 12h en semaine et 11h le
-  dimanche est sur [Emmanuel Play](https://play.emmanuel.info/)
+* La messe de la communauté de l'Emmanuel en direct, à 12h en semaine et 11h le dimanche est sur [Emmanuel Play](https://play.emmanuel.info/)
 
 Pour mieux célébrer le dimanche :
 
@@ -194,7 +194,8 @@ L'Église propose tous ses contenus en ligne :
 
 # 👋 Être aidé
 
-Le diocèse des Yvelines propose un accueil téléphonique anonyme sur [Family PHONE](https://familyphone.fr/)
+* Le diocèse des Yvelines propose un accueil téléphonique anonyme sur [Family PHONE](https://familyphone.fr/)
+* L'Église de France a mis en place un [une cellule d'écoute](https://www.vaticannews.va/fr/eglise/news/2020-04/france-eglise-coronavirus-ecoute.html?fbclid=IwAR0c6ENFqSFXf1YSY6iPqioGz7U62kMA8eumTx-2xbtp1o7Z5wk-DAxXtHQ) : <a href="tel:0806700772">0806 700 772</a>.
 
 # Autres pages de conseils
 
