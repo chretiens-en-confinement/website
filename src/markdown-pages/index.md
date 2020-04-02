@@ -40,6 +40,10 @@ Pour mieux célébrer le dimanche :
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
 * [Découvrir Dieu - pour rencontrer Dieu dans nos vies de tous les jours](https://decouvrir-dieu.com/) vous envoie un email tous les jours avec l’évangile, un commentaire pour vous aider à le méditer et un chant pour vous accompagner.
 
+## Spécial Semaine Sainte
+
+* Un Kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
+
 ## 📖 Nourrir ma prière
 
 En commençant par lire la Bible, bien sûr :
