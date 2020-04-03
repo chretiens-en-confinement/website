@@ -10,41 +10,42 @@ import ContributeMessage from "../components/ContributeMessage"
 const WEEKDAYS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"]
 
 const Masses = ({ masses }) => {
+  return masses.map(m => {
+    return (
+      <tr>
+        <td>{m.nom}</td>
+        <td>{m.dimanche}</td>
+        <td>
+          {join(", ")(
+            WEEKDAYS.reduce((acc, current) => {
+              if (!m[current]) {
+                return acc
+              }
+              return [...acc, `${current} ${m[current]}`]
+            }, [])
+          )}
+        </td>
+        <td>
+          {m.youtube && <a href={m.youtube}>Youtube</a>}&nbsp;
+          {m.facebook && <a href={m.facebook}>Facebook</a>}
+        </td>
+      </tr>
+    )
+  })
+}
+
+const RowHeader = () => {
   return (
-    <table class="table">
-      <thead>
-        <tr>
-          <th scope="col">Nom</th>
-          <th scope="col">Dimanche</th>
-          <th scope="col">Semaine</th>
-          <th scope="col">Lien</th>
-        </tr>
-      </thead>
-      <tbody>
-        {masses.map(m => {
-          return (
-            <tr>
-              <td>{m.nom}</td>
-              <td>{m.dimanche}</td>
-              <td>
-                {join(", ")(
-                  WEEKDAYS.reduce((acc, current) => {
-                    if (!m[current]) {
-                      return acc
-                    }
-                    return [...acc, `${current} ${m[current]}`]
-                  }, [])
-                )}
-              </td>
-              <td>
-                {m.youtube && <a href={m.youtube}>Youtube</a>}&nbsp;
-                {m.facebook && <a href={m.facebook}>Facebook</a>}
-              </td>
-            </tr>
-          )
-        })}
-      </tbody>
-    </table>
+    <thead>
+      <tr>
+        <th scope="col" width="30%">
+          Nom
+        </th>
+        <th scope="col">Dimanche</th>
+        <th scope="col">Semaine</th>
+        <th scope="col">Lien</th>
+      </tr>
+    </thead>
   )
 }
 
@@ -62,14 +63,25 @@ const IndexPage = ({ data }) => {
       </p>
       <ContributeMessage />
       <h2>Messes</h2>
-      {Object.entries(groupBy("diocese")(messes)).map(([diocese, masses]) => {
-        return (
-          <>
-            <h3>Diocèse de {diocese}</h3>
-            <Masses masses={masses} />
-          </>
-        )
-      })}
+      <table class="table">
+        <RowHeader />
+        <tbody>
+          {Object.entries(groupBy("diocese")(messes)).map(
+            ([diocese, masses]) => {
+              return (
+                <>
+                  <tr>
+                    <td colspan="4">
+                      <h3>Diocèse de {diocese}</h3>
+                    </td>
+                  </tr>
+                  <Masses masses={masses} />
+                </>
+              )
+            }
+          )}
+        </tbody>
+      </table>
     </Layout>
   )
 }
