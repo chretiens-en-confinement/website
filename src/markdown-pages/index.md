@@ -72,6 +72,7 @@ Deux podcasts pour écouter l'Évangile avec ses commentaires :
 L'Église propose tous ses contenus en ligne :
 
 * [Encycliques du Pape François](http://www.vatican.va/content/francesco/fr/encyclicals.index.html)
+  * Vous pouvez commencer par [Laudato si'](http://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
 * [Exhortations Apostoliques du Pape François](http://www.vatican.va/content/francesco/fr/apost_exhortations.index.html)
 * [Homélies 2020 du Pape François](http://www.vatican.va/content/francesco/fr/homilies/2020.index.html#homilies)
 * [Catéchisme de l'Église Catholique](http://www.vatican.va/archive/FRA0013/_INDEX.HTM)
@@ -91,6 +92,7 @@ L'Église propose tous ses contenus en ligne :
 * [Pourquoi, Padre ?](https://www.ktotv.com/emissions/pourquoi-padre) sur KTOTV répond à des questions du grand public de façon claire et précise.
 * La chaîne [Padreblog](https://www.youtube.com/channel/UCRSBl51vh5qVSn3rDXFiitQ) propose de nombreux contenus d'actualités.
 * La communauté de l'Emmanuel propose une webtv « [Emmanuel Play - La WebTV qui diffuse la joie de Dieu](https://play.emmanuel.info/) » et a notamment lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
+* Consultez les différentes proposition de RCF dans la rubrique [Fondamentaux de la foi, Actualités religieuses](https://rcf.fr/spiritualite/fondamentaux-de-la-foi)
 
 ## 🇬🇧 Me former (en anglais)
 
@@ -138,6 +140,7 @@ L'Église propose tous ses contenus en ligne :
 
 * Une sélection de films chrétiens pour tous les âges, en streaming et VOD : [Le Film Chrétien](https://www.lefilmchretien.fr)
 * Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/propositions-danimation/294787-propositions-danimation-a-partir-de-films/)
+* Aleteia propose une sélection de film à regarder pendant le confinement : [Douze films à (re)voir pendant la période de confinement](https://fr.aleteia.org/2020/03/30/les-douze-films-a-revoir-pendant-la-periode-de-confinement/)
 
 ## S'alimenter différemment
 
@@ -173,6 +176,10 @@ L'Église propose tous ses contenus en ligne :
 
 * [Zou les Boulons](https://www.librairie-emmanuel.fr/zou-les-boulons-jeu-collaboratif-pour-resserrer-les-boulons-de-la-famille-p-145150) (disponible chez plusieurs marchands en ligne, dont la Librairie de l'Emmanuel)
 
+## Occuper ses ados
+
+* Aleteia propose de bonnes idées dans cet article : [Vous êtes scout et confiné ? Dix activités à faire pour ne pas perdre la main (et la tête)](https://fr.aleteia.org/2020/03/27/vous-etes-scout-et-confine-dix-activites-a-faire-pour-ne-pas-perdre-la-main-et-la-tete/)
+* [Les règles à se fixer quand le temps d’écran de la famille explose](https://fr.aleteia.org/2020/04/01/les-regles-a-se-fixer-quand-le-temps-decran-de-la-famille-explose/) (toujours chez Aleteia)
 
 ## Faire la catéchèse pour des enfants
 
@@ -203,6 +210,8 @@ L'Église propose tous ses contenus en ligne :
 # Autres pages de conseils
 
 * Suivez les conseils de spécialistes pluri-centenaires du confinement ! [Rester cloîtré… des spécialistes vous donnent leurs conseils](https://www.dieumattend.fr/rester-cloitre-conseils-de-specialistes/?fbclid=IwAR2xE4fY8mCoErDK_ixts9xCUkDy0vtvD8Nn1932dMSHexESz_S0vXHmw5Q)
+* Aleteia propose un [Kit de survie spirituelle pour son Carême à la maison](https://fr.aleteia.org/coronavirus-vivre-careme-dimanche-semaine-sainte-priere-paques-maison/)
+* [Confinement : 25 activités que les chrétiens peuvent faire chez eux !](https://chretienslifestyle.com/confinement-activites-pour-chretiens/) (Chrétiens lifestyle)
 
 # À propos
 
