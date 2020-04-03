@@ -53,6 +53,7 @@ En commençant par lire la Bible, bien sûr :
 * Des apps permettent également d'y accéder, dont [The Bible App (YouVersion)](https://www.youversion.com/the-bible-app/)
   (installée plus de 415 M de fois, elle propose de nombreuses traductions en
   français, des plans de lectures, etc.)
+* [Open Bible](https://hozana.org/communaute/8664-open-bible-lire-comprendre-et-vivre-la-parole-de-dieu) vous propose de prendre 10 min par jour pour (re)découvrir l'évangile de Jésus-Christ selon saint Matthieu.
 
 ![](./bible-app.png)
 
