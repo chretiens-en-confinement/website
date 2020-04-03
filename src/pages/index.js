@@ -16,6 +16,7 @@ const IndexPage = ({ data }) => {
         Les meilleures ressources du web pour vivre le confinement
         chrétiennement !
       </h1>
+
       <p>
         Grâce à cette liste, nous vous proposons de vivre le confinement en
         chrétien, c'est-à-dire de chercher à grandir dans notre foi, notre
@@ -27,6 +28,12 @@ const IndexPage = ({ data }) => {
         exhaustif mais de vous proposer uniquement des contenus de grande
         qualité. Elle est mise à jour en permanence, sa dernière mise à jour a
         eu lieu le {currentBuildDate.currentDate}.
+      </p>
+
+      <p>
+        Déjà consultée par près de 1 500 personnes, cette liste est faite pour
+        être partagée avec votre famille, vos proches, vos paroisses et vos
+        diocèses !
       </p>
 
       <ContributeMessage />
