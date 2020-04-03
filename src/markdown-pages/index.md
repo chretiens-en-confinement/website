@@ -115,6 +115,7 @@ L'Église propose tous ses contenus en ligne :
 * [La Quête](https://jedonnealeglise.fr/) Donner à la quête en ligne
 * [CredoFunding, plateforme de financement participatif chrétien](https://www.credofunding.fr/fr)
 * [Plate-forme nationale d’offrande de quête en ligne- CEF](https://donner.catholique.fr/quete/~mon-don?_cv=1)
+* [offrande-messe.org](https://offrande-messe.org/) Faire dire des messes pour les âmes du purgatoire et les défunts en particulier.
 
 ## Donner de mon temps
 
