@@ -132,6 +132,19 @@ L'Église propose tous ses contenus en ligne :
 
 # 🏖 Me distraire
 
+
+## Respirer... en beauté !
+
+> « La beauté sauvera le monde » F. Dostoïevski
+
+> « Le monde a besoin de beauté pour ne pas sombrer dans la désespérance » Paul VI
+
+Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d’opéra, pour laisser notre esprit respirer… en beauté ! Une sélection de propositions, rendues gratuites pendant ce confinement :
+
+*	Voyager avec les plus [grands ballets du Bolchoï](https://www.youtube.com/user/bolshoi) de Moscou !
+* Laisser la musique s’inviter chez nous, avec la [Philarmonie de Paris](https://philharmoniedeparis.fr/fr/la-philharmonie-s-invite-chez-vous)
+* Rejoindre le [violoniste Renaud Capuçon](https://www.facebook.com/RenaudCapucon/) chez lui, pour un inédit quotidien
+
 ## Faire un tour au musée
 
 * [PRIXM](https://www.prixm.org/) dévoile les Écritures et les chefs-d'œuvre qu'elles ont inspirés. Le projet est porté par l’École biblique et archéologique française de Jérusalem
