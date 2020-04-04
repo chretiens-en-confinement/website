@@ -84,7 +84,7 @@ L'Église propose tous ses contenus en ligne :
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [iAquinas](https://www.youtube.com/channel/UCxZHuVgmRJpuwEYMiX0QYtQ/videos) (Petites vidéos à l'école de saint Thomas d'Aquin)
 * [SINOD](https://sinod.fr/) recense les MOOC proposés par le Collège des Bernardins.
-* Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=). Vous pouvez par exemple commencer par [Les Évangiles de la Passion](https://soundcloud.com/college-des-bernardins/sets/les-evangiles-de-la-passion) par le Père Jean-Philippe Fabre.
+* Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=). Vous pouvez par exemple commencer par [Les Évangiles de la Passion](https://soundcloud.com/college-des-bernardins/sets/les-evangiles-de-la-passion) et [Les Évangiles de la Résurrection](https://soundcloud.com/college-des-bernardins/sets/les-evangiles-de-la)  par le Père Jean-Philippe Fabre.
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
 * Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV
 
