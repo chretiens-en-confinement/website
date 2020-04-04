@@ -142,7 +142,12 @@ L'Église propose tous ses contenus en ligne :
 
 Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d’opéra, pour laisser notre esprit respirer… en beauté ! Une sélection de propositions, rendues gratuites pendant ce confinement :
 
-*	Voyager avec les plus [grands ballets du Bolchoï](https://www.youtube.com/user/bolshoi) de Moscou !
+* Renouer avec le chant grégorien, ici dans la tradition [dominicaine](https://www.youtube.com/channel/UCR4myAMEoTjCu2WVBcuXKSg)
+* De Jean-Sébastien Bach, la [Passion selon saint Jean](https://www.youtube.com/watch?v=sidU7AUqQUk) et la [Passion selon saint Matthieu](https://www.youtube.com/watch?v=3v-u2Nkg7mk	)
+* De Marc-Antoine Charpentier, les [Leçons de Ténèbres](https://www.youtube.com/playlist?list=OLAK5uy_knRr_CdXwU2ENdigiluqV5mSey5rHfVZw)
+* Les [Lamentations de Jérémie](https://youtu.be/MF3IUM2V-ss) de Zelenka
+* Le Boléro de Ravel en [télétravail](https://www.youtube.com/watch?v=Sj4pE_bgRQI) !
+* Voyager avec les plus [grands ballets du Bolchoï](https://www.youtube.com/user/bolshoi) de Moscou !
 * Laisser la musique s’inviter chez nous, avec la [Philarmonie de Paris](https://philharmoniedeparis.fr/fr/la-philharmonie-s-invite-chez-vous)
 * Rejoindre le [violoniste Renaud Capuçon](https://www.facebook.com/RenaudCapucon/) chez lui, pour un inédit quotidien
 
