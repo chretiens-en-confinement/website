@@ -10,15 +10,17 @@ title: "Liste collaborative pour vivre le confinement autrement"
 
 ## Suivre la messe
 
-La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très grande portée. Nous vous proposons une liste exhaustive ici : [messes catholiques en direct](/messes-catholiques-en-direct)
+La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très grande portée. Nous vous proposons une liste a priori exhaustive ici : [messes catholiques en direct](/messes-catholiques-en-direct)
 
-* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
+* Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto)
+* Consultez le programme spécial de KTO : [Le temps du confinement, programmation spéciale sur KTO](https://www.ktotv.com/page/le-temps-du-confinement-programmation-speciale-sur-kto)
 
 Pour mieux célébrer le dimanche :
 
 * Vous pouvez regarder la vidéo [Vivre la messe en famille pendant le confinement](https://www.youtube.com/watch?v=RpszGrDJ6lI&feature=youtu.be) qui propose des conseils très pratiques.
 * Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
-* [prierenfamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
+* [PrierEnFamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
+* La bibliste Marie-Noëlle Thabut commente les évangiles de chaque dimanche sur KTO : [En marche vers dimanche](https://www.ktotv.com/emissions/en-marche-vers-dimanche)
 
 ## Participer à un groupe de prière
 
@@ -41,7 +43,7 @@ Pour mieux célébrer le dimanche :
 
 ## Spécial Semaine Sainte
 
-* Un Kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
+* Un kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
 * Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
 
 ## 📖 Nourrir ma prière
@@ -79,11 +81,10 @@ L'Église propose tous ses contenus en ligne :
 
 ## Suivre un cours de théologie
 
-* Institut Docteur Angélique, [Cours de théologie catholique](http://docteurangelique.free.fr/cours.html)
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [iAquinas](https://www.youtube.com/channel/UCxZHuVgmRJpuwEYMiX0QYtQ/videos) (Petites vidéos à l'école de saint Thomas d'Aquin)
 * [SINOD](https://sinod.fr/) recense les MOOC proposés par le Collège des Bernardins.
-* Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=)
+* Toutes les formations du Collège des Bernardins sont disponibles [en ligne](https://www.collegedesbernardins.fr/archives?page=0&mode=n&keys=1061&s=&f=&y=). Vous pouvez par exemple commencer par [Les Évangiles de la Passion](https://soundcloud.com/college-des-bernardins/sets/les-evangiles-de-la-passion) par le Père Jean-Philippe Fabre.
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
 * Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV
 
