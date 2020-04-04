@@ -10,8 +10,8 @@ title: "Liste collaborative pour vivre le confinement autrement"
 
 ## Suivre la messe
 
-* Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
-* Retrouvez également une liste probablement exhaustive des messes sur Internet grâce à [messes en direct](https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296)
+La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très grande portée. Nous vous proposons une liste exhaustive ici : [messes catholiques en direct](/messes-catholiques-en-direct)
+
 * Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
 
 Pour mieux célébrer le dimanche :

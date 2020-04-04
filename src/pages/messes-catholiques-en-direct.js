@@ -57,12 +57,37 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Messes et offices" />
       <h1>Messes et offices en ligne</h1>
+      <ContributeMessage />
+      <h2>Autres listes</h2>
+      <p>Vous trouverez d'autres listes ici :</p>
+      <ul>
+        <li>
+          Voir la liste sur KTO :{" "}
+          <a href="https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video">
+            Où suivre la messe en direct sur Internet ?
+          </a>
+          .
+        </li>
+        <li>
+          Retrouvez également une liste probablement exhaustive des messes sur
+          Internet grâce au groupe Facebook{" "}
+          <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
+            Messes en direct
+          </a>
+        </li>{" "}
+      </ul>
+      <h2>Messes</h2>
       <p>
-        Nous remercions tout particulièrement le groupe « Messes en direct »
+        ⚠️ Cette liste est en construction. Nous travaillons avec le groupe
+        messes en direct pour l'améliorer. ⚠️
+      </p>
+      <p>
+        Nous remercions tout particulièrement le groupe{" "}
+        <a href="https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296">
+          Messes en direct
+        </a>
         pour la mise à disposition des horaires des messes.
       </p>
-      <ContributeMessage />
-      <h2>Messes</h2>
       <table class="table">
         <RowHeader />
         <tbody>
