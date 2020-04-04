@@ -13,7 +13,6 @@ title: "Liste collaborative pour vivre le confinement autrement"
 * Voir la liste sur KTO : [Où suivre la messe en direct sur Internet ?](https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video)
 * Retrouvez également une liste probablement exhaustive des messes sur Internet grâce à [messes en direct](https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296)
 * Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
-* La messe de la communauté de l'Emmanuel en direct, à 12h en semaine et 11h le dimanche est sur [Emmanuel Play](https://play.emmanuel.info/)
 
 Pour mieux célébrer le dimanche :
 
