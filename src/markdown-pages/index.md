@@ -14,6 +14,7 @@ title: "Liste collaborative pour vivre le confinement autrement"
 * Retrouvez également une liste probablement exhaustive des messes sur Internet grâce à [messes en direct](https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296)
 * Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto) - YouTube
 * La messe de la communauté de l'Emmanuel en direct, à 12h en semaine et 11h le dimanche est sur [Emmanuel Play](https://play.emmanuel.info/)
+* La messe en forme extraordinaire le dimanche à 10h (et désormais le matin en semaine vers 6-7h) à la Chapelle ND de Fatima (ICRSP). Diffusion en direct et rediffusion sur [Facebook](https://www.facebook.com/pg/Ecole-Notre-Dame-de-Fatima-593672170669609/videos/)
 
 Pour mieux célébrer le dimanche :
 
@@ -30,6 +31,7 @@ Pour mieux célébrer le dimanche :
 
 * Commencer à réciter l'angélus, en union avec les chrétiens du monde entier, à 7h, 12h, et 19h. Chanter par exemple la version sur l'air de Greensleeves : [Voici que l'ange Gabriel](https://www.youtube.com/watch?v=nyYhhLzorb8) (ou cette [autre version sur Spotify](https://open.spotify.com/track/2tXrBWRO8CnUJodCupH2Tp?si=ktlWI63kR2iPEbGjIDVChg)).
 * Le Service National de la Pastorale Liturgique et Sacramentelle propose une [liturgie familiale](https://liturgie.catholique.fr/accueil/annee-liturgique/le-dimanche/302749-liturgie-domestique-5eme-dimanche-de-careme-annee-a/)
+* [Évangile pour les enfants](https://www.youtube.com/channel/UCg41bbACemv0i--Tv6ZtuUA/videos), tous les matins, par le Chanoine Pinoteau (ICRSP). Quelques minutes pour bien commencer la journée, et aussi quelques topos plus complets pour les parents. Il est possible de s'inscrire sur le [Groupe WhatsApp](https://chat.whatsapp.com/LevLvBdkfKrHZp4qUvmk1x) pour recevoir les notifications.
 
 ## Prier seul
 
