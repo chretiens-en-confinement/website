@@ -26,7 +26,20 @@ const ContributePage = () => {
       <h1>Comment contribuer ?</h1>
       <h2>Pour ajouter une messe</h2>
       <p>
-        <strong>Notre solution préférée</strong> : sur notre Github <Github />.
+        <strong>Notre solution préférée</strong> : nous travaillons avec le
+        groupe Messes en direct. Consultez leur compte Facebook pour la marche à
+        suivre :{" "}
+        <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
+          Messe en direct
+        </a>
+        .
+      </p>
+      <p>
+        Autre solution : allez sur notre Github <Github />.
+      </p>
+      <p>
+        Autre solution : par email sur <Email />. Nous recevons de nombreuses
+        demandes et serons un peu plus lent à vous répondre.{" "}
       </p>
       <h2>Pour ajouter un contenu</h2>
       <p>

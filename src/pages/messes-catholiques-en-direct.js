@@ -79,7 +79,7 @@ const IndexPage = ({ data }) => {
       <h2>Messes</h2>
       <p>
         ⚠️ Cette liste est en construction. Nous travaillons avec le groupe
-        messes en direct pour l'améliorer. ⚠️
+        messes en direct pour l'améliorer et faciliter l'ajout de messes. ⚠️
       </p>
       <p>
         Nous remercions tout particulièrement le groupe{" "}
