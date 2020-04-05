@@ -19,7 +19,7 @@ const Masses = ({ masses }) => {
           {m.communaute && (
             <>
               <br />
-              {m.communaute}
+              <em>{m.communaute}</em>
             </>
           )}
         </td>
@@ -75,21 +75,19 @@ const IndexPage = ({ data }) => {
       <p>Vous trouverez d'autres listes ici :</p>
       <ul>
         <li>
-          Voir la liste sur KTO :{" "}
+          KTO :{" "}
           <a href="https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video">
             Où suivre la messe en direct sur Internet ?
           </a>
           .
         </li>
         <li>
-          Voir la liste sur{" "}
           <a href="http://bougetoneglise.fr/recherche/live/">
             Bouge ton Église
           </a>
         </li>
         <li>
-          Retrouvez également une liste probablement exhaustive des messes sur
-          Internet grâce au groupe Facebook{" "}
+          Groupe Facebook{" "}
           <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
             Messes en direct
           </a>
@@ -104,7 +102,7 @@ const IndexPage = ({ data }) => {
         Nous remercions tout particulièrement le groupe{" "}
         <a href="https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296">
           Messes en direct
-        </a>
+        </a>{" "}
         pour la mise à disposition des horaires des messes.
       </p>
       <table class="table">
