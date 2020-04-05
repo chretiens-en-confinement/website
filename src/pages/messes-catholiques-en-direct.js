@@ -82,6 +82,12 @@ const IndexPage = ({ data }) => {
           .
         </li>
         <li>
+          Voir la liste sur{" "}
+          <a href="http://bougetoneglise.fr/recherche/live/">
+            Bouge ton Église
+          </a>
+        </li>
+        <li>
           Retrouvez également une liste probablement exhaustive des messes sur
           Internet grâce au groupe Facebook{" "}
           <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
