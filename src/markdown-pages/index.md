@@ -19,10 +19,11 @@ La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très
 
 * Avec le Pape chaque matin à 7h : [c'est ici - avec une rediffusion pour ceux qui dorment encore à 7h](https://www.ktotv.com/page/coronavirus-la-messe-du-pape-chaque-matin-a-7h-en-direct-sur-kto)
 * Consultez le programme spécial de KTO : [Le temps du confinement, programmation spéciale sur KTO](https://www.ktotv.com/page/le-temps-du-confinement-programmation-speciale-sur-kto)
+* Tous les dimanches sur France 2 à 11h : [Le Jour du Seigneur, les détails ici](https://www.lejourduseigneur.com/)
 
 Pour mieux célébrer le dimanche :
 
-* Vous pouvez regarder la vidéo [Vivre la messe en famille pendant le confinement](https://www.youtube.com/watch?v=RpszGrDJ6lI&feature=youtu.be) qui propose des conseils très pratiques.
+* Vous pouvez regarder la vidéo [Vivre la messe en famille pendant le confinement](https://www.youtube.com/watch?v=RpszGrDJ6lI&feature=youtu.be) qui propose des conseils très pratiques
 * La bibliste Marie-Noëlle Thabut commente les évangiles de chaque dimanche sur KTO : [En marche vers dimanche](https://www.ktotv.com/emissions/en-marche-vers-dimanche)
 
 ## Suivre la messe avec de jeunes enfants
