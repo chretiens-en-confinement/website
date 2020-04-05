@@ -18,9 +18,12 @@ La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très
 Pour mieux célébrer le dimanche :
 
 * Vous pouvez regarder la vidéo [Vivre la messe en famille pendant le confinement](https://www.youtube.com/watch?v=RpszGrDJ6lI&feature=youtu.be) qui propose des conseils très pratiques.
+* La bibliste Marie-Noëlle Thabut commente les évangiles de chaque dimanche sur KTO : [En marche vers dimanche](https://www.ktotv.com/emissions/en-marche-vers-dimanche)
+
+## Suivre la messe avec de jeunes enfants
+
 * Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
 * [PrierEnFamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
-* La bibliste Marie-Noëlle Thabut commente les évangiles de chaque dimanche sur KTO : [En marche vers dimanche](https://www.ktotv.com/emissions/en-marche-vers-dimanche)
 
 ## Participer à un groupe de prière
 
