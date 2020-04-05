@@ -67,6 +67,10 @@ const IndexPage = ({ data }) => {
       <SEO title="Messes et offices" />
       <h1>Messes et offices en ligne</h1>
       <ContributeMessage />
+      <h2>Bien suivre la messe</h2>
+      <p>
+        <a href="/">Consultez notre liste collaborative.</a>
+      </p>
       <h2>Autres listes</h2>
       <p>Vous trouverez d'autres listes ici :</p>
       <ul>
