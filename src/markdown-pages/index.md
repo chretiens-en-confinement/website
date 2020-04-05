@@ -8,6 +8,11 @@ title: "Liste collaborative pour vivre le confinement autrement"
 
 # 🙏 Prier
 
+## Spécial Semaine Sainte
+
+* Un kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
+* Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
+
 ## Suivre la messe
 
 La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très grande portée. Nous vous proposons une liste a priori exhaustive ici : [messes catholiques en direct](/messes-catholiques-en-direct)
@@ -24,6 +29,10 @@ Pour mieux célébrer le dimanche :
 
 * Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
 * [PrierEnFamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
+
+## Prier pour un proche en train de mourir
+
+* Le sanctuaire Notre-Dame de Montligeon propose de vous accompagner à vivre ce temps, malgré la distance : [Un proche est en train de mourir et je ne suis pas là…](https://montligeon.org/un-proche-est-en-train-de-mourir-et-je-ne-suis-pas-la/)
 
 ## Participer à un groupe de prière
 
@@ -42,12 +51,8 @@ Pour mieux célébrer le dimanche :
 * Magnificat est disponible gratuitement en ligne pendant le confinement : [Prier avec Magnificat](https://francais.magnificat.net/prier)
 * L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
-* [Découvrir Dieu - pour rencontrer Dieu dans nos vies de tous les jours](https://decouvrir-dieu.com/) vous envoie un email tous les jours avec l’évangile, un commentaire pour vous aider à le méditer et un chant pour vous accompagner.
+* [Découvrir Dieu - pour rencontrer Dieu dans nos vies de tous les jours](https://decouvrir-dieu.com/) vous envoie un email tous les jours avec l’évangile, un commentaire pour vous aider à le méditer et un chant pour vous accompagner
 
-## Spécial Semaine Sainte
-
-* Un kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
-* Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
 
 ## 📖 Nourrir ma prière
 
