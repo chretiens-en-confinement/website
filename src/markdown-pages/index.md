@@ -54,7 +54,6 @@ Pour mieux célébrer le dimanche :
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
 * [Découvrir Dieu - pour rencontrer Dieu dans nos vies de tous les jours](https://decouvrir-dieu.com/) vous envoie un email tous les jours avec l’évangile, un commentaire pour vous aider à le méditer et un chant pour vous accompagner
 
-
 ## 📖 Nourrir ma prière
 
 En commençant par lire la Bible, bien sûr :
@@ -70,6 +69,7 @@ En commençant par lire la Bible, bien sûr :
 Propositions plus spécifiques :
 
 * Suivez les conférences de Carême proposée par le diocèse de Paris : [Conférences 2020 - Diocèse de Paris](https://www.paris.catholique.fr/-conferences-2020-.html)
+* Participer à la retraite de [Carême dans la ville](https://careme.retraitedanslaville.org/)
 
 Deux podcasts pour écouter l'Évangile avec ses commentaires :
 
