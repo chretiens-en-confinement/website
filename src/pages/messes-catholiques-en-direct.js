@@ -2,6 +2,7 @@ import * as React from "react"
 import { graphql } from "gatsby"
 import groupBy from "lodash/fp/groupBy"
 import join from "lodash/fp/join"
+import sortBy from "lodash/fp/sortBy"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -10,10 +11,18 @@ import ContributeMessage from "../components/ContributeMessage"
 const WEEKDAYS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"]
 
 const Masses = ({ masses }) => {
-  return masses.map(m => {
+  return sortBy("nom")(masses).map(m => {
     return (
       <tr>
-        <td>{m.nom}</td>
+        <td>
+          {m.nom}
+          {m.communaute && (
+            <>
+              <br />
+              {m.communaute}
+            </>
+          )}
+        </td>
         <td>{m.dimanche}</td>
         <td>
           {join(", ")(
@@ -91,20 +100,20 @@ const IndexPage = ({ data }) => {
       <table class="table">
         <RowHeader />
         <tbody>
-          {Object.entries(groupBy("diocese")(messes)).map(
-            ([diocese, masses]) => {
-              return (
-                <>
-                  <tr>
+          {Object.entries(groupBy("groupe")(messes)).map(([groupe, masses]) => {
+            return (
+              <>
+                <tr>
+                  {!!groupe && (
                     <td colspan="4">
-                      <h3>Diocèse de {diocese}</h3>
+                      <h3>{groupe}</h3>
                     </td>
-                  </tr>
-                  <Masses masses={masses} />
-                </>
-              )
-            }
-          )}
+                  )}
+                </tr>
+                <Masses masses={masses} />
+              </>
+            )
+          })}
         </tbody>
       </table>
     </Layout>
@@ -118,8 +127,9 @@ export const pageQuery = graphql`
     allDataYaml {
       nodes {
         messes {
-          diocese
+          groupe
           nom
+          communaute
           lundi
           mardi
           mercredi

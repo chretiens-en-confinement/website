@@ -6,7 +6,8 @@ from typing import TextIO, Union, Any, Dict
 from yaml import dump
 
 KEYS = {
-    "Diocèse": "diocese",
+    "Groupe": "groupe",
+    "Communauté": "communaute",
     "Nom": "nom",
     "Youtube": "youtube",
     "Facebook": "facebook",
@@ -22,7 +23,7 @@ KEYS = {
 
 def transform(mass: Dict[str, Any]) -> Union[None, Dict[str, str]]:
     mass = {k.lower(): v for k, v in mass.items()}
-    if not mass.get("diocèse"):
+    if "groupe" not in mass or not mass.get("nom"):
         return None
 
     return {new_key: mass[k.lower()] for k, new_key in KEYS.items()}

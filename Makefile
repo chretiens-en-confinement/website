@@ -8,5 +8,5 @@ MAKEFLAGS += --no-builtin-rules
 develop:
 	npm start
 
-src/data/messes-en-direct.yaml: src/data/messes-en-direct.csv
+src/data/messes-en-direct.yaml: src/data/messes-en-direct.csv scripts/csv2yaml.py
 	python3 scripts/csv2yaml.py $< $@

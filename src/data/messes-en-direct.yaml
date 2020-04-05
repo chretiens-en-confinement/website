@@ -1,7 +1,164 @@
 messes:
-- dimanche: ''
-  diocese: Amiens
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: ''
+  jeudi: ''
+  lundi: plusieurs messes quotidiennes, voir le site
+  mardi: ''
+  mercredi: ''
+  nom: "Communaut\xE9 de l'Emmanuel"
+  samedi: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/v4ee6cd
+- communaute: ''
+  dimanche: 11h
+  facebook: https://tinyurl.com/s479dr6
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "S\xE9minaire de la communaut\xE9 Saint Martin"
+  samedi: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 11h et 18h
+  facebook: https://bit.ly/3dlyV5a
+  groupe: ''
+  jeudi: 18h
+  lundi: 18h
+  mardi: 18h
+  mercredi: 18h
+  nom: Regnum Christi/Ecyd France
+  samedi: 18h
+  vendredi: 18h
+  youtube: https://bit.ly/2UmTbe6
+- communaute: Franciscains
+  dimanche: 10h30
+  facebook: https://tinyurl.com/vxq8nx6
+  groupe: "Belgique - Dioc\xE8se de Bruxelles"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: Couvent St Antoine
+  samedi: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/w8cgjpe
+- communaute: ''
+  dimanche: 10h
+  facebook: ''
+  groupe: "Suisse - Dioc\xE8se de Sion"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: Secteur Aigle
+  samedi: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/ro63soe
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://tinyurl.com/t84z52s
+  groupe: "Dioc\xE8se aux Arm\xE9es"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Aum\xF4nerie Militaire de Nouvelle Cal\xE9donie - Wallis et Futuna"
+  samedi: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: ''
+  facebook: Adoration et intercesssion pour le monde 9h30-21h
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Monast\xE8re de la Consolation"
+  samedi: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/yx56nc4b
+- communaute: ''
+  dimanche: 10h
+  facebook: https://tinyurl.com/txc7bfk
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Serviteurs de J\xE9sus et de Marie"
+  samedi: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://tinyurl.com/up25eg2
+  groupe: ''
+  jeudi: 11h
+  lundi: 11h
+  mardi: 11h
+  mercredi: 11h
+  nom: "Prieur\xE9 de la Cotellerie"
+  samedi: 11h
+  vendredi: 11h
+  youtube: ''
+- communaute: ''
+  dimanche: 11h
+  facebook: https://tinyurl.com/vady8p6
+  groupe: ''
+  jeudi: 17h
+  lundi: 18h30
+  mardi: 17h
+  mercredi: 17h
+  nom: "Fraternit\xE9 de Tib\xE9riade"
+  samedi: 17h
+  vendredi: 17h
+  youtube: ''
+- communaute: ''
+  dimanche: 12h et 19h
+  facebook: https://tinyurl.com/skwaadd
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: Chemin Neuf
+  samedi: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/s3f87je
+- communaute: "Sal\xE9sien de Don Bosco"
+  dimanche: 21h30
+  facebook: "compte insta: fr\xE8re Benjamin"
+  groupe: ''
+  jeudi: 21h30
+  lundi: 21h30
+  mardi: 21h30
+  mercredi: 21h30
+  nom: "Fr\xE8re Benjamin"
+  samedi: 21h30
+  vendredi: 21h30
+  youtube: https://tinyurl.com/wcy43qg
+- communaute: ''
+  dimanche: 10h
+  facebook: ''
+  groupe: ''
+  jeudi: 10h
+  lundi: 10h
+  mardi: 10h
+  mercredi: 10h
+  nom: Sanctuaire de Lourdes
+  samedi: 10h
+  vendredi: 10h
+  youtube: https://tinyurl.com/s9xuj7y
+- communaute: ''
+  dimanche: ''
+  facebook: ''
+  groupe: "Dioc\xE8se d'Amiens"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -10,20 +167,22 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/wv9ce8k
-- dimanche: 10h30
-  diocese: Amiens
+- communaute: "Communaut\xE9 Saint Martin"
+  dimanche: 10h30
   facebook: fb.me/saintsapotres
+  groupe: "Dioc\xE8se d'Amiens"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "St Ap\xF4tres Ct\xE9 St Martin"
+  nom: "Saints Ap\xF4tres"
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: ''
-  diocese: "Angoul\xEAme"
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/r67vh8u
+  groupe: "Dioc\xE8se d'Angoul\xEAme"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -32,9 +191,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/uebgnvy
-- dimanche: 10 h 30
-  diocese: Aix et Arles
+- communaute: ''
+  dimanche: 10 h 30
   facebook: https://tinyurl.com/FBDioAixArles
+  groupe: "Dioc\xE8se d'Aix et Arles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -43,9 +203,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/YTDioAixArles
-- dimanche: 11h00
-  diocese: Aix et Arles
+- communaute: ''
+  dimanche: 11h00
   facebook: https://tinyurl.com/v4wlwpd
+  groupe: "Dioc\xE8se d'Aix et Arles"
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -54,9 +215,10 @@ messes:
   samedi: 9h00
   vendredi: 18h30
   youtube: https://tinyurl.com/ufs39tc
-- dimanche: 11h30
-  diocese: Angers
+- communaute: ''
+  dimanche: 11h30
   facebook: https://tinyurl.com/r9nhswm
+  groupe: "Dioc\xE8se d'Angers"
   jeudi: 11h30
   lundi: 11h30
   mardi: 11h30
@@ -65,9 +227,10 @@ messes:
   samedi: 11h30
   vendredi: 11h30
   youtube: ''
-- dimanche: 10h
-  diocese: Angers
+- communaute: ''
+  dimanche: 10h
   facebook: https://tinyurl.com/w9xcebg
+  groupe: "Dioc\xE8se d'Angers"
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -76,9 +239,10 @@ messes:
   samedi: 19h
   vendredi: 19h
   youtube: ''
-- dimanche: ''
-  diocese: Angers
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/vppzf84
+  groupe: "Dioc\xE8se d'Angers"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -87,9 +251,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 10h30
-  diocese: "Angoul\xEAme"
+- communaute: ''
+  dimanche: 10h30
   facebook: ''
+  groupe: "Dioc\xE8se d'Angoul\xEAme"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -98,9 +263,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://urlz.fr/cd0y
-- dimanche: 10 h
-  diocese: "Angoul\xEAme"
+- communaute: ''
+  dimanche: 10 h
   facebook: https://tinyurl.com/r67vh8u
+  groupe: "Dioc\xE8se d'Angoul\xEAme"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -109,9 +275,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 11h00
-  diocese: Arras
+- communaute: ''
+  dimanche: 11h00
   facebook: https://tinyurl.com/tbsr8sr
+  groupe: "Dioc\xE8se d'Arras"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -120,20 +287,22 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/s9ublbg
-- dimanche: 09h00 - 10h30
-  diocese: Avignon
+- communaute: "Communaut\xE9 Saint Jean"
+  dimanche: 09h00 - 10h30
   facebook: https://www.facebook.com/saintruf/
+  groupe: "Dioc\xE8se d'Avignon"
   jeudi: 08h30
   lundi: 11h00
   mardi: 08h30
   mercredi: 08h30
-  nom: "St Ruf (Ct\xE9 St Jean)"
+  nom: St Ruf
   samedi: 18h00
   vendredi: 08h30
   youtube: https://tinyurl.com/sx9xdeu
-- dimanche: 10h30
-  diocese: Bayonne
+- communaute: ''
+  dimanche: 10h30
   facebook: ''
+  groupe: "Dioc\xE8se de Bayonne"
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -142,9 +311,10 @@ messes:
   samedi: 11h00
   vendredi: 18h30
   youtube: https://tinyurl.com/tbjwktz
-- dimanche: 9h et 11h
-  diocese: Belley-Ars
+- communaute: ''
+  dimanche: 9h et 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Belley-Ars"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -153,9 +323,10 @@ messes:
   samedi: 11h
   vendredi: 18h
   youtube: https://tinyurl.com/snebpwp
-- dimanche: 10h
-  diocese: Belley-Ars
+- communaute: ''
+  dimanche: 10h
   facebook: https://tinyurl.com/sue4o5l
+  groupe: "Dioc\xE8se de Belley-Ars"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -164,31 +335,34 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 18h00
-  diocese: Belley-Ars
+- communaute: "Communaut\xE9 de l'Emmanuel"
+  dimanche: 18h00
   facebook: https://tinyurl.com/wtyrqgr
+  groupe: "Dioc\xE8se de Belley-Ars"
   jeudi: 18h00
   lundi: 18h00
   mardi: 18h00
   mercredi: 18h00
-  nom: "Paray-le-Monial Sanctuaire du Sacr\xE9-Coeur (Ct\xE9 de l'Emmanuel)"
+  nom: "Paray-le-Monial Sanctuaire du Sacr\xE9-Coeur"
   samedi: 8h00
   vendredi: 18h00
   youtube: https://tinyurl.com/rtbwgbw
-- dimanche: ''
-  diocese: "Besan\xE7on"
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Besan\xE7on"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Banlieue Val de L\u2019oignon:"
+  nom: "Banlieue Val de L\u2019oignon"
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/shgm9mc
-- dimanche: ''
-  diocese: "Besan\xE7on"
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Besan\xE7on"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -197,9 +371,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/rdxjck3
-- dimanche: 10h30
-  diocese: "Besan\xE7on"
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/w3lz9sf
+  groupe: "Dioc\xE8se de Besan\xE7on"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -208,9 +383,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 10h30
-  diocese: Blois
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/tfdoqtm
+  groupe: "Dioc\xE8se de Blois"
   jeudi: 19h30
   lundi: '-'
   mardi: 19h30
@@ -219,9 +395,10 @@ messes:
   samedi: 8h30
   vendredi: 19h30
   youtube: ''
-- dimanche: ''
-  diocese: Bordeaux
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Bordeaux"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -230,9 +407,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/rm8mrum
-- dimanche: 10h30
-  diocese: Bordeaux
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/t29yo9k
+  groupe: "Dioc\xE8se de Bordeaux"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -241,9 +419,10 @@ messes:
   samedi: 18h
   vendredi: 18h
   youtube: https://tinyurl.com/v4yswwu
-- dimanche: 11h
-  diocese: Bordeaux
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Bordeaux"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -252,9 +431,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/voxg6a7
-- dimanche: ''
-  diocese: Bourges
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Bourges"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -263,9 +443,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/t9e4fbc
-- dimanche: 10h30
-  diocese: Cahors
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/wwn7glr
+  groupe: "Dioc\xE8se de Cahors"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -274,9 +455,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/ubxeauv
-- dimanche: 11h
-  diocese: Coutances
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/smtba8z
+  groupe: "Dioc\xE8se de Coutances"
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -285,9 +467,10 @@ messes:
   samedi: 12h
   vendredi: 18h30
   youtube: https://tinyurl.com/swvbnje
-- dimanche: ''
-  diocese: Dijon
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Dijon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -296,9 +479,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/tfbdwqw
-- dimanche: 10h
-  diocese: Dinard-Pleurtuit
+- communaute: ''
+  dimanche: 10h
   facebook: ''
+  groupe: "Dioc\xE8se de Dinard-Pleurtuit"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -307,9 +491,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: https://tinyurl.com/v7auecm
-- dimanche: 11h
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -318,9 +503,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/tgpbkru
-- dimanche: 11h
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/rwtpkpx
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: 11h30
   lundi: 11h30
   mardi: 11h30
@@ -329,9 +515,10 @@ messes:
   samedi: 11h30
   vendredi: 11h30
   youtube: https://tinyurl.com/t9gqvfw
-- dimanche: ''
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/vfckfo9
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -340,9 +527,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/wkcbo2p
-- dimanche: 10h30
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/vdabyza
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: 8h45
   lundi: 18h30
   mardi: 8h45
@@ -351,9 +539,10 @@ messes:
   samedi: 8h45
   vendredi: 8h45
   youtube: https://tinyurl.com/rmj99eq
-- dimanche: ''
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -362,9 +551,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/vasf9s5
-- dimanche: ''
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -373,9 +563,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/u6sd7wa
-- dimanche: ''
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -384,9 +575,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/vspwgce
-- dimanche: ''
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -395,9 +587,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/u6wchuv
-- dimanche: 10h15
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: 10h15
   facebook: https://tinyurl.com/strfh37
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: 18h30
   lundi: 8h45
   mardi: 18h30
@@ -406,9 +599,10 @@ messes:
   samedi: 10h15
   vendredi: 8h45
   youtube: https://tinyurl.com/yx4ynaym
-- dimanche: 10h30
-  diocese: Frejus-Toulon
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/t37z25u
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -417,9 +611,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/tcuhrbw
-- dimanche: 10h
-  diocese: Gap
+- communaute: ''
+  dimanche: 10h
   facebook: https://tinyurl.com/s2c3fr7
+  groupe: "Dioc\xE8se de Gap"
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -428,9 +623,10 @@ messes:
   samedi: 10h
   vendredi: 10h
   youtube: https://tinyurl.com/vcuzxv4
-- dimanche: 10h45
-  diocese: Grenoble
+- communaute: ''
+  dimanche: 10h45
   facebook: https://tinyurl.com/uwptnd6
+  groupe: "Dioc\xE8se de Grenoble"
   jeudi: 11h45
   lundi: 18h
   mardi: 11h45
@@ -439,9 +635,10 @@ messes:
   samedi: 11h45
   vendredi: 11h45
   youtube: https://tinyurl.com/w9lr2le
-- dimanche: 11h
-  diocese: Lille
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/t5bzxvx
+  groupe: "Dioc\xE8se de Lille"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -450,9 +647,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/s947j8j
-- dimanche: 11h
-  diocese: Lille
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Lille"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -461,20 +659,22 @@ messes:
   samedi: 18h
   vendredi: 18h
   youtube: https://tinyurl.com/u9z4jsz
-- dimanche: 11h30
-  diocese: Limoges
+- communaute: ''
+  dimanche: 11h30
   facebook: https://tinyurl.com/s59qu8k
+  groupe: "Dioc\xE8se de Limoges"
   jeudi: 11h30
   lundi: 11h30
   mardi: 11h30
   mercredi: 11h30
-  nom: "(dioc\xE8se)"
+  nom: "Dioc\xE8se"
   samedi: 11h30
   vendredi: 11h30
   youtube: https://tinyurl.com/r48xf53
-- dimanche: 9h30 et 11h
-  diocese: "Lu\xE7on"
+- communaute: ''
+  dimanche: 9h30 et 11h
   facebook: https://tinyurl.com/uy45yun
+  groupe: "Dioc\xE8se de Lu\xE7on"
   jeudi: 9h
   lundi: 19h
   mardi: 9h
@@ -483,9 +683,10 @@ messes:
   samedi: 9h et 19h
   vendredi: 19h
   youtube: ''
-- dimanche: 10h30
-  diocese: Lyon
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/wtankwc
+  groupe: "Dioc\xE8se de Lyon"
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -494,9 +695,10 @@ messes:
   samedi: 10h
   vendredi: 10h
   youtube: https://tinyurl.com/vfrfsy9
-- dimanche: '10h30 '
-  diocese: Lyon
+- communaute: ''
+  dimanche: '10h30 '
   facebook: ''
+  groupe: "Dioc\xE8se de Lyon"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -505,9 +707,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: https://tinyurl.com/rua5esc
-- dimanche: 17h
-  diocese: Lyon
+- communaute: ''
+  dimanche: 17h
   facebook: https://tinyurl.com/thwvse7
+  groupe: "Dioc\xE8se de Lyon"
   jeudi: 17h
   lundi: 17h
   mardi: 17h
@@ -516,9 +719,10 @@ messes:
   samedi: 17h
   vendredi: 17h
   youtube: https://tinyurl.com/vkdn2cp
-- dimanche: 10h30
-  diocese: Lyon
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/wd7owtl
+  groupe: "Dioc\xE8se de Lyon"
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -527,20 +731,22 @@ messes:
   samedi: 11h
   vendredi: 19h
   youtube: https://tinyurl.com/wzop4my
-- dimanche: 10H30
-  diocese: Lyon
+- communaute: "Communaut\xE9 de l'Emmanuel"
+  dimanche: 10H30
   facebook: ''
+  groupe: "Dioc\xE8se de Lyon"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Val de Sa\xF4ne (Ct\xE9 Emmanuel)"
+  nom: "Val de Sa\xF4ne"
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/qnh8893
-- dimanche: 10h30
-  diocese: Lyon
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/uorzs4r
+  groupe: "Dioc\xE8se de Lyon"
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -549,9 +755,10 @@ messes:
   samedi: 12h
   vendredi: 12h
   youtube: https://tinyurl.com/tu5ugoo
-- dimanche: 10h30
-  diocese: Marseille
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/wnxr3tc
+  groupe: "Dioc\xE8se de Marseille"
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -560,9 +767,10 @@ messes:
   samedi: 12h
   vendredi: 12h
   youtube: https://tinyurl.com/wnxhwwm
-- dimanche: 9h30
-  diocese: Melun
+- communaute: ''
+  dimanche: 9h30
   facebook: https://tinyurl.com/r7va8oj
+  groupe: "Dioc\xE8se de Melun"
   jeudi: 9h30
   lundi: 9h30
   mardi: 9h30
@@ -571,9 +779,10 @@ messes:
   samedi: 9h30
   vendredi: 9h30
   youtube: ''
-- dimanche: 11h00
-  diocese: Montauban
+- communaute: ''
+  dimanche: 11h00
   facebook: ''
+  groupe: "Dioc\xE8se de Montauban"
   jeudi: 8h30
   lundi: 8h30
   mardi: 8h30
@@ -582,9 +791,10 @@ messes:
   samedi: 8h30
   vendredi: 8h30
   youtube: https://tinyurl.com/td739zf
-- dimanche: 18h
-  diocese: Montpellier
+- communaute: ''
+  dimanche: 18h
   facebook: ''
+  groupe: "Dioc\xE8se de Montpellier"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -593,9 +803,10 @@ messes:
   samedi: 18h
   vendredi: 18h
   youtube: https://tinyurl.com/sb3hw9q
-- dimanche: 10h30 UTC-4
-  diocese: "Montr\xE9al"
+- communaute: ''
+  dimanche: 10h30 UTC-4
   facebook: ''
+  groupe: "Dioc\xE8se de Montr\xE9al"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -604,9 +815,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/wvajdh4
-- dimanche: 11h
-  diocese: Moulins
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/waybxdr
+  groupe: "Dioc\xE8se de Moulins"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -615,9 +827,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 10h30 et 18h00
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 10h30 et 18h00
   facebook: https://tinyurl.com/teuk47m
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: "\xE0 venir"
   lundi: "\xE0 venir"
   mardi: "\xE0 venir"
@@ -626,9 +839,10 @@ messes:
   samedi: 11h15
   vendredi: "\xE0 venir"
   youtube: https://tinyurl.com/yxyg8mom
-- dimanche: "10h enfants ( \xE9vangile et courte hom\xE9lie) et 11:30 adultes"
-  diocese: Nanterre
+- communaute: ''
+  dimanche: "10h enfants ( \xE9vangile et courte hom\xE9lie) et 11:30 adultes"
   facebook: https://tinyurl.com/rwj5g6l
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -637,9 +851,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: https://tinyurl.com/rnckrxh
-- dimanche: 11h30
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h30
   facebook: https://tinyurl.com/wjmjhkt
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -648,9 +863,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/tlwzgph
-- dimanche: 10h30
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 10h30
   facebook: ''
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -659,9 +875,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/sgpguud
-- dimanche: 11h
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -670,9 +887,10 @@ messes:
   samedi: ''
   vendredi: 19h
   youtube: https://tinyurl.com/tk5fdqz
-- dimanche: 11h
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h
   facebook: Facebook.com/stusmv
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -681,9 +899,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: YouTube.stusmv.fr
-- dimanche: ''
-  diocese: Nanterre
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -692,9 +911,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/wkd5e55
-- dimanche: 11h
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/PSJBSCXFB
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: 9h
   lundi: 18h
   mardi: 9h
@@ -703,9 +923,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: https://tinyurl.com/PSJBSCX
-- dimanche: 11h
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/yxxx4hgo
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -714,9 +935,10 @@ messes:
   samedi: 12h
   vendredi: 12h
   youtube: https://tinyurl.com/r7fjfxb
-- dimanche: 11h00
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h00
   facebook: ''
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -725,9 +947,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/rav46c4
-- dimanche: 18h
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 18h
   facebook: https://tinyurl.com/scdlw4g
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: 9h
   lundi: 19h
   mardi: 9h
@@ -736,9 +959,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: https://tinyurl.com/qomdna8
-- dimanche: 11h
-  diocese: Nanterre
+- communaute: ''
+  dimanche: 11h
   facebook: 'Messe sur leur site internet : http://www.paroissessmndbs.org/messe-dominicale-en-live/'
+  groupe: "Dioc\xE8se de Nanterre"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -747,9 +971,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 10h
-  diocese: Nantes
+- communaute: ''
+  dimanche: 10h
   facebook: https://tinyurl.com/qtb45or
+  groupe: "Dioc\xE8se de Nantes"
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -758,9 +983,10 @@ messes:
   samedi: 10h
   vendredi: 10h
   youtube: https://tinyurl.com/rv4jwwd
-- dimanche: 11h00
-  diocese: Nantes
+- communaute: ''
+  dimanche: 11h00
   facebook: https://tinyurl.com/tl6623r
+  groupe: "Dioc\xE8se de Nantes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -769,9 +995,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/wpypjl3
-- dimanche: 12H30
-  diocese: Nantes
+- communaute: ''
+  dimanche: 12H30
   facebook: https://tinyurl.com/uhvgatp
+  groupe: "Dioc\xE8se de Nantes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -780,9 +1007,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/yx2jf2qt
-- dimanche: 18h
-  diocese: Nantes
+- communaute: ''
+  dimanche: 18h
   facebook: https://tinyurl.com/yxxt97ks
+  groupe: "Dioc\xE8se de Nantes"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -791,9 +1019,10 @@ messes:
   samedi: 18h
   vendredi: 18h
   youtube: ''
-- dimanche: 11h
-  diocese: Nantes
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/uggdd6w
+  groupe: "Dioc\xE8se de Nantes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -802,9 +1031,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/t2lhwcd
-- dimanche: 10h30
-  diocese: "Orl\xE9ans"
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/w9jd8nm
+  groupe: "Dioc\xE8se d'Orl\xE9ans"
   jeudi: 8h
   lundi: 8h
   mardi: 8h
@@ -813,9 +1043,10 @@ messes:
   samedi: 8h
   vendredi: 8h
   youtube: https://tinyurl.com/uw6dvlp
-- dimanche: 8h
-  diocese: "Orl\xE9ans"
+- communaute: ''
+  dimanche: 8h
   facebook: https://tinyurl.com/v42ygv9
+  groupe: "Dioc\xE8se d'Orl\xE9ans"
   jeudi: 8h
   lundi: 8h
   mardi: 8h
@@ -824,9 +1055,10 @@ messes:
   samedi: 8h
   vendredi: 8h
   youtube: https://tinyurl.com/twvnryf
-- dimanche: 18h
-  diocese: Paray-le-Monial
+- communaute: ''
+  dimanche: 18h
   facebook: ''
+  groupe: "Dioc\xE8se de Paray-le-Monial"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -835,9 +1067,10 @@ messes:
   samedi: 8h
   vendredi: 18h
   youtube: ''
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: "en diff\xE9r\xE9 (vers 13h)"
   lundi: "en diff\xE9r\xE9 (vers 13h)"
   mardi: "en diff\xE9r\xE9 (vers 13h)"
@@ -846,9 +1079,10 @@ messes:
   samedi: "en diff\xE9r\xE9 (vers 13h)"
   vendredi: "en diff\xE9r\xE9 (vers 13h)"
   youtube: https://tinyurl.com/v4m4may
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/sgnpy6r
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 13h
   lundi: 13h
   mardi: 13h
@@ -857,9 +1091,10 @@ messes:
   samedi: 13h
   vendredi: 13h
   youtube: https://tinyurl.com/task2ne
-- dimanche: 11H
-  diocese: Paris
+- communaute: ''
+  dimanche: 11H
   facebook: https://tinyurl.com/sf78yv4
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 9h15
   lundi: 9h15
   mardi: 9h15
@@ -868,9 +1103,10 @@ messes:
   samedi: 9h15
   vendredi: 9h15
   youtube: https://tinyurl.com/tsz6bt5
-- dimanche: 11h00
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h00
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -879,9 +1115,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/v7nhc4x
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -890,9 +1127,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/u2d7adj
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -901,9 +1139,10 @@ messes:
   samedi: 9h
   vendredi: 19h
   youtube: https://tinyurl.com/v443ohb
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/szcj2on
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -912,9 +1151,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -923,9 +1163,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/sad349r
-- dimanche: ''
-  diocese: Paris
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -934,9 +1175,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/uzcmx84
-- dimanche: 18h
-  diocese: Paris
+- communaute: ''
+  dimanche: 18h
   facebook: https://tinyurl.com/t3vz8od
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -945,9 +1187,10 @@ messes:
   samedi: 18h
   vendredi: 18h
   youtube: ''
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/sopm7f5
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 18h15
   lundi: 18h15
   mardi: 18h15
@@ -956,9 +1199,10 @@ messes:
   samedi: 18h30
   vendredi: 18h15
   youtube: https://tinyurl.com/vtxx4hd
-- dimanche: ''
-  diocese: Paris
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -967,9 +1211,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/sevq63z
-- dimanche: Samedi 18h30, dimanche 9h, 10h, 11h et 19h
-  diocese: Paris
+- communaute: ''
+  dimanche: Samedi 18h30, dimanche 9h, 10h, 11h et 19h
   facebook: https://tinyurl.com/tdlgn6z
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 7h30, 8h35, 12h, 19h
   lundi: 12h et 19h
   mardi: 7h30, 8h35, 12h, 19h
@@ -978,9 +1223,10 @@ messes:
   samedi: 8h35 et 12h
   vendredi: 7h30, 8h35, 12h, 19h
   youtube: https://tinyurl.com/sybss2s
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -989,9 +1235,10 @@ messes:
   samedi: 12h
   vendredi: 12h
   youtube: https://tinyurl.com/rsrgs4s
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1000,9 +1247,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/qtt2btw
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/t44zhe8
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 12h15
   lundi: 12h15
   mardi: 12h15
@@ -1011,9 +1259,10 @@ messes:
   samedi: 12h15
   vendredi: 12h15
   youtube: https://tinyurl.com/wlcnfqt
-- dimanche: 11h00
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h00
   facebook: https://tinyurl.com/yxxn74p2
+  groupe: "Dioc\xE8se de Paris"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1022,9 +1271,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/s8mtymg
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/t5h3age
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -1033,9 +1283,10 @@ messes:
   samedi: 10h
   vendredi: 10h
   youtube: https://tinyurl.com/yx3tza4t
-- dimanche: 11h
-  diocese: Paris
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/wyxd88w
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 9h, 12h, 19h
   lundi: 9h, 12h, 19h
   mardi: 9h, 12h, 19h
@@ -1044,9 +1295,10 @@ messes:
   samedi: 9h et 12h
   vendredi: 9h, 12h, 19h
   youtube: https://tinyurl.com/v258aw6
-- dimanche: 9h
-  diocese: Paris
+- communaute: ''
+  dimanche: 9h
   facebook: https://tinyurl.com/qqprkv3
+  groupe: "Dioc\xE8se de Paris"
   jeudi: 8h30
   lundi: 8h30
   mardi: 8h30
@@ -1055,9 +1307,10 @@ messes:
   samedi: 8h30
   vendredi: 8h30
   youtube: https://tinyurl.com/rdd7llo
-- dimanche: 10h30
-  diocese: Pontoise
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/qps24gp
+  groupe: "Dioc\xE8se de Pontoise"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1066,9 +1319,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/utbd56x
-- dimanche: '19h00 '
-  diocese: Quimper
+- communaute: ''
+  dimanche: '19h00 '
   facebook: https://tinyurl.com/wdxgoqf
+  groupe: "Dioc\xE8se de Quimper"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1077,9 +1331,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 11h
-  diocese: Rennes
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Rennes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1088,9 +1343,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/tv7hfyq
-- dimanche: ''
-  diocese: Rennes
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/u5nsn89
+  groupe: "Dioc\xE8se de Rennes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1099,9 +1355,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 10h
-  diocese: Rouen
+- communaute: ''
+  dimanche: 10h
   facebook: https://tinyurl.com/tatan7z
+  groupe: "Dioc\xE8se de Rouen"
   jeudi: 12h15
   lundi: 12h15
   mardi: 12h15
@@ -1110,9 +1367,10 @@ messes:
   samedi: 12h15
   vendredi: 12h15
   youtube: https://tinyurl.com/ryvqo6b
-- dimanche: ''
-  diocese: Rouen
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/s3une7l
+  groupe: "Dioc\xE8se de Rouen"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1121,9 +1379,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: 11h00
-  diocese: Rouen
+- communaute: ''
+  dimanche: 11h00
   facebook: https://tinyurl.com/yx7jddho
+  groupe: "Dioc\xE8se de Rouen"
   jeudi: 19h00
   lundi: 11h00
   mardi: 11h00
@@ -1132,9 +1391,10 @@ messes:
   samedi: 8h30
   vendredi: 11h00
   youtube: ''
-- dimanche: 10h
-  diocese: Saint-Denis
+- communaute: ''
+  dimanche: 10h
   facebook: https://www.facebook.com/Estree93200/
+  groupe: "Dioc\xE8se de Saint-Denis"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1143,9 +1403,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: ''
-- dimanche: ' '
-  diocese: Saint-Denis
+- communaute: ''
+  dimanche: ' '
   facebook: ''
+  groupe: "Dioc\xE8se de Saint-Denis"
   jeudi: ' '
   lundi: ' '
   mardi: ' '
@@ -1154,9 +1415,10 @@ messes:
   samedi: ' '
   vendredi: ' '
   youtube: https://tinyurl.com/s5p5de4
-- dimanche: ''
-  diocese: Saint-Flour
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Saint-Flour"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1165,9 +1427,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/ssq4d5m
-- dimanche: 10H
-  diocese: Saint-Etienne
+- communaute: ''
+  dimanche: 10H
   facebook: https://tinyurl.com/rrjqf2a
+  groupe: "Dioc\xE8se de Saint-Etienne"
   jeudi: 11H
   lundi: 11H
   mardi: 11H
@@ -1176,9 +1439,10 @@ messes:
   samedi: 11H
   vendredi: 11H
   youtube: https://tinyurl.com/vktufo9
-- dimanche: 18h00
-  diocese: "S\xE9ez"
+- communaute: ''
+  dimanche: 18h00
   facebook: https://tinyurl.com/ruyue5j
+  groupe: "Dioc\xE8se de S\xE9ez"
   jeudi: 18h00
   lundi: 18h00
   mardi: 18h00
@@ -1187,9 +1451,10 @@ messes:
   samedi: 18h00
   vendredi: 18h00
   youtube: https://tinyurl.com/uxn9bmv
-- dimanche: 11 h
-  diocese: "S\xE9ez"
+- communaute: ''
+  dimanche: 11 h
   facebook: https://tinyurl.com/r2ukgn8
+  groupe: "Dioc\xE8se de S\xE9ez"
   jeudi: '-'
   lundi: '-'
   mardi: '-'
@@ -1198,9 +1463,10 @@ messes:
   samedi: '-'
   vendredi: '-'
   youtube: https://tinyurl.com/rjsgctr
-- dimanche: 11h
-  diocese: Toulouse
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/v56zrw7
+  groupe: "Dioc\xE8se de Toulouse"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1209,9 +1475,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://urlz.fr/c9Qg
-- dimanche: 11h
-  diocese: Toulouse
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Toulouse"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1220,9 +1487,10 @@ messes:
   samedi: ''
   vendredi: 18h
   youtube: https://tinyurl.com/sylb6ah
-- dimanche: ''
-  diocese: Toulouse
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/sb7vpdb
+  groupe: "Dioc\xE8se de Toulouse"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1231,9 +1499,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/wou9gc3
-- dimanche: 11h
-  diocese: Tours
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/r5zrhyv
+  groupe: "Dioc\xE8se de Tours"
   jeudi: 11h
   lundi: 11h
   mardi: 11h
@@ -1242,9 +1511,10 @@ messes:
   samedi: 11h
   vendredi: 11h
   youtube: ''
-- dimanche: 9h
-  diocese: Tours
+- communaute: ''
+  dimanche: 9h
   facebook: https://tinyurl.com/qt7ep6j
+  groupe: "Dioc\xE8se de Tours"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -1253,9 +1523,10 @@ messes:
   samedi: 9h
   vendredi: 9h
   youtube: ''
-- dimanche: 10h30
-  diocese: Vannes
+- communaute: ''
+  dimanche: 10h30
   facebook: ''
+  groupe: "Dioc\xE8se de Vannes"
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -1264,9 +1535,10 @@ messes:
   samedi: 9h
   vendredi: 18h30
   youtube: ''
-- dimanche: 11h
-  diocese: Vannes
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Vannes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1275,9 +1547,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/uvmr9sb
-- dimanche: 11h
-  diocese: Vannes
+- communaute: ''
+  dimanche: 11h
   facebook: ''
+  groupe: "Dioc\xE8se de Vannes"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1286,9 +1559,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: bzh.me/carnac
-- dimanche: 10h
-  diocese: Versailles
+- communaute: ''
+  dimanche: 10h
   facebook: ''
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1297,9 +1571,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/v6f2l4f
-- dimanche: ''
-  diocese: Versailles
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1308,9 +1583,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/vmckdp3
-- dimanche: 11h
-  diocese: Versailles
+- communaute: ''
+  dimanche: 11h
   facebook: https://tinyurl.com/t3alh2c
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1319,9 +1595,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/rvtlzze
-- dimanche: 10h45
-  diocese: Versailles
+- communaute: ''
+  dimanche: 10h45
   facebook: https://tinyurl.com/sl4hpwv
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1330,9 +1607,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: http://tinyurl.com/syxw4ja
-- dimanche: ''
-  diocese: Versailles
+- communaute: ''
+  dimanche: ''
   facebook: https://tinyurl.com/versaillesNDfacebook
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1341,9 +1619,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/versaillesND
-- dimanche: 11h
-  diocese: Versailles
+- communaute: ''
+  dimanche: 11h
   facebook: https://m.facebook.com/paroissesqsv/
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1352,9 +1631,10 @@ messes:
   samedi: ''
   vendredi: ''
   youtube: https://tinyurl.com/sqk3692
-- dimanche: 10h30
-  diocese: Versailles
+- communaute: ''
+  dimanche: 10h30
   facebook: https://tinyurl.com/v8hezv7
+  groupe: "Dioc\xE8se de Versailles"
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -1363,9 +1643,10 @@ messes:
   samedi: 19h
   vendredi: 19h
   youtube: ''
-- dimanche: ''
-  diocese: Viviers
+- communaute: ''
+  dimanche: ''
   facebook: ''
+  groupe: "Dioc\xE8se de Viviers"
   jeudi: ''
   lundi: ''
   mardi: ''
