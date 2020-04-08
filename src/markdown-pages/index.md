@@ -12,6 +12,7 @@ title: "Liste collaborative pour vivre le confinement autrement"
 
 * Un kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
 * Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
+* [Priez pour la régression du Covid-19](https://www.finducovid19.com/) Jeudi, Vendredi et Samedi Saint
 
 ## Suivre la messe
 
@@ -78,7 +79,7 @@ Deux podcasts pour écouter l'Évangile avec ses commentaires :
 
 # 🎓 Me former
 
-## Lire
+## Parcourir les fondamentaux de l'Eglie
 
 L'Église propose tous ses contenus en ligne :
 
@@ -97,12 +98,18 @@ L'Église propose tous ses contenus en ligne :
 * [ThéoDom](https://www.theodom.org/) est une proposition de cours de théologie par les Dominicains
 * Regarder les [jeudis théologie](https://www.ktotv.com/emissions/jeudis-theologie) sur KTOTV
 
-## Répondre à mes questions sur la foi et l'Eglise
+## Avoir un éclairage et répondre à mes questions
+
+### Foi et l'Eglise
 
 * [Pourquoi, Padre ?](https://www.ktotv.com/emissions/pourquoi-padre) sur KTOTV répond à des questions du grand public de façon claire et précise.
 * La chaîne [Padreblog](https://www.youtube.com/channel/UCRSBl51vh5qVSn3rDXFiitQ) propose de nombreux contenus d'actualités.
 * La communauté de l'Emmanuel propose une webtv « [Emmanuel Play - La WebTV qui diffuse la joie de Dieu](https://play.emmanuel.info/) » et a notamment lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
 * Consultez les différentes proposition de RCF dans la rubrique [Fondamentaux de la foi, Actualités religieuses](https://rcf.fr/spiritualite/fondamentaux-de-la-foi)
+
+### Psychologie, philosophie et éthique
+* [Le blog du père Pascal Ide](http://pascalide.fr/) apporte de nombreux éclairages sur des situations que nous pouvons vivre
+* Les podcats/vidéos de [Philia - les Soirées de la Philo](https://www.philia-asso.fr/) sont en libre accès pendant le confinement, pour explorer les grandes questions que nous n’avons pas toujours le temps de nous poser
 
 ## 🇬🇧 Me former (en anglais)
 
@@ -172,7 +179,7 @@ Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d
 
 ## S'alimenter différemment
 
-* [Divine Box](https://divinebox.fr/) vous fait découvrir les meilleurs produits des abbayes, livrés chez vous.
+* [Divine Box](https://divinebox.fr/) vous fait découvrir les meilleurs produits des abbayes, livrés chez vous
 
 # 🚸 En famille
 
@@ -204,12 +211,12 @@ Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d
 
 * [Zou les Boulons](https://www.librairie-emmanuel.fr/zou-les-boulons-jeu-collaboratif-pour-resserrer-les-boulons-de-la-famille-p-145150) (disponible chez plusieurs marchands en ligne, dont la Librairie de l'Emmanuel)
 
-## Occuper ses ados
+## Occuper mes ados
 
 * Aleteia propose de bonnes idées dans cet article : [Vous êtes scout et confiné ? Dix activités à faire pour ne pas perdre la main (et la tête)](https://fr.aleteia.org/2020/03/27/vous-etes-scout-et-confine-dix-activites-a-faire-pour-ne-pas-perdre-la-main-et-la-tete/)
 * [Les règles à se fixer quand le temps d’écran de la famille explose](https://fr.aleteia.org/2020/04/01/les-regles-a-se-fixer-quand-le-temps-decran-de-la-famille-explose/) (toujours chez Aleteia)
 
-## Faire la catéchèse pour des enfants
+## Faire la catéchèse pour les enfants
 
 * [Théobule, les enfants connectés à la parole de Dieu](https://www.theobule.org/) propose un grand nombre de contenus catéchétiques pour les enfants.
 * L'application [The Bible App for Kids (YouVersion)](https://www.youversion.com/the-bible-app-for-kids/) est disponible avec une narration en français ainsi que de nombreuses activités pour découvrir la bible.
@@ -217,7 +224,7 @@ Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d
 * Le diocèse de Paris propose [un jardin de Pâques à fabriquer avec les enfants](https://www.paris.catholique.fr/un-jardin-de-paques-a-fabriquer-49223.html)
 * Le catéchisme de l'Emmanuel pour les enfants de 8 à 11 ans propose pour chaque thème : un chant, une œuvre d’art, une vidéo : [Catéchisme Emmanuel](https://catechisme-emmanuel.com/)
 
-## Faire la catéchèse pour des ados
+## Faire la catéchèse pour les ados
 
 * [Premiers pas catholiques](https://premierspascatholiques.wordpress.com/) (Petits cours de théologie sur différentes questions de notre religion)
 * [Jésus Box - le parcours de carême](https://www.jesusbox.fr/le-parcours-de-careme)
