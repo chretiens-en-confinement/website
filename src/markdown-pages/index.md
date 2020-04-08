@@ -70,7 +70,7 @@ En commençant par lire la Bible, bien sûr :
 Propositions plus spécifiques :
 
 * Suivez les conférences de Carême proposée par le diocèse de Paris : [Conférences 2020 - Diocèse de Paris](https://www.paris.catholique.fr/-conferences-2020-.html)
-* Participer à la retraite de [Carême dans la ville](https://careme.retraitedanslaville.org/)
+* Participer à la retraite de [Carême dans la ville](https://careme.retraitedanslaville.org/) proposée par les Dominicains. Méditez sur les sept dons du Saint Esprit grâce à une [série de vidéos](https://careme.retraitedanslaville.org/meditations?video=true) avec des très beaux et profonds témoignages.
 
 Deux podcasts pour écouter l'Évangile avec ses commentaires :
 
