@@ -139,6 +139,7 @@ L'Église propose tous ses contenus en ligne :
 
 * Envoyez des lettres pour donner le sourire aux personnes isolées grâce à [1 lettre 1 sourire](https://1lettre1sourire.org/)
 * Le diocèse de Nantes [recherche des médecins et des infirmiers/infirmières](https://diocese44.fr/urgent-recherche-dinfirmiers-benevoles-disponibles/) bénévoles pour un centre d’accueil de migrants et personnes de la rue atteints du coronavirus, sans besoin d’hospitalisation
+* [« Toujours prêts »: les scouts se mobilisent pour aider les hôpitaux](https://www.lefigaro.fr/actualite-france/toujours-prets-les-scouts-se-mobilisent-pour-aider-les-hopitaux-20200329) (un article du Figaro)
 
 ![](./1lettre1sourire.png)
 
