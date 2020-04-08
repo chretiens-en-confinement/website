@@ -150,7 +150,6 @@ L'Église propose tous ses contenus en ligne :
 
 # 🏖 Me distraire
 
-
 ## Respirer... en beauté !
 
 > « La beauté sauvera le monde » F. Dostoïevski
@@ -177,6 +176,7 @@ Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d
 * Une sélection de films chrétiens pour tous les âges, en streaming et VOD : [Le Film Chrétien](https://www.lefilmchretien.fr)
 * Le site Catéchèse et Catéchuménat propose une [liste de films avec des analyses](https://catechese.catholique.fr/outils/propositions-danimation/294787-propositions-danimation-a-partir-de-films/)
 * Aleteia propose une sélection de film à regarder pendant le confinement : [Douze films à (re)voir pendant la période de confinement](https://fr.aleteia.org/2020/03/30/les-douze-films-a-revoir-pendant-la-periode-de-confinement/)
+* Regardez le Seigneur des anneaux avec un regard chrétien, par exemple en visionnant l'analyse de frère Philippe Verdin, OP : [la Résurrection selon Tolkien](https://www.theodom.org/tolkien/)
 
 ## S'alimenter différemment
 
