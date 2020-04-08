@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Chrétiens en confinement : une liste collaborative pour vivre le confinement autrement !" />
       <h1>
-        Les meilleures ressources du web pour vivre le confinement
+        Les ressources utiles du web pour vivre le confinement
         chrétiennement !
       </h1>
 
@@ -31,7 +31,7 @@ const IndexPage = ({ data }) => {
       </p>
 
       <p>
-        Déjà consultée par près de 1 500 personnes, cette liste est faite pour
+        Déjà consultée par près de 3 500 personnes, cette liste est faite pour
         être partagée avec votre famille, vos proches, vos paroisses et vos
         diocèses !
       </p>
