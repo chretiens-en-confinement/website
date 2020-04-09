@@ -9,6 +9,7 @@ KEYS = {
     "Groupe": "groupe",
     "Communauté": "communaute",
     "Nom": "nom",
+    "Site": "site",
     "Youtube": "youtube",
     "Facebook": "facebook",
     "Lundi": "lundi",
@@ -20,6 +21,7 @@ KEYS = {
     "Dimanche": "dimanche",
     "Forme": "forme",
 }
+URL_KEYS = ("youtube", "facebook", "site")
 
 
 def transform(mass: Dict[str, Any]) -> Union[None, Dict[str, str]]:
@@ -27,7 +29,15 @@ def transform(mass: Dict[str, Any]) -> Union[None, Dict[str, str]]:
     if "groupe" not in mass or not mass.get("nom"):
         return None
 
-    return {new_key: mass[k.lower()] for k, new_key in KEYS.items()}
+    m = {new_key: mass[k.lower()] for k, new_key in KEYS.items()}
+
+    for k in URL_KEYS:
+        value = m.get(k, "")
+        if not value.startswith("http") or " " in value:
+            # Reset to avoid weird values
+            m[k] = ""
+
+    return m
 
 
 def main(infile: TextIO, outfile: TextIO) -> None:

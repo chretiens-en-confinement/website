@@ -10,6 +10,7 @@ messes:
   mercredi: ''
   nom: "Communaut\xE9 de l'Emmanuel"
   samedi: ''
+  site: https://emmanuel.info/les-messes-en-direct/
   vendredi: ''
   youtube: https://tinyurl.com/v4ee6cd
 - communaute: ''
@@ -23,6 +24,7 @@ messes:
   mercredi: ''
   nom: "S\xE9minaire de la communaut\xE9 Saint Martin"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -36,6 +38,7 @@ messes:
   mercredi: 18h
   nom: Regnum Christi/Ecyd France
   samedi: 18h
+  site: https://bit.ly/2QA0E8m
   vendredi: 18h
   youtube: https://bit.ly/2UmTbe6
 - communaute: Franciscains
@@ -49,6 +52,7 @@ messes:
   mercredi: ''
   nom: Couvent St Antoine
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/w8cgjpe
 - communaute: ''
@@ -62,6 +66,7 @@ messes:
   mercredi: ''
   nom: Secteur Aigle
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/ro63soe
 - communaute: ''
@@ -75,6 +80,7 @@ messes:
   mercredi: ''
   nom: "Aum\xF4nerie Militaire de Nouvelle Cal\xE9donie - Wallis et Futuna"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -88,6 +94,7 @@ messes:
   mercredi: 12h15
   nom: "Monast\xE8re de la Consolation"
   samedi: 12h15
+  site: ''
   vendredi: 12h15
   youtube: https://tinyurl.com/yx56nc4b
 - communaute: ''
@@ -101,6 +108,7 @@ messes:
   mercredi: ''
   nom: "Serviteurs de J\xE9sus et de Marie"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -114,6 +122,7 @@ messes:
   mercredi: 11h
   nom: "Prieur\xE9 de la Cotellerie"
   samedi: 11h
+  site: ''
   vendredi: 11h
   youtube: ''
 - communaute: ''
@@ -127,6 +136,7 @@ messes:
   mercredi: 17h
   nom: "Fraternit\xE9 de Tib\xE9riade"
   samedi: 17h
+  site: https://www.tiberiade.be/
   vendredi: 17h
   youtube: ''
 - communaute: ''
@@ -140,11 +150,12 @@ messes:
   mercredi: ''
   nom: Chemin Neuf
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/s3f87je
 - communaute: "Sal\xE9sien de Don Bosco"
   dimanche: 21h30
-  facebook: "compte insta: fr\xE8re Benjamin"
+  facebook: ''
   forme: Ordinaire
   groupe: ''
   jeudi: 21h30
@@ -153,6 +164,7 @@ messes:
   mercredi: 21h30
   nom: "Fr\xE8re Benjamin"
   samedi: 21h30
+  site: ''
   vendredi: 21h30
   youtube: https://tinyurl.com/wcy43qg
 - communaute: ''
@@ -166,6 +178,7 @@ messes:
   mercredi: 10h
   nom: Sanctuaire de Lourdes
   samedi: 10h
+  site: https://www.lourdes-france.org/
   vendredi: 10h
   youtube: https://tinyurl.com/s9xuj7y
 - communaute: ''
@@ -179,11 +192,12 @@ messes:
   mercredi: ''
   nom: "Notre-Dame d\u2019Amiens"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wv9ce8k
 - communaute: "Communaut\xE9 Saint Martin"
   dimanche: 10h30
-  facebook: fb.me/saintsapotres
+  facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Amiens"
   jeudi: ''
@@ -192,6 +206,7 @@ messes:
   mercredi: ''
   nom: "Saints Ap\xF4tres"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -205,6 +220,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/uebgnvy
 - communaute: ''
@@ -218,6 +234,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/YTDioAixArles
 - communaute: ''
@@ -231,6 +248,7 @@ messes:
   mercredi: 18h30
   nom: "Ct\xE9 St-Martin"
   samedi: 9h00
+  site: ''
   vendredi: 18h30
   youtube: https://tinyurl.com/ufs39tc
 - communaute: ''
@@ -244,6 +262,7 @@ messes:
   mercredi: 11h30
   nom: "Doyenn\xE9 Choletais"
   samedi: 11h30
+  site: ''
   vendredi: 11h30
   youtube: ''
 - communaute: ''
@@ -257,6 +276,7 @@ messes:
   mercredi: 19h
   nom: Saumur Charles de Foucault
   samedi: 19h
+  site: ''
   vendredi: 19h
   youtube: ''
 - communaute: ''
@@ -270,6 +290,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -283,6 +304,7 @@ messes:
   mercredi: ''
   nom: St-Augustin-en-Tardoire-et-Bandiat
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://urlz.fr/cd0y
 - communaute: ''
@@ -296,6 +318,7 @@ messes:
   mercredi: ''
   nom: Cognac
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -307,8 +330,9 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "ND en Cit\xE9"
+  nom: "Notre Dame en Cit\xE9"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/s9ublbg
 - communaute: "Communaut\xE9 Saint Jean"
@@ -322,6 +346,7 @@ messes:
   mercredi: 08h30
   nom: St Ruf
   samedi: 18h00
+  site: ''
   vendredi: 08h30
   youtube: https://tinyurl.com/sx9xdeu
 - communaute: ''
@@ -333,8 +358,9 @@ messes:
   lundi: 18h30
   mardi: 18h30
   mercredi: 18h30
-  nom: "Lescar ND en B\xE9arn"
+  nom: "Lescar Notre Dame en B\xE9arn"
   samedi: 11h00
+  site: ''
   vendredi: 18h30
   youtube: https://tinyurl.com/tbjwktz
 - communaute: ''
@@ -348,6 +374,7 @@ messes:
   mercredi: 18h
   nom: Bourg en Bresse
   samedi: 11h
+  site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/snebpwp
 - communaute: ''
@@ -361,6 +388,7 @@ messes:
   mercredi: 9h (Annonciation)
   nom: Pont de Veyle
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: "Communaut\xE9 de l'Emmanuel"
@@ -374,8 +402,9 @@ messes:
   mercredi: 18h
   nom: "Paray-le-Monial Sanctuaire du Sacr\xE9-Coeur"
   samedi: 8h
+  site: ''
   vendredi: 18h
-  youtube: https://tinyurl.com/rtbwgbw
+  youtube: https://www.youtube.com/channel/UCyTFwB2k0HuTu-zpOyxSvwQ
 - communaute: ''
   dimanche: ''
   facebook: ''
@@ -387,6 +416,7 @@ messes:
   mercredi: ''
   nom: "Banlieue Val de L\u2019oignon"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/shgm9mc
 - communaute: ''
@@ -400,6 +430,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/rdxjck3
 - communaute: ''
@@ -413,6 +444,7 @@ messes:
   mercredi: ''
   nom: Paroisses du Pays de Franois, Notre-Dame-des-Vignes et Marnay-Recologne.
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -426,6 +458,7 @@ messes:
   mercredi: 19h30
   nom: Montoire, St Laurent
   samedi: 8h30
+  site: ''
   vendredi: 19h30
   youtube: ''
 - communaute: ''
@@ -439,6 +472,7 @@ messes:
   mercredi: ''
   nom: Jalles
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/rm8mrum
 - communaute: ''
@@ -452,6 +486,7 @@ messes:
   mercredi: 18h
   nom: Libourne
   samedi: 18h
+  site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/v4yswwu
 - communaute: ''
@@ -465,6 +500,7 @@ messes:
   mercredi: ''
   nom: Dominicains
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/voxg6a7
 - communaute: ''
@@ -478,6 +514,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/t9e4fbc
 - communaute: ''
@@ -491,6 +528,7 @@ messes:
   mercredi: ''
   nom: Figeac
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/ubxeauv
 - communaute: ''
@@ -504,6 +542,7 @@ messes:
   mercredi: 18h30
   nom: "Saint-L\xF4 et Agneaux"
   samedi: 12h
+  site: ''
   vendredi: 18h30
   youtube: https://tinyurl.com/swvbnje
 - communaute: ''
@@ -517,21 +556,23 @@ messes:
   mercredi: ''
   nom: "St Michel (P. Etienne Cl\xE9ment)"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/tfbdwqw
-- communaute: ''
+- communaute: "Communaut\xE9 de l'Emmanuel"
   dimanche: 10h
   facebook: ''
   forme: Ordinaire
-  groupe: "Dioc\xE8se de Dinard-Pleurtuit"
+  groupe: "Dioc\xE8se de Rennes"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
   mercredi: 9h
-  nom: '?'
+  nom: "Saint Guillaume de La Rance et Notre-Dame d\u2019Emeraude\n"
   samedi: 9h
+  site: https://paroisses-dinard.catholique.fr/
   vendredi: 9h
-  youtube: https://tinyurl.com/v7auecm
+  youtube: https://www.youtube.com/user/paroissedinard
 - communaute: ''
   dimanche: 11h
   facebook: ''
@@ -543,6 +584,7 @@ messes:
   mercredi: ''
   nom: Carnoules
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/tgpbkru
 - communaute: "Fraternit\xE9 Missionnaire Marie M\xE8re des Ap\xF4tres"
@@ -556,6 +598,7 @@ messes:
   mercredi: 11h30
   nom: "Solli\xE8s"
   samedi: 11h30
+  site: ''
   vendredi: 11h30
   youtube: https://tinyurl.com/t9gqvfw
 - communaute: ''
@@ -569,6 +612,7 @@ messes:
   mercredi: ''
   nom: "Notre-Dame de la Nativit\xE9"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wkcbo2p
 - communaute: ''
@@ -582,6 +626,7 @@ messes:
   mercredi: 8h45
   nom: "Immacul\xE9e Conception"
   samedi: 8h45
+  site: ''
   vendredi: 8h45
   youtube: https://tinyurl.com/rmj99eq
 - communaute: ''
@@ -595,6 +640,7 @@ messes:
   mercredi: ''
   nom: Sanary St Nazaire
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/vasf9s5
 - communaute: ''
@@ -608,6 +654,7 @@ messes:
   mercredi: ''
   nom: Luc et Cannet
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/u6sd7wa
 - communaute: ''
@@ -621,6 +668,7 @@ messes:
   mercredi: ''
   nom: "Toulon Ste Th\xE9r\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/vspwgce
 - communaute: ''
@@ -634,6 +682,7 @@ messes:
   mercredi: ''
   nom: FMJP2 International
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/u6wchuv
 - communaute: ''
@@ -647,6 +696,7 @@ messes:
   mercredi: 8h45
   nom: La Garde
   samedi: 10h15
+  site: ''
   vendredi: 8h45
   youtube: https://tinyurl.com/yx4ynaym
 - communaute: ''
@@ -660,6 +710,7 @@ messes:
   mercredi: ''
   nom: "St Rapha\xEBl"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/tcuhrbw
 - communaute: ''
@@ -673,6 +724,7 @@ messes:
   mercredi: 10h
   nom: Notre-Dame du Laus
   samedi: 10h
+  site: ''
   vendredi: 10h
   youtube: https://tinyurl.com/vcuzxv4
 - communaute: ''
@@ -686,6 +738,7 @@ messes:
   mercredi: 11h45
   nom: "Basilique Sacr\xE9 Coeur"
   samedi: 11h45
+  site: ''
   vendredi: 11h45
   youtube: https://tinyurl.com/w9lr2le
 - communaute: ''
@@ -699,6 +752,7 @@ messes:
   mercredi: ''
   nom: Villeneuve d'Ascq
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/s947j8j
 - communaute: ''
@@ -712,6 +766,7 @@ messes:
   mercredi: 18h
   nom: "Fr\xE9d\xE9rique Ozanam"
   samedi: 18h
+  site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/u9z4jsz
 - communaute: ''
@@ -725,6 +780,7 @@ messes:
   mercredi: 11h30
   nom: "Dioc\xE8se"
   samedi: 11h30
+  site: ''
   vendredi: 11h30
   youtube: https://tinyurl.com/r48xf53
 - communaute: ''
@@ -738,6 +794,7 @@ messes:
   mercredi: 18h30
   nom: "Montaigu/la Bruffi\xE8re"
   samedi: 9h et 19h
+  site: ''
   vendredi: 19h
   youtube: ''
 - communaute: ''
@@ -751,6 +808,7 @@ messes:
   mercredi: 10h
   nom: Saint Nizier
   samedi: 10h
+  site: ''
   vendredi: 10h
   youtube: https://tinyurl.com/vfrfsy9
 - communaute: ''
@@ -764,6 +822,7 @@ messes:
   mercredi: 9h
   nom: "Notre-Dame de la Mis\xE9ricorde"
   samedi: 9h
+  site: https://www.nd-misericorde.com/
   vendredi: 9h
   youtube: https://tinyurl.com/rua5esc
 - communaute: ''
@@ -777,6 +836,7 @@ messes:
   mercredi: 17h
   nom: "Fourvi\xE8re"
   samedi: 17h
+  site: ''
   vendredi: 17h
   youtube: https://tinyurl.com/vkdn2cp
 - communaute: ''
@@ -790,6 +850,7 @@ messes:
   mercredi: 19h
   nom: "St Pothin Immacul\xE9e Conception"
   samedi: 11h
+  site: ''
   vendredi: 19h
   youtube: https://tinyurl.com/wzop4my
 - communaute: "Communaut\xE9 de l'Emmanuel"
@@ -803,6 +864,7 @@ messes:
   mercredi: ''
   nom: "Val de Sa\xF4ne"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/qnh8893
 - communaute: ''
@@ -816,6 +878,7 @@ messes:
   mercredi: 12h
   nom: St Bruno des Chartreux
   samedi: 12h
+  site: ''
   vendredi: 12h
   youtube: https://tinyurl.com/tu5ugoo
 - communaute: ''
@@ -829,6 +892,7 @@ messes:
   mercredi: 12h
   nom: "St Vincent de Paul les R\xE9form\xE9s"
   samedi: 12h
+  site: ''
   vendredi: 12h
   youtube: https://tinyurl.com/wnxhwwm
 - communaute: ''
@@ -842,6 +906,7 @@ messes:
   mercredi: 9h30
   nom: "P\xF4le missionnaire"
   samedi: 9h30
+  site: ''
   vendredi: 9h30
   youtube: ''
 - communaute: ''
@@ -855,6 +920,7 @@ messes:
   mercredi: 8h30
   nom: "Dioc\xE8se"
   samedi: 8h30
+  site: ''
   vendredi: 8h30
   youtube: https://tinyurl.com/td739zf
 - communaute: ''
@@ -868,6 +934,7 @@ messes:
   mercredi: 18h
   nom: "P\xE8re Ren\xE9 Luc"
   samedi: 18h
+  site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/sb3hw9q
 - communaute: ''
@@ -881,6 +948,7 @@ messes:
   mercredi: ''
   nom: Sainte Madeleine
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wvajdh4
 - communaute: ''
@@ -894,6 +962,7 @@ messes:
   mercredi: ''
   nom: "St Fran\xE7ois d'Assise"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -907,6 +976,7 @@ messes:
   mercredi: "\xE0 venir"
   nom: "Asni\xE8res Centre"
   samedi: 11h15
+  site: ''
   vendredi: "\xE0 venir"
   youtube: https://tinyurl.com/yxyg8mom
 - communaute: "Communaut\xE9 Saint Jean"
@@ -920,6 +990,7 @@ messes:
   mercredi: 9h
   nom: "Ste C\xE9cile de Boulogne"
   samedi: 9h
+  site: ''
   vendredi: 9h
   youtube: https://tinyurl.com/rnckrxh
 - communaute: ''
@@ -933,6 +1004,7 @@ messes:
   mercredi: ''
   nom: "Ch\xE2tenay-Malabry"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/tlwzgph
 - communaute: ''
@@ -946,6 +1018,7 @@ messes:
   mercredi: ''
   nom: Clamart
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/sgpguud
 - communaute: ''
@@ -959,11 +1032,12 @@ messes:
   mercredi: 19h
   nom: St Pierre de Neuilly
   samedi: ''
+  site: ''
   vendredi: 19h
   youtube: https://tinyurl.com/tk5fdqz
 - communaute: ''
   dimanche: 11h
-  facebook: Facebook.com/stusmv
+  facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
   jeudi: 9h
@@ -972,8 +1046,9 @@ messes:
   mercredi: 9h
   nom: La Garenne-Colombes St Urbain
   samedi: 9h
+  site: ''
   vendredi: 9h
-  youtube: YouTube.stusmv.fr
+  youtube: ''
 - communaute: ''
   dimanche: ''
   facebook: ''
@@ -985,6 +1060,7 @@ messes:
   mercredi: ''
   nom: Levallois St Justin
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wkd5e55
 - communaute: ''
@@ -998,6 +1074,7 @@ messes:
   mercredi: 9h
   nom: Sceaux St JB
   samedi: 9h
+  site: ''
   vendredi: 9h
   youtube: https://tinyurl.com/PSJBSCX
 - communaute: ''
@@ -1011,6 +1088,7 @@ messes:
   mercredi: 12h
   nom: Rueil-Malmaison
   samedi: 12h
+  site: ''
   vendredi: 12h
   youtube: https://tinyurl.com/r7fjfxb
 - communaute: ''
@@ -1024,6 +1102,7 @@ messes:
   mercredi: ''
   nom: "P\xF4le Bel Issy-les-Moulineaux"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/rav46c4
 - communaute: ''
@@ -1037,19 +1116,21 @@ messes:
   mercredi: 9h
   nom: Garches St Louis
   samedi: 9h
+  site: ''
   vendredi: 9h
   youtube: https://tinyurl.com/qomdna8
 - communaute: ''
   dimanche: 11h
-  facebook: 'Messe sur leur site internet : http://www.paroissessmndbs.org/messe-dominicale-en-live/'
+  facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: St Marc ND de Bon Secours
+  nom: St Marc Notre Dame de Bon Secours
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -1063,6 +1144,7 @@ messes:
   mercredi: 10h
   nom: Notre-Dame
   samedi: 10h
+  site: ''
   vendredi: 10h
   youtube: https://tinyurl.com/rv4jwwd
 - communaute: ''
@@ -1076,6 +1158,7 @@ messes:
   mercredi: ''
   nom: St Vincent des Vignes
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wpypjl3
 - communaute: ''
@@ -1089,6 +1172,7 @@ messes:
   mercredi: ''
   nom: "Ch\xE2teaubriant"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/yx2jf2qt
 - communaute: ''
@@ -1102,6 +1186,7 @@ messes:
   mercredi: 18h
   nom: Grasse St Honorat
   samedi: 18h
+  site: https://paroisse-grasse.fr/
   vendredi: 18h
   youtube: ''
 - communaute: ''
@@ -1115,6 +1200,7 @@ messes:
   mercredi: ''
   nom: Notre-Dame de la Sagesse
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/t2lhwcd
 - communaute: "Communaut\xE9 Saint Jean"
@@ -1128,6 +1214,7 @@ messes:
   mercredi: 8h
   nom: St Laurent
   samedi: 8h
+  site: ''
   vendredi: 8h
   youtube: https://tinyurl.com/uw6dvlp
 - communaute: ''
@@ -1141,21 +1228,9 @@ messes:
   mercredi: 8h
   nom: Rives de Loire St Marceau
   samedi: 8h
+  site: ''
   vendredi: 8h
   youtube: https://tinyurl.com/twvnryf
-- communaute: ''
-  dimanche: 18h
-  facebook: ''
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Paray-le-Monial"
-  jeudi: 18h
-  lundi: 18h
-  mardi: 18h
-  mercredi: 18h
-  nom: Sanctuaires
-  samedi: 8h
-  vendredi: 18h
-  youtube: ''
 - communaute: ''
   dimanche: 11h
   facebook: ''
@@ -1167,6 +1242,7 @@ messes:
   mercredi: "en diff\xE9r\xE9 (vers 13h)"
   nom: "St Germain des Pr\xE9s"
   samedi: "en diff\xE9r\xE9 (vers 13h)"
+  site: https://www.eglise-saintgermaindespres.fr/
   vendredi: "en diff\xE9r\xE9 (vers 13h)"
   youtube: https://tinyurl.com/v4m4may
 - communaute: ''
@@ -1180,6 +1256,7 @@ messes:
   mercredi: 13h
   nom: St Denys du St Sacrement
   samedi: 13h
+  site: http://www.saintdenys.net
   vendredi: 13h
   youtube: https://tinyurl.com/task2ne
 - communaute: ''
@@ -1193,6 +1270,7 @@ messes:
   mercredi: 9h15
   nom: Saint Roch
   samedi: 9h15
+  site: ''
   vendredi: 9h15
   youtube: https://tinyurl.com/tsz6bt5
 - communaute: ''
@@ -1206,6 +1284,7 @@ messes:
   mercredi: ''
   nom: "Notre-Dame de Gr\xE2ces de Passy"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/v7nhc4x
 - communaute: ''
@@ -1219,6 +1298,7 @@ messes:
   mercredi: ''
   nom: "St Honor\xE9 d\u2019Eylau"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/u2d7adj
 - communaute: ''
@@ -1232,6 +1312,7 @@ messes:
   mercredi: 19h
   nom: St JB de Grenelle
   samedi: 9h
+  site: http://www.sjbg.org/
   vendredi: 19h
   youtube: https://tinyurl.com/v443ohb
 - communaute: ''
@@ -1245,6 +1326,7 @@ messes:
   mercredi: ''
   nom: St Nicolas des Champs
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -1258,6 +1340,7 @@ messes:
   mercredi: ''
   nom: Ste Clotilde
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/sad349r
 - communaute: ''
@@ -1271,6 +1354,7 @@ messes:
   mercredi: ''
   nom: Notre-Dame de la Salette
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/uzcmx84
 - communaute: ''
@@ -1284,6 +1368,7 @@ messes:
   mercredi: 18h
   nom: Notre-Dame d'Auteuil
   samedi: 18h
+  site: ''
   vendredi: 18h
   youtube: ''
 - communaute: ''
@@ -1297,6 +1382,7 @@ messes:
   mercredi: 18h15
   nom: Notre-Dame des Champs
   samedi: 18h30
+  site: ''
   vendredi: 18h15
   youtube: https://tinyurl.com/vtxx4hd
 - communaute: ''
@@ -1310,10 +1396,11 @@ messes:
   mercredi: ''
   nom: Ste Marie des Batignolles
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/sevq63z
 - communaute: ''
-  dimanche: Samedi 18h30, dimanche 9h, 10h, 11h et 19h
+  dimanche: 9h, 10h, 11h et 19h
   facebook: https://tinyurl.com/tdlgn6z
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
@@ -1323,6 +1410,7 @@ messes:
   mercredi: 7h30, 8h35, 12h, 19h
   nom: "St L\xE9on"
   samedi: 8h35 et 12h
+  site: ''
   vendredi: 7h30, 8h35, 12h, 19h
   youtube: https://tinyurl.com/sybss2s
 - communaute: ''
@@ -1336,6 +1424,7 @@ messes:
   mercredi: 12h
   nom: "St Fran\xE7ois de Sales"
   samedi: 12h
+  site: ''
   vendredi: 12h
   youtube: https://tinyurl.com/rsrgs4s
 - communaute: ''
@@ -1349,6 +1438,7 @@ messes:
   mercredi: ''
   nom: "St Andr\xE9 de l'Europe"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/qtt2btw
 - communaute: ''
@@ -1362,6 +1452,7 @@ messes:
   mercredi: 12h15
   nom: "St Louis en l'\xEEle"
   samedi: 12h15
+  site: ''
   vendredi: 12h15
   youtube: https://tinyurl.com/wlcnfqt
 - communaute: ''
@@ -1375,6 +1466,7 @@ messes:
   mercredi: ''
   nom: St Ferdinand des Ternes
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/s8mtymg
 - communaute: ''
@@ -1388,6 +1480,7 @@ messes:
   mercredi: 10h
   nom: St Pierre du Gros Caillou
   samedi: 10h
+  site: ''
   vendredi: 10h
   youtube: https://tinyurl.com/yx3tza4t
 - communaute: ''
@@ -1401,6 +1494,7 @@ messes:
   mercredi: 9h, 12h, 19h
   nom: "Immacul\xE9e Conception"
   samedi: 9h et 12h
+  site: ''
   vendredi: 9h, 12h, 19h
   youtube: https://tinyurl.com/v258aw6
 - communaute: ''
@@ -1414,6 +1508,7 @@ messes:
   mercredi: 8h30
   nom: St Ambroise
   samedi: 8h30
+  site: ''
   vendredi: 8h30
   youtube: https://tinyurl.com/rdd7llo
 - communaute: ''
@@ -1427,6 +1522,7 @@ messes:
   mercredi: ''
   nom: L'Isle Adam
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/utbd56x
 - communaute: ''
@@ -1440,6 +1536,7 @@ messes:
   mercredi: 19h
   nom: Brest St Luc
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -1453,6 +1550,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/tv7hfyq
 - communaute: ''
@@ -1466,6 +1564,7 @@ messes:
   mercredi: ''
   nom: Redon
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -1479,6 +1578,7 @@ messes:
   mercredi: 12h15
   nom: Catho BihoRouen
   samedi: 12h15
+  site: http://paroissestemariedesnations.fr/
   vendredi: 12h15
   youtube: https://tinyurl.com/ryvqo6b
 - communaute: ''
@@ -1492,6 +1592,7 @@ messes:
   mercredi: ''
   nom: Notre-Dame
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -1505,6 +1606,7 @@ messes:
   mercredi: 9h
   nom: St Georges de Posherville
   samedi: 8h30
+  site: ''
   vendredi: 11h
   youtube: ''
 - communaute: ''
@@ -1518,6 +1620,7 @@ messes:
   mercredi: ''
   nom: "Saint-Denys de l'Estr\xE9e"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
@@ -1531,6 +1634,7 @@ messes:
   mercredi: ' '
   nom: Aubervilliers St Paul du Montfort et Notre-Dame des Vertus
   samedi: ' '
+  site: ''
   vendredi: ' '
   youtube: https://tinyurl.com/s5p5de4
 - communaute: ''
@@ -1544,6 +1648,7 @@ messes:
   mercredi: ''
   nom: "Dioc\xE8se"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/ssq4d5m
 - communaute: ''
@@ -1557,6 +1662,7 @@ messes:
   mercredi: 11h
   nom: "Dioc\xE8se"
   samedi: 11h
+  site: ''
   vendredi: 11h
   youtube: https://tinyurl.com/vktufo9
 - communaute: ''
@@ -1570,6 +1676,7 @@ messes:
   mercredi: 18h
   nom: "Notre Dame du Val d'Orne (Ecouch\xE9) et Saint Jean Eudes du Val d'Orne (Putanges)"
   samedi: 18h
+  site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/uxn9bmv
 - communaute: ''
@@ -1583,6 +1690,7 @@ messes:
   mercredi: '-'
   nom: "Alen\xE7on (basilique)"
   samedi: '-'
+  site: ''
   vendredi: '-'
   youtube: https://tinyurl.com/rjsgctr
 - communaute: ''
@@ -1596,6 +1704,7 @@ messes:
   mercredi: ''
   nom: "Cath\xE9drale"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://urlz.fr/c9Qg
 - communaute: ''
@@ -1609,6 +1718,7 @@ messes:
   mercredi: 18h
   nom: La Saudrune
   samedi: ''
+  site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/sylb6ah
 - communaute: ''
@@ -1622,9 +1732,10 @@ messes:
   mercredi: ''
   nom: Dominicains
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wou9gc3
-- communaute: ''
+- communaute: "Communaut\xE9 Saint Martin"
   dimanche: 11h
   facebook: https://tinyurl.com/r5zrhyv
   forme: Ordinaire
@@ -1633,8 +1744,9 @@ messes:
   lundi: 11h
   mardi: 11h
   mercredi: 11h
-  nom: "Chinon (Ct\xE9 St Martin)"
+  nom: Chinon
   samedi: 11h
+  site: ''
   vendredi: 11h
   youtube: ''
 - communaute: ''
@@ -1646,8 +1758,9 @@ messes:
   lundi: 9h
   mardi: 9h
   mercredi: 9h
-  nom: "St Gr\xE9goire de LIGUEIL"
+  nom: "St Gr\xE9goire de Ligueil"
   samedi: 9h
+  site: ''
   vendredi: 9h
   youtube: ''
 - communaute: ''
@@ -1661,6 +1774,7 @@ messes:
   mercredi: 18h30
   nom: N-D de Lourdes et saint Pie X
   samedi: 9h
+  site: http://eglise-vannes-emmanuel.fr/2020/03/18/les-messes-en-direct/
   vendredi: 18h30
   youtube: ''
 - communaute: ''
@@ -1674,6 +1788,7 @@ messes:
   mercredi: ''
   nom: St Patern
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/uvmr9sb
 - communaute: ''
@@ -1687,8 +1802,9 @@ messes:
   mercredi: ''
   nom: "Carnac - La Trinit\xE9 - Plouharnel"
   samedi: ''
+  site: ''
   vendredi: ''
-  youtube: bzh.me/carnac
+  youtube: ''
 - communaute: ''
   dimanche: 10h
   facebook: ''
@@ -1700,6 +1816,7 @@ messes:
   mercredi: ''
   nom: Le Chesnay-Rocquencourt
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/v6f2l4f
 - communaute: ''
@@ -1713,6 +1830,7 @@ messes:
   mercredi: ''
   nom: St-Symphorien
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/vmckdp3
 - communaute: ''
@@ -1726,6 +1844,7 @@ messes:
   mercredi: ''
   nom: Rambouillet
   samedi: ''
+  site: https://paroisserambouillet.fr
   vendredi: ''
   youtube: https://tinyurl.com/rvtlzze
 - communaute: ''
@@ -1739,6 +1858,7 @@ messes:
   mercredi: ''
   nom: Ste Jeanne d'Arc
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: http://tinyurl.com/syxw4ja
 - communaute: ''
@@ -1752,6 +1872,7 @@ messes:
   mercredi: ''
   nom: Notre-Dame
   samedi: ''
+  site: https://notredameversailles.fr/
   vendredi: ''
   youtube: https://tinyurl.com/versaillesND
 - communaute: ''
@@ -1765,6 +1886,7 @@ messes:
   mercredi: ''
   nom: Paroisse Guyancourt
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/sqk3692
 - communaute: ''
@@ -1778,6 +1900,7 @@ messes:
   mercredi: 19h
   nom: Paroisse St Martin de Triel
   samedi: 19h
+  site: ''
   vendredi: 19h
   youtube: ''
 - communaute: ''
@@ -1791,6 +1914,7 @@ messes:
   mercredi: ''
   nom: St Pierre de Crussol
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/s6sgnj6
 - communaute: FSSP
@@ -1804,6 +1928,7 @@ messes:
   mercredi: 9h
   nom: St Bruno
   samedi: 9h
+  site: ''
   vendredi: 9h
   youtube: ''
 - communaute: FSSP
@@ -1817,6 +1942,7 @@ messes:
   mercredi: ''
   nom: St Aignan
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/r7vdnwp
 - communaute: FSSP
@@ -1830,6 +1956,7 @@ messes:
   mercredi: ''
   nom: Dijon
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: FSSP
@@ -1843,11 +1970,12 @@ messes:
   mercredi: ''
   nom: Grenoble
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/sw2ba38
 - communaute: FSSP
   dimanche: 10h
-  facebook: www.facebook.com/fssplyon/
+  facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Lyon"
   jeudi: 18h45
@@ -1856,10 +1984,11 @@ messes:
   mercredi: 18h45
   nom: St Just
   samedi: '11'
+  site: ''
   vendredi: 28h45
   youtube: https://tinyurl.com/st5e6ko
 - communaute: FSSP
-  dimanche: 9h - Chapelet 19h15
+  dimanche: 9h
   facebook: https://tinyurl.com/rkqma3z
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Paris"
@@ -1869,6 +1998,7 @@ messes:
   mercredi: ''
   nom: Paris
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
 - communaute: FSSP
@@ -1882,6 +2012,7 @@ messes:
   mercredi: ''
   nom: Pau
   samedi: 9h
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/wjkouje
 - communaute: FSSP
@@ -1895,6 +2026,7 @@ messes:
   mercredi: ''
   nom: Perpignan
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/qtrynso
 - communaute: FSSP
@@ -1908,6 +2040,7 @@ messes:
   mercredi: ''
   nom: Notre-Dame
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/w5edqr9
 - communaute: FSSP
@@ -1921,6 +2054,7 @@ messes:
   mercredi: ''
   nom: "Immacul\xE9e"
   samedi: 11h
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/vhfhtf2
 - communaute: ''
@@ -1934,10 +2068,11 @@ messes:
   mercredi: ''
   nom: "Fraternit\xE9 Saint-Vincent-Ferrier"
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: https://tinyurl.com/uxlk5pp
 - communaute: ''
-  dimanche: "Apr\xE8s Tierce \xE0 10h en audio"
+  dimanche: 10h
   facebook: https://tinyurl.com/toju996
   forme: Extraordinaire
   groupe: ''
@@ -1947,5 +2082,188 @@ messes:
   mercredi: ''
   nom: Abbaye du Barroux
   samedi: ''
+  site: ''
   vendredi: ''
   youtube: ''
+- communaute: ''
+  dimanche: ''
+  facebook: https://tinyurl.com/u8u3czp
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Chanoines de Lagrasse (Chanoines R\xE9gulier de la M\xE8re de Dieu)"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 10h
+  facebook: https://www.facebook.com/icrspLille
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Lille"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: ICRSP Notre-Dame de Fatima et ICRSP Lille
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/tzljqa3
+- communaute: ''
+  dimanche: 11h et 18h30
+  facebook: https://tinyurl.com/qubv7to
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: ''
+  lundi: 11h et 18h30
+  mardi: ''
+  mercredi: ''
+  nom: Institut du Bon Pasteur
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/wfxhxak
+- communaute: ''
+  dimanche: 9h et 11h30
+  facebook: https://tinyurl.com/wdaoked
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: ''
+  lundi: 9h
+  mardi: ''
+  mercredi: ''
+  nom: "Institut du Christ Roi Souverain Pr\xEAtre"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 9h et 10h30
+  facebook: https://tinyurl.com/sae3cl6
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Lyon"
+  jeudi: ''
+  lundi: 9h et 18h30
+  mardi: ''
+  mercredi: ''
+  nom: St Georges
+  samedi: 9h et 11h
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/t6ctwjv
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://tinyurl.com/rem8knc
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Toulon"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Missionnaires de la Mis\xE9ricorde Divine"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/rovnj5t
+- communaute: ''
+  dimanche: ''
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Nanterre"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: 19h00
+  nom: La Garenne-Colombes St Urbain
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 9h30
+  facebook: https://www.facebook.com/SaintRochParis/
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Paris"
+  jeudi: ''
+  lundi: 8h30
+  mardi: ''
+  mercredi: ''
+  nom: Saint Roch
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/tsz6bt5
+- communaute: ''
+  dimanche: 11h et 19h
+  facebook: https://www.facebook.com/Saint.Eugene.Sainte.Cecile/
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Paris"
+  jeudi: ''
+  lundi: 19h
+  mardi: ''
+  mercredi: ''
+  nom: "Saint-Eug\xE8ne Sainte-C\xE9cile"
+  samedi: 9h30
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/w2huzrx
+- communaute: ''
+  dimanche: 11h
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Rome"
+  jeudi: ''
+  lundi: 18H30
+  mardi: ''
+  mercredi: ''
+  nom: Institut du Bon Pasteur
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/vlgk6s4
+- communaute: ''
+  dimanche: 9h30
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Vannes"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: St-Patern
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/uvmr9sb
+- communaute: ''
+  dimanche: 10h
+  facebook: https://tinyurl.com/t6ghpmb
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Versailles"
+  jeudi: ''
+  lundi: 18h
+  mardi: ''
+  mercredi: ''
+  nom: "Notre-Dame des Arm\xE9es (NDA)"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/umkjevm
+- communaute: ''
+  dimanche: 10h30
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Versailles"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Saint-Martin de Br\xE9thencourt"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/tlj5e9t

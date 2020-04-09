@@ -10,3 +10,7 @@ develop:
 
 src/data/messes-en-direct.yaml: src/data/messes-en-direct.csv scripts/csv2yaml.py
 	python3 scripts/csv2yaml.py $< $@
+
+build:
+	npm run build
+.PHONY: build

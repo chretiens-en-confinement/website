@@ -41,8 +41,21 @@ const Masses = ({ masses }) => {
           )}
         </td>
         <td>
-          {m.youtube && <a href={m.youtube}>Youtube</a>}&nbsp;
-          {m.facebook && <a href={m.facebook}>Facebook</a>}
+          {m.youtube && (
+            <a href={m.youtube} target="_blank" style={{ marginRight: 6 }}>
+              Youtube
+            </a>
+          )}
+          {m.facebook && (
+            <a href={m.facebook} target="_blank" style={{ marginRight: 6 }}>
+              Facebook
+            </a>
+          )}
+          {m.site && (
+            <a href={m.site} target="_blank">
+              Site
+            </a>
+          )}
         </td>
       </tr>
     )
@@ -157,6 +170,7 @@ export const pageQuery = graphql`
           dimanche
           youtube
           facebook
+          site
         }
       }
     }
