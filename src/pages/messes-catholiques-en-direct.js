@@ -42,17 +42,27 @@ const Masses = ({ masses }) => {
         </td>
         <td>
           {m.youtube && (
-            <a href={m.youtube} target="_blank" style={{ marginRight: 6 }}>
+            <a
+              href={m.youtube}
+              target="_blank"
+              style={{ marginRight: 6 }}
+              rel="noopener noreferrer"
+            >
               Youtube
             </a>
           )}
           {m.facebook && (
-            <a href={m.facebook} target="_blank" style={{ marginRight: 6 }}>
+            <a
+              href={m.facebook}
+              target="_blank"
+              style={{ marginRight: 6 }}
+              rel="noopener noreferrer"
+            >
               Facebook
             </a>
           )}
           {m.site && (
-            <a href={m.site} target="_blank">
+            <a href={m.site} target="_blank" rel="noopener noreferrer">
               Site
             </a>
           )}

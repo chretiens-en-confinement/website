@@ -24,6 +24,13 @@ const ContributePage = () => {
     <Layout>
       <SEO title="Comment contribuer" />
       <h1>Comment contribuer ?</h1>
+      <h2>Partager le lien</h2>
+      <p>
+        N'hésitez pas à partager notre page :{" "}
+        <a href="https://chretiens-en-confinement.org/">
+          https://chretiens-en-confinement.org/
+        </a>
+      </p>
       <h2>Pour ajouter une messe</h2>
       <p>
         <strong>Notre solution préférée</strong> : nous travaillons avec le
@@ -38,8 +45,8 @@ const ContributePage = () => {
         Autre solution : allez sur notre Github <Github />.
       </p>
       <p>
-        Autre solution : par email sur <Email />. Nous recevons de nombreuses
-        demandes et serons un peu plus lent à vous répondre.{" "}
+        Autre solution : envoyez-nous un email sur <Email />. Nous recevons de
+        nombreuses demandes et serons un peu plus lent à vous répondre.{" "}
       </p>
       <h2>Pour ajouter un contenu</h2>
       <p>
@@ -55,8 +62,8 @@ const ContributePage = () => {
         <code>src/markdown-pages/index.md</code>.
       </p>
       <p>
-        Autre solution : par email sur <Email />. Nous recevons de nombreuses
-        demandes et serons un peu plus lent à vous répondre.{" "}
+        Autre solution : envoyez-nous un email sur <Email />. Nous recevons de
+        nombreuses demandes et serons un peu plus lent à vous répondre.{" "}
       </p>
     </Layout>
   )
