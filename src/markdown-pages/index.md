@@ -14,6 +14,13 @@ title: "Liste collaborative pour vivre le confinement autrement"
 * Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
 * [Priez pour la régression du Covid-19](https://www.finducovid19.com/) Jeudi, Vendredi et Samedi Saint
 
+Pour les enfants :
+
+* Magnificat Junior propose des [coloriages, bandes dessinées et activités](https://francais.magnificat.net/accueil/coloriages/)
+* Des idées d'activités, des vidéos, des coloriages et des chants pour chaque jour chez [Prions en Église](https://www.prionseneglise.fr/en-famille)
+* Les [coloriages de Mame](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
+* Théobule propose une sélection d'activité et de jeux pour le [Carême et Pâques](https://www.theobule.org/jeux-et-bricolages)
+
 ## Suivre la messe
 
 La liste ci-dessous n'est pas exhaustive et se concentre sur les messes à très grande portée. Nous vous proposons une liste a priori exhaustive ici : [messes catholiques en direct](/messes-catholiques-en-direct)

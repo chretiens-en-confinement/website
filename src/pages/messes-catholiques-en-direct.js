@@ -75,8 +75,11 @@ const IndexPage = ({ data }) => {
       <ContributeMessage />
       <h2>Messes</h2>
       <p>
-        ⚠️ Cette liste est en construction. Nous travaillons avec le groupe
-        messes en direct pour l'améliorer et faciliter l'ajout de messes. ⚠️
+        <span role="img" aria-label="attention">
+          ⚠️
+        </span>{" "}
+        Cette liste est en construction. Nous travaillons avec le groupe messes
+        en direct pour l'améliorer et faciliter l'ajout de messes.
       </p>
       <p>
         Pour bien suivre la messe (notamment avec des enfants), consultez la{" "}
