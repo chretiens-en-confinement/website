@@ -67,36 +67,14 @@ const IndexPage = ({ data }) => {
       <SEO title="Messes et offices" />
       <h1>Messes et offices en ligne</h1>
       <ContributeMessage />
-      <h2>Bien suivre la messe</h2>
-      <p>
-        <a href="/">Consultez notre liste collaborative.</a>
-      </p>
-      <h2>Autres listes</h2>
-      <p>Vous trouverez d'autres listes ici :</p>
-      <ul>
-        <li>
-          KTO :{" "}
-          <a href="https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video">
-            Où suivre la messe en direct sur Internet ?
-          </a>
-          .
-        </li>
-        <li>
-          <a href="http://bougetoneglise.fr/recherche/live/">
-            Bouge ton Église
-          </a>
-        </li>
-        <li>
-          Groupe Facebook{" "}
-          <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
-            Messes en direct
-          </a>
-        </li>{" "}
-      </ul>
       <h2>Messes</h2>
       <p>
         ⚠️ Cette liste est en construction. Nous travaillons avec le groupe
         messes en direct pour l'améliorer et faciliter l'ajout de messes. ⚠️
+      </p>
+      <p>
+        Pour bien suivre la messe (notamment avec des enfants), consultez la{" "}
+        <a href="/">page d'accueil</a>.
       </p>
       <p>
         Nous remercions tout particulièrement le groupe{" "}
@@ -124,6 +102,28 @@ const IndexPage = ({ data }) => {
           })}
         </tbody>
       </table>
+      <h2>Autres listes</h2>
+      <p>Vous trouverez d'autres listes ici :</p>
+      <ul>
+        <li>
+          KTO :{" "}
+          <a href="https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video">
+            Où suivre la messe en direct sur Internet ?
+          </a>
+          .
+        </li>
+        <li>
+          <a href="http://bougetoneglise.fr/recherche/live/">
+            Bouge ton Église
+          </a>
+        </li>
+        <li>
+          Groupe Facebook{" "}
+          <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
+            Messes en direct
+          </a>
+        </li>{" "}
+      </ul>
     </Layout>
   )
 }
