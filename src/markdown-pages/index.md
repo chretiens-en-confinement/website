@@ -42,6 +42,7 @@ Pour mieux célébrer le dimanche :
 ## Suivre les offices monastiques: 
 
 * L'abbaye du Barroux propose l'écoute des offices du jour en [direct](https://www.barroux.org/fr/liturgie/ecoutez-nos-offices.html), en différé par [podcast](https://podcasts.apple.com/fr/podcast/les-offices-de-labbaye-du-barroux/id1160516335) ou sur son application mobile : [Android](https://play.google.com/store/apps/details?id=com.leta027.localhost.abbayedubarroux), [iOS](https://apps.apple.com/fr/app/barroux/id486795862)
+* Radio Espérance, parmi d'autres contenus, propose la diffusion des offices de diverses abbayes bénédictines sur sa [chaine grégorienne](http://player.radio-esperance.fr/?radio=chant-gregorien#current) 
 
 ## Prier pour un proche en train de mourir
 
