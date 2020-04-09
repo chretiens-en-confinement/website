@@ -22,6 +22,12 @@ const Masses = ({ masses }) => {
               <em>{m.communaute}</em>
             </>
           )}
+          {m.forme === "Extraordinaire" && (
+            <>
+              <br />
+              <em>Forme extraordinaire</em>
+            </>
+          )}
         </td>
         <td>{m.dimanche}</td>
         <td>
@@ -138,6 +144,7 @@ export const pageQuery = graphql`
           groupe
           nom
           communaute
+          forme
           lundi
           mardi
           mercredi

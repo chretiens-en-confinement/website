@@ -18,6 +18,7 @@ KEYS = {
     "Vendredi": "vendredi",
     "Samedi": "samedi",
     "Dimanche": "dimanche",
+    "Forme": "forme",
 }
 
 
