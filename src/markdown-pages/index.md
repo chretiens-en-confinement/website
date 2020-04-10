@@ -86,7 +86,7 @@ Deux podcasts pour écouter l'Évangile avec ses commentaires :
 
 # 🎓 Me former
 
-## Parcourir les fondamentaux de l'Eglie
+## Parcourir les fondamentaux de l'Eglise
 
 L'Église propose tous ses contenus en ligne :
 
