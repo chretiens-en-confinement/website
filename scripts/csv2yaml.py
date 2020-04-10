@@ -1,5 +1,6 @@
 import argparse
 import csv
+from operator import itemgetter
 import sys
 from typing import TextIO, Union, Any, Dict
 
@@ -44,7 +45,7 @@ def main(infile: TextIO, outfile: TextIO) -> None:
     reader = csv.DictReader(infile)
     rows = list(reader)
 
-    masses = list(filter(None, map(transform, rows)))
+    masses = sorted(list(filter(None, map(transform, rows))), key=itemgetter("groupe"))
 
     out = {"messes": masses}
 

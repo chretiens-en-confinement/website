@@ -1,21 +1,21 @@
 messes:
 - communaute: ''
-  dimanche: ''
+  dimanche: 11h
   facebook: ''
   forme: Ordinaire
   groupe: ''
-  jeudi: ''
-  lundi: plusieurs messes quotidiennes, voir le site
-  mardi: ''
-  mercredi: ''
+  jeudi: 12h
+  lundi: 12h
+  mardi: 12h
+  mercredi: 12h
   nom: "Communaut\xE9 de l'Emmanuel"
   samedi: ''
   site: https://emmanuel.info/les-messes-en-direct/
-  vendredi: ''
-  youtube: https://tinyurl.com/v4ee6cd
+  vendredi: 12h
+  youtube: https://www.youtube.com/user/ctedelemmanuel
 - communaute: ''
   dimanche: 11h
-  facebook: https://tinyurl.com/s479dr6
+  facebook: https://www.facebook.com/communautesaintmartin
   forme: Ordinaire
   groupe: ''
   jeudi: ''
@@ -29,59 +29,17 @@ messes:
   youtube: ''
 - communaute: ''
   dimanche: 11h et 18h
-  facebook: https://bit.ly/3dlyV5a
+  facebook: https://www.facebook.com/regnumchristi.france
   forme: Ordinaire
   groupe: ''
   jeudi: 18h
   lundi: 18h
   mardi: 18h
   mercredi: 18h
-  nom: Regnum Christi/Ecyd France
+  nom: Regnum Christi France
   samedi: 18h
   site: https://bit.ly/2QA0E8m
   vendredi: 18h
-  youtube: https://bit.ly/2UmTbe6
-- communaute: Franciscains
-  dimanche: 10h30
-  facebook: https://tinyurl.com/vxq8nx6
-  forme: Ordinaire
-  groupe: "Belgique - Dioc\xE8se de Bruxelles"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: Couvent St Antoine
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/w8cgjpe
-- communaute: ''
-  dimanche: 10h
-  facebook: ''
-  forme: Ordinaire
-  groupe: "Suisse - Dioc\xE8se de Sion"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: Secteur Aigle
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/ro63soe
-- communaute: ''
-  dimanche: 10h30
-  facebook: https://tinyurl.com/t84z52s
-  forme: Ordinaire
-  groupe: "Dioc\xE8se aux Arm\xE9es"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Aum\xF4nerie Militaire de Nouvelle Cal\xE9donie - Wallis et Futuna"
-  samedi: ''
-  site: ''
-  vendredi: ''
   youtube: ''
 - communaute: ''
   dimanche: 12h15
@@ -92,56 +50,56 @@ messes:
   lundi: 12h15
   mardi: 12h15
   mercredi: 12h15
-  nom: "Monast\xE8re de la Consolation"
+  nom: "Draguignan - Monast\xE8re de la Consolation"
   samedi: 12h15
   site: ''
   vendredi: 12h15
-  youtube: https://tinyurl.com/yx56nc4b
+  youtube: https://www.youtube.com/channel/UCOBzexmaiA9cRFIcfFtNDkg/featured
 - communaute: ''
   dimanche: 10h
-  facebook: https://tinyurl.com/txc7bfk
+  facebook: https://m.facebook.com/Serviteurs.SJM/
   forme: Ordinaire
   groupe: ''
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Serviteurs de J\xE9sus et de Marie"
+  nom: "Ourscamp - Serviteurs de J\xE9sus et de Marie"
   samedi: ''
   site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
   dimanche: 10h30
-  facebook: https://tinyurl.com/up25eg2
+  facebook: https://www.facebook.com/PetitsFreres2Marie/
   forme: Ordinaire
   groupe: ''
   jeudi: 11h
   lundi: 11h
   mardi: 11h
   mercredi: 11h
-  nom: "Prieur\xE9 de la Cotellerie"
+  nom: "Bazougers - Prieur\xE9 de la Cotellerie"
   samedi: 11h
   site: ''
   vendredi: 11h
   youtube: ''
 - communaute: ''
   dimanche: 11h
-  facebook: https://tinyurl.com/vady8p6
+  facebook: https://www.facebook.com/Fraternite.Tiberiade/
   forme: Ordinaire
   groupe: ''
   jeudi: 17h
   lundi: 18h30
   mardi: 17h
   mercredi: 17h
-  nom: "Fraternit\xE9 de Tib\xE9riade"
+  nom: "Namur - Fraternit\xE9 de Tib\xE9riade"
   samedi: 17h
   site: https://www.tiberiade.be/
   vendredi: 17h
   youtube: ''
 - communaute: ''
   dimanche: 12h et 19h
-  facebook: https://tinyurl.com/skwaadd
+  facebook: https://www.facebook.com/CheminNeuf
   forme: Ordinaire
   groupe: ''
   jeudi: ''
@@ -152,21 +110,7 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/s3f87je
-- communaute: "Sal\xE9sien de Don Bosco"
-  dimanche: 21h30
-  facebook: ''
-  forme: Ordinaire
-  groupe: ''
-  jeudi: 21h30
-  lundi: 21h30
-  mardi: 21h30
-  mercredi: 21h30
-  nom: "Fr\xE8re Benjamin"
-  samedi: 21h30
-  site: ''
-  vendredi: 21h30
-  youtube: https://tinyurl.com/wcy43qg
+  youtube: https://www.youtube.com/playlist?list=PLQplzPsSqWiniIWL-Hw93rRp3N1SunvP1
 - communaute: ''
   dimanche: 10h
   facebook: ''
@@ -180,7 +124,133 @@ messes:
   samedi: 10h
   site: https://www.lourdes-france.org/
   vendredi: 10h
-  youtube: https://tinyurl.com/s9xuj7y
+  youtube: https://www.youtube.com/channel/UC7zlbnNCnuAPiC3goKcFgUg
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://www.facebook.com/FraterniteSaintVincentFerrier/
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Ch\xE9m\xE9r\xE9-le-roi - Fraternit\xE9 Saint-Vincent-Ferrier"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://www.youtube.com/channel/UCAnKL0epa83Br5tZfTZD7Eg/featured
+- communaute: ''
+  dimanche: 10h
+  facebook: https://www.barroux.org/fr/liturgie/ecoutez-nos-offices.html
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: ''
+  lundi: 19h45
+  mardi: 19h45
+  mercredi: ''
+  nom: Abbaye du Barroux
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: ''
+  facebook: https://www.facebook.com/abbayedeschanoinesdelagrasse/
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Chanoines de Lagrasse (Chanoines R\xE9gulier de la M\xE8re de Dieu)"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 11h et 18h30
+  facebook: https://www.facebook.com/Institut.du.Bon.Pasteur
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: 11h et 18h30
+  lundi: 11h et 18h30
+  mardi: 11h et 18h30
+  mercredi: 11h et 18h30
+  nom: Institut du Bon Pasteur
+  samedi: 11h et 18h30
+  site: ''
+  vendredi: 11h et 18h30
+  youtube: https://www.youtube.com/channel/UCiWilCCTiEgEYmYUzVyNqYA
+- communaute: ''
+  dimanche: 9h et 11h30
+  facebook: https://www.facebook.com/gricigliano.icrss
+  forme: Extraordinaire
+  groupe: ''
+  jeudi: 9h
+  lundi: 9h
+  mardi: 9h
+  mercredi: 9h
+  nom: "Institut du Christ Roi Souverain Pr\xEAtre"
+  samedi: 9h
+  site: ''
+  vendredi: 9h
+  youtube: ''
+- communaute: Franciscains
+  dimanche: 10h30
+  facebook: https://www.facebook.com/FranciscainsConventuelsBXL/
+  forme: Ordinaire
+  groupe: "Belgique - Dioc\xE8se de Bruxelles"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: Bruxelles - Couvent St Antoine
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://www.youtube.com/watch?v=JZgaQ_l0J9E
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://www.facebook.com/aumoneriemilitairenouvellecaledonie/
+  forme: Ordinaire
+  groupe: "Dioc\xE8se aux Arm\xE9es"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Aum\xF4nerie Militaire de Nouvelle Cal\xE9donie - Wallis et Futuna"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://www.facebook.com/DioAixArles/
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Aix et Arles"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Dioc\xE8se"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://www.youtube.com/channel/UCKcqJNpKL6mr_hs8dOK_TGw
+- communaute: ''
+  dimanche: 11h00
+  facebook: https://www.facebook.com/ParoisseArles/
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Aix et Arles"
+  jeudi: 18h30
+  lundi: 18h30
+  mardi: 18h30
+  mercredi: 18h30
+  nom: "Martigues - Communaut\xE9 Saint Martin"
+  samedi: 9h00
+  site: ''
+  vendredi: 18h30
+  youtube: https://www.youtube.com/channel/UCGyeL4sqNt1g8Sg46wI2GaQ
 - communaute: ''
   dimanche: ''
   facebook: ''
@@ -194,24 +264,66 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/wv9ce8k
+  youtube: https://www.youtube.com/channel/UCOvJeHKjAvHHn5zJ-nApEvw
 - communaute: "Communaut\xE9 Saint Martin"
   dimanche: 10h30
-  facebook: ''
+  facebook: https://www.facebook.com/saintsapotres
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Amiens"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Saints Ap\xF4tres"
+  nom: "Amiens - Saints Ap\xF4tres"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: 11h30
+  facebook: https://www.facebook.com/choletcatho/
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Angers"
+  jeudi: 11h30
+  lundi: 11h30
+  mardi: 11h30
+  mercredi: 11h30
+  nom: Cholet
+  samedi: 11h30
+  site: ''
+  vendredi: 11h30
+  youtube: ''
+- communaute: ''
+  dimanche: 10h
+  facebook: https://www.facebook.com/charles.defoucauld.50
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Angers"
+  jeudi: 19h
+  lundi: 19h
+  mardi: 19h
+  mercredi: 19h
+  nom: Saumur - Charles de Foucault
+  samedi: 19h
+  site: ''
+  vendredi: 19h
+  youtube: ''
+- communaute: ''
+  dimanche: ''
+  facebook: https://www.diocese49.org/prier-ensemble-en-video-grace-au-web
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Angers"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Dioc\xE8se"
   samedi: ''
   site: ''
   vendredi: ''
   youtube: ''
 - communaute: ''
   dimanche: ''
-  facebook: https://tinyurl.com/r67vh8u
+  facebook: https://www.facebook.com/angouleme.catholique.fr/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Angoul\xEAme"
   jeudi: ''
@@ -222,77 +334,7 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/uebgnvy
-- communaute: ''
-  dimanche: 10h30
-  facebook: https://tinyurl.com/FBDioAixArles
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Aix et Arles"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Dioc\xE8se"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/YTDioAixArles
-- communaute: ''
-  dimanche: 11h00
-  facebook: https://tinyurl.com/v4wlwpd
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Aix et Arles"
-  jeudi: 18h30
-  lundi: 18h30
-  mardi: 18h30
-  mercredi: 18h30
-  nom: "Ct\xE9 St-Martin"
-  samedi: 9h00
-  site: ''
-  vendredi: 18h30
-  youtube: https://tinyurl.com/ufs39tc
-- communaute: ''
-  dimanche: 11h30
-  facebook: https://tinyurl.com/r9nhswm
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Angers"
-  jeudi: 11h30
-  lundi: 11h30
-  mardi: 11h30
-  mercredi: 11h30
-  nom: "Doyenn\xE9 Choletais"
-  samedi: 11h30
-  site: ''
-  vendredi: 11h30
-  youtube: ''
-- communaute: ''
-  dimanche: 10h
-  facebook: https://tinyurl.com/w9xcebg
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Angers"
-  jeudi: 19h
-  lundi: 19h
-  mardi: 19h
-  mercredi: 19h
-  nom: Saumur Charles de Foucault
-  samedi: 19h
-  site: ''
-  vendredi: 19h
-  youtube: ''
-- communaute: ''
-  dimanche: ''
-  facebook: https://tinyurl.com/vppzf84
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Angers"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Dioc\xE8se"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
+  youtube: https://www.youtube.com/c/dioceseangouleme
 - communaute: ''
   dimanche: 10h30
   facebook: ''
@@ -302,39 +344,39 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: St-Augustin-en-Tardoire-et-Bandiat
+  nom: Montbron - Saint-Augustin-en-Tardoire-et-Bandiat
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://urlz.fr/cd0y
-- communaute: ''
-  dimanche: 10h
-  facebook: https://tinyurl.com/r67vh8u
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Angoul\xEAme"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: Cognac
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
+  youtube: https://www.youtube.com/watch?v=hxNOuMI78Ao&feature=youtu.be
 - communaute: ''
   dimanche: 11h
-  facebook: https://tinyurl.com/tbsr8sr
+  facebook: https://www.facebook.com/paroissenotredameencite/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Arras"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Notre Dame en Cit\xE9"
+  nom: "Arras - Notre Dame en Cit\xE9"
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/s9ublbg
+  youtube: https://www.youtube.com/channel/UCiysaVReI5aiRSFZ5XmKLEg/featured
+- communaute: "Communaut\xE9 de l'Emmanuel"
+  dimanche: 18h
+  facebook: https://www.facebook.com/sacrecoeur.paray/
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Autun-Ch\xE2lons-Macon"
+  jeudi: 18h
+  lundi: 18h
+  mardi: 18h
+  mercredi: 18h
+  nom: "Paray-le-Monial - Sanctuaire du Sacr\xE9-Coeur"
+  samedi: 8h
+  site: ''
+  vendredi: 18h
+  youtube: https://www.youtube.com/channel/UCyTFwB2k0HuTu-zpOyxSvwQ
 - communaute: "Communaut\xE9 Saint Jean"
   dimanche: 09h - 10h30
   facebook: https://www.facebook.com/saintruf/
@@ -344,11 +386,39 @@ messes:
   lundi: 11h
   mardi: 08h30
   mercredi: 08h30
-  nom: St Ruf
+  nom: Avignon - Saint Ruf
   samedi: 18h00
   site: ''
   vendredi: 08h30
-  youtube: https://tinyurl.com/sx9xdeu
+  youtube: https://www.youtube.com/channel/UCEJgVC0fjqTuxFdOSkU8vaw
+- communaute: "Communaut\xE9 Saint Jean"
+  dimanche: 10h30
+  facebook: https://www.facebook.com/saintlaurentorleans
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Orl\xE9ans"
+  jeudi: 8h
+  lundi: 8h
+  mardi: 8h
+  mercredi: 8h
+  nom: "Orl\xE9ans - Saint Laurent"
+  samedi: 8h
+  site: ''
+  vendredi: 8h
+  youtube: https://www.youtube.com/channel/UCEEExLHZFa1Maa6yOUjf9YA?app=desktop
+- communaute: ''
+  dimanche: 8h
+  facebook: https://www.facebook.com/groupementR2L
+  forme: Ordinaire
+  groupe: "Dioc\xE8se d'Orl\xE9ans"
+  jeudi: 8h
+  lundi: 8h
+  mardi: 8h
+  mercredi: 8h
+  nom: Saint Denis en Val - Rives de Loire St Marceau
+  samedi: 8h
+  site: ''
+  vendredi: 8h
+  youtube: https://www.youtube.com/channel/UChgu2T-_BOVE1XixmfJdKCg
 - communaute: ''
   dimanche: 10h30
   facebook: ''
@@ -358,11 +428,11 @@ messes:
   lundi: 18h30
   mardi: 18h30
   mercredi: 18h30
-  nom: "Lescar Notre Dame en B\xE9arn"
+  nom: "Lescar - Notre Dame en B\xE9arn"
   samedi: 11h00
   site: ''
   vendredi: 18h30
-  youtube: https://tinyurl.com/tbjwktz
+  youtube: https://www.youtube.com/results?search_query=paroisse+lescar
 - communaute: ''
   dimanche: 9h et 11h
   facebook: ''
@@ -372,53 +442,39 @@ messes:
   lundi: 18h
   mardi: 18h
   mercredi: 18h
-  nom: Bourg en Bresse
+  nom: "Dioc\xE8se"
   samedi: 11h
   site: ''
   vendredi: 18h
-  youtube: https://tinyurl.com/snebpwp
+  youtube: https://www.youtube.com/channel/UCrF1dRskZXAHVjGSKkXEU7Q
 - communaute: ''
   dimanche: 10h
-  facebook: https://tinyurl.com/sue4o5l
+  facebook: https://www.facebook.com/pereolivier.barnay
   forme: Ordinaire
   groupe: "Dioc\xE8se de Belley-Ars"
   jeudi: ''
   lundi: ''
   mardi: ''
-  mercredi: 9h (Annonciation)
+  mercredi: ''
   nom: Pont de Veyle
   samedi: ''
   site: ''
   vendredi: ''
   youtube: ''
-- communaute: "Communaut\xE9 de l'Emmanuel"
-  dimanche: 18h
-  facebook: https://tinyurl.com/wtyrqgr
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Belley-Ars"
-  jeudi: 18h
-  lundi: 18h
-  mardi: 18h
-  mercredi: 18h
-  nom: "Paray-le-Monial Sanctuaire du Sacr\xE9-Coeur"
-  samedi: 8h
-  site: ''
-  vendredi: 18h
-  youtube: https://www.youtube.com/channel/UCyTFwB2k0HuTu-zpOyxSvwQ
 - communaute: ''
   dimanche: ''
-  facebook: ''
+  facebook: https://www.facebook.com/anthony.chopard
   forme: Ordinaire
   groupe: "Dioc\xE8se de Besan\xE7on"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Banlieue Val de L\u2019oignon"
+  nom: "Besan\xE7on - Pays de Franois, Notre-Dame-des-Vignes et Marnay-Recologne"
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/shgm9mc
+  youtube: https://www.youtube.com/user/achopard70/videos
 - communaute: ''
   dimanche: ''
   facebook: ''
@@ -432,31 +488,17 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/rdxjck3
+  youtube: https://www.youtube.com/channel/UCFuebrEzkAtQz_Gi9A4FoAQ
 - communaute: ''
   dimanche: 10h30
-  facebook: https://tinyurl.com/w3lz9sf
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Besan\xE7on"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: Paroisses du Pays de Franois, Notre-Dame-des-Vignes et Marnay-Recologne.
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: ''
-  dimanche: 10h30
-  facebook: https://tinyurl.com/tfdoqtm
+  facebook: https://www.facebook.com/paroissedemontoire/?hc_location=ufi
   forme: Ordinaire
   groupe: "Dioc\xE8se de Blois"
   jeudi: 19h30
-  lundi: '-'
+  lundi: ''
   mardi: 19h30
   mercredi: 19h30
-  nom: Montoire, St Laurent
+  nom: Montoire - St Laurent
   samedi: 8h30
   site: ''
   vendredi: 19h30
@@ -470,25 +512,25 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: Jalles
+  nom: "Saint M\xE9dard - Jalles"
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/rm8mrum
-- communaute: ''
+  youtube: https://www.youtube.com/channel/UC7WCnF58w9ENCNPQH53unXg
+- communaute: "Communaut\xE9 de l'Emmanuel"
   dimanche: 10h30
-  facebook: https://tinyurl.com/t29yo9k
+  facebook: https://www.facebook.com/catholibourne
   forme: Ordinaire
   groupe: "Dioc\xE8se de Bordeaux"
   jeudi: 18h
   lundi: 18h
   mardi: 18h
   mercredi: 18h
-  nom: Libourne
+  nom: Libourne - Paroisse du RIDO
   samedi: 18h
   site: ''
   vendredi: 18h
-  youtube: https://tinyurl.com/v4yswwu
+  youtube: https://www.youtube.com/channel/UCp-lbRGuqKNylnC_cGOwzOA
 - communaute: ''
   dimanche: 11h
   facebook: ''
@@ -498,11 +540,25 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: Dominicains
+  nom: Bordeaux - Dominicains
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/voxg6a7
+  youtube: https://www.youtube.com/channel/UCjpX_C_OSDip_UsfKgcvGXA
+- communaute: FSSP
+  dimanche: 10h30
+  facebook: https://www.facebook.com/fssp.bordeaux.7
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Bordeaux"
+  jeudi: 9h
+  lundi: 9h
+  mardi: 9h
+  mercredi: 9h
+  nom: Bordeaux - Saint Bruno
+  samedi: 9h
+  site: ''
+  vendredi: 9h
+  youtube: ''
 - communaute: ''
   dimanche: ''
   facebook: ''
@@ -516,10 +572,10 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/t9e4fbc
+  youtube: https://www.youtube.com/channel/UCteLOxCcgnoBUiZFaDYTVVQ
 - communaute: ''
   dimanche: 10h30
-  facebook: https://tinyurl.com/wwn7glr
+  facebook: https://www.facebook.com/ParoissedeFigeac46/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Cahors"
   jeudi: ''
@@ -530,10 +586,10 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/ubxeauv
+  youtube: https://www.youtube.com/channel/UCJiUhLB3eeE7il6dNq5gkdg/featured
 - communaute: ''
   dimanche: 11h
-  facebook: https://tinyurl.com/smtba8z
+  facebook: https://www.facebook.com/paroissessaintloetagneaux/?ref=bookmarks
   forme: Ordinaire
   groupe: "Dioc\xE8se de Coutances"
   jeudi: 18h30
@@ -544,7 +600,7 @@ messes:
   samedi: 12h
   site: ''
   vendredi: 18h30
-  youtube: https://tinyurl.com/swvbnje
+  youtube: https://www.youtube.com/channel/UCNpY36Qcx4cSy11C5uHSkRA
 - communaute: ''
   dimanche: ''
   facebook: ''
@@ -554,25 +610,25 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "St Michel (P. Etienne Cl\xE9ment)"
+  nom: Dijon - Saint Michel
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/tfbdwqw
-- communaute: "Communaut\xE9 de l'Emmanuel"
-  dimanche: 10h
-  facebook: ''
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Rennes"
+  youtube: https://www.youtube.com/channel/UCMeITJaejnydA1uLhAFdmaA
+- communaute: FSSP
+  dimanche: 9h
+  facebook: https://www.facebook.com/fsspdijon
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Dijon"
   jeudi: 9h
   lundi: 9h
   mardi: 9h
   mercredi: 9h
-  nom: "Saint Guillaume de La Rance et Notre-Dame d\u2019Emeraude\n"
+  nom: Dijon - Saint Bernard
   samedi: 9h
-  site: https://paroisses-dinard.catholique.fr/
+  site: ''
   vendredi: 9h
-  youtube: https://www.youtube.com/user/paroissedinard
+  youtube: ''
 - communaute: ''
   dimanche: 11h
   facebook: ''
@@ -586,7 +642,7 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/tgpbkru
+  youtube: https://www.youtube.com/channel/UCr0ZBaOK8aL2tWpywb0EpUA
 - communaute: "Fraternit\xE9 Missionnaire Marie M\xE8re des Ap\xF4tres"
   dimanche: 11h
   facebook: https://tinyurl.com/rwtpkpx
@@ -741,6 +797,20 @@ messes:
   site: ''
   vendredi: 11h45
   youtube: https://tinyurl.com/w9lr2le
+- communaute: FSSP
+  dimanche: 11h
+  facebook: https://tinyurl.com/s2lesxy
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Grenoble"
+  jeudi: 11h
+  lundi: 11h
+  mardi: 11h
+  mercredi: 11h
+  nom: Grenoble
+  samedi: 11h
+  site: ''
+  vendredi: 11h
+  youtube: https://tinyurl.com/sw2ba38
 - communaute: ''
   dimanche: 11h
   facebook: https://tinyurl.com/t5bzxvx
@@ -770,6 +840,20 @@ messes:
   vendredi: 18h
   youtube: https://tinyurl.com/u9z4jsz
 - communaute: ''
+  dimanche: 10h
+  facebook: https://www.facebook.com/icrspLille
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Lille"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: ICRSP Notre-Dame de Fatima et ICRSP Lille
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/tzljqa3
+- communaute: ''
   dimanche: 11h30
   facebook: https://tinyurl.com/s59qu8k
   forme: Ordinaire
@@ -797,7 +881,7 @@ messes:
   site: ''
   vendredi: 19h
   youtube: ''
-- communaute: ''
+- communaute: "Communaut\xE9 de l'Emmanuel"
   dimanche: 10h30
   facebook: https://tinyurl.com/wtankwc
   forme: Ordinaire
@@ -811,7 +895,7 @@ messes:
   site: ''
   vendredi: 10h
   youtube: https://tinyurl.com/vfrfsy9
-- communaute: ''
+- communaute: "Communaut\xE9 de l'Emmanuel"
   dimanche: '10h30 '
   facebook: ''
   forme: Ordinaire
@@ -881,6 +965,34 @@ messes:
   site: ''
   vendredi: 12h
   youtube: https://tinyurl.com/tu5ugoo
+- communaute: FSSP
+  dimanche: 10h
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Lyon"
+  jeudi: 18h45
+  lundi: 18h45
+  mardi: 18h45
+  mercredi: 18h45
+  nom: St Just
+  samedi: 11h
+  site: ''
+  vendredi: 28h45
+  youtube: https://tinyurl.com/st5e6ko
+- communaute: ''
+  dimanche: 9h et 10h30
+  facebook: https://tinyurl.com/sae3cl6
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Lyon"
+  jeudi: 9h et 18h30
+  lundi: 9h et 18h30
+  mardi: 9h et 18h30
+  mercredi: 9h et 18h30
+  nom: St Georges
+  samedi: 9h et 11h
+  site: ''
+  vendredi: 9h et 18h30
+  youtube: https://tinyurl.com/t6ctwjv
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/wnxr3tc
@@ -892,7 +1004,7 @@ messes:
   mercredi: 12h
   nom: "St Vincent de Paul les R\xE9form\xE9s"
   samedi: 12h
-  site: ''
+  site: https://www.saintvincentdepaulmarseille.com/
   vendredi: 12h
   youtube: https://tinyurl.com/wnxhwwm
 - communaute: ''
@@ -938,7 +1050,7 @@ messes:
   vendredi: 18h
   youtube: https://tinyurl.com/sb3hw9q
 - communaute: ''
-  dimanche: 10h30 UTC-4
+  dimanche: 10h30
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Montr\xE9al"
@@ -970,14 +1082,14 @@ messes:
   facebook: https://tinyurl.com/teuk47m
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
-  jeudi: "\xE0 venir"
-  lundi: "\xE0 venir"
-  mardi: "\xE0 venir"
-  mercredi: "\xE0 venir"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
   nom: "Asni\xE8res Centre"
   samedi: 11h15
   site: ''
-  vendredi: "\xE0 venir"
+  vendredi: ''
   youtube: https://tinyurl.com/yxyg8mom
 - communaute: "Communaut\xE9 Saint Jean"
   dimanche: 10h et 11h30
@@ -1130,6 +1242,20 @@ messes:
   mercredi: ''
   nom: St Marc Notre Dame de Bon Secours
   samedi: ''
+  site: http://www.paroissessmndbs.org/messe-dominicale-en-live/
+  vendredi: ''
+  youtube: ''
+- communaute: ''
+  dimanche: ''
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Nanterre"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: 19h00
+  nom: La Garenne-Colombes St Urbain
+  samedi: ''
   site: ''
   vendredi: ''
   youtube: ''
@@ -1200,50 +1326,22 @@ messes:
   mercredi: ''
   nom: Notre-Dame de la Sagesse
   samedi: ''
-  site: ''
+  site: http://www.ndsagesse.com/
   vendredi: ''
   youtube: https://tinyurl.com/t2lhwcd
-- communaute: "Communaut\xE9 Saint Jean"
-  dimanche: 10h30
-  facebook: https://tinyurl.com/w9jd8nm
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Orl\xE9ans"
-  jeudi: 8h
-  lundi: 8h
-  mardi: 8h
-  mercredi: 8h
-  nom: St Laurent
-  samedi: 8h
-  site: ''
-  vendredi: 8h
-  youtube: https://tinyurl.com/uw6dvlp
-- communaute: ''
-  dimanche: 8h
-  facebook: https://tinyurl.com/v42ygv9
-  forme: Ordinaire
-  groupe: "Dioc\xE8se d'Orl\xE9ans"
-  jeudi: 8h
-  lundi: 8h
-  mardi: 8h
-  mercredi: 8h
-  nom: Rives de Loire St Marceau
-  samedi: 8h
-  site: ''
-  vendredi: 8h
-  youtube: https://tinyurl.com/twvnryf
 - communaute: ''
   dimanche: 11h
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
-  jeudi: "en diff\xE9r\xE9 (vers 13h)"
-  lundi: "en diff\xE9r\xE9 (vers 13h)"
-  mardi: "en diff\xE9r\xE9 (vers 13h)"
-  mercredi: "en diff\xE9r\xE9 (vers 13h)"
+  jeudi: 13h
+  lundi: 13h
+  mardi: 13h
+  mercredi: 13h
   nom: "St Germain des Pr\xE9s"
-  samedi: "en diff\xE9r\xE9 (vers 13h)"
+  samedi: 13h
   site: https://www.eglise-saintgermaindespres.fr/
-  vendredi: "en diff\xE9r\xE9 (vers 13h)"
+  vendredi: 13h
   youtube: https://tinyurl.com/v4m4may
 - communaute: ''
   dimanche: 11h
@@ -1260,7 +1358,7 @@ messes:
   vendredi: 13h
   youtube: https://tinyurl.com/task2ne
 - communaute: ''
-  dimanche: 11H
+  dimanche: 11h
   facebook: https://tinyurl.com/sf78yv4
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
@@ -1511,6 +1609,76 @@ messes:
   site: ''
   vendredi: 8h30
   youtube: https://tinyurl.com/rdd7llo
+- communaute: FSSP
+  dimanche: 9h
+  facebook: https://tinyurl.com/rkqma3z
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Paris"
+  jeudi: 9h et 19h45
+  lundi: 9h et 19h45
+  mardi: 9h et 19h45
+  mercredi: 9h et 19h45
+  nom: Paris
+  samedi: 9h et 19h45
+  site: ''
+  vendredi: 9h et 19h45
+  youtube: ''
+- communaute: ''
+  dimanche: 9h30
+  facebook: https://www.facebook.com/SaintRochParis/
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Paris"
+  jeudi: 8h30
+  lundi: 8h30
+  mardi: 8h30
+  mercredi: 8h30
+  nom: Saint Roch
+  samedi: 8h30
+  site: ''
+  vendredi: 8h30
+  youtube: https://tinyurl.com/tsz6bt5
+- communaute: ''
+  dimanche: 11h et 19h
+  facebook: https://www.facebook.com/Saint.Eugene.Sainte.Cecile/
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Paris"
+  jeudi: 19h
+  lundi: 19h
+  mardi: 19h
+  mercredi: 19h
+  nom: "Saint-Eug\xE8ne Sainte-C\xE9cile"
+  samedi: 9h30
+  site: ''
+  vendredi: 19h
+  youtube: https://tinyurl.com/w2huzrx
+- communaute: FSSP
+  dimanche: 10h30
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Perpignan"
+  jeudi: 18h
+  lundi: 18h
+  mardi: 18h
+  mercredi: 18h
+  nom: Pau
+  samedi: 9h
+  site: ''
+  vendredi: 18h
+  youtube: https://tinyurl.com/wjkouje
+- communaute: FSSP
+  dimanche: ''
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Perpignan"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: Perpignan
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/qtrynso
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/qps24gp
@@ -1539,6 +1707,20 @@ messes:
   site: ''
   vendredi: ''
   youtube: ''
+- communaute: "Communaut\xE9 de l'Emmanuel"
+  dimanche: 10h
+  facebook: ''
+  forme: Ordinaire
+  groupe: "Dioc\xE8se de Rennes"
+  jeudi: 9h
+  lundi: 9h
+  mardi: 9h
+  mercredi: 9h
+  nom: "Saint Guillaume de La Rance et Notre-Dame d\u2019Emeraude\n"
+  samedi: 9h
+  site: https://paroisses-dinard.catholique.fr/
+  vendredi: 9h
+  youtube: https://www.youtube.com/user/paroissedinard
 - communaute: ''
   dimanche: 11h
   facebook: ''
@@ -1567,6 +1749,20 @@ messes:
   site: ''
   vendredi: ''
   youtube: ''
+- communaute: ''
+  dimanche: 11h
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Rome"
+  jeudi: 18h30
+  lundi: 18h30
+  mardi: 18h30
+  mercredi: 18h30
+  nom: Institut du Bon Pasteur
+  samedi: 18h30
+  site: ''
+  vendredi: 18h30
+  youtube: https://tinyurl.com/vlgk6s4
 - communaute: ''
   dimanche: 10h
   facebook: https://tinyurl.com/tatan7z
@@ -1638,20 +1834,6 @@ messes:
   vendredi: ' '
   youtube: https://tinyurl.com/s5p5de4
 - communaute: ''
-  dimanche: ''
-  facebook: ''
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Saint-Flour"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Dioc\xE8se"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/ssq4d5m
-- communaute: ''
   dimanche: 10h
   facebook: https://tinyurl.com/rrjqf2a
   forme: Ordinaire
@@ -1665,6 +1847,20 @@ messes:
   site: ''
   vendredi: 11h
   youtube: https://tinyurl.com/vktufo9
+- communaute: ''
+  dimanche: ''
+  facebook: ''
+  forme: Ordinaire
+  groupe: "Dioc\xE8se de Saint-Flour"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Dioc\xE8se"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/ssq4d5m
 - communaute: ''
   dimanche: 18h
   facebook: https://tinyurl.com/ruyue5j
@@ -1680,19 +1876,33 @@ messes:
   vendredi: 18h
   youtube: https://tinyurl.com/uxn9bmv
 - communaute: ''
-  dimanche: 11 h
+  dimanche: 11h
   facebook: https://tinyurl.com/r2ukgn8
   forme: Ordinaire
   groupe: "Dioc\xE8se de S\xE9ez"
-  jeudi: '-'
-  lundi: '-'
-  mardi: '-'
-  mercredi: '-'
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
   nom: "Alen\xE7on (basilique)"
-  samedi: '-'
+  samedi: ''
   site: ''
-  vendredi: '-'
+  vendredi: ''
   youtube: https://tinyurl.com/rjsgctr
+- communaute: ''
+  dimanche: 10h30
+  facebook: https://tinyurl.com/rem8knc
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Toulon"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Missionnaires de la Mis\xE9ricorde Divine"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/rovnj5t
 - communaute: ''
   dimanche: 11h
   facebook: https://tinyurl.com/v56zrw7
@@ -1732,7 +1942,7 @@ messes:
   mercredi: ''
   nom: Dominicains
   samedi: ''
-  site: ''
+  site: https://tinyurl.com/y2fot9ke
   vendredi: ''
   youtube: https://tinyurl.com/wou9gc3
 - communaute: "Communaut\xE9 Saint Martin"
@@ -1763,6 +1973,20 @@ messes:
   site: ''
   vendredi: 9h
   youtube: ''
+- communaute: FSSP
+  dimanche: 10h
+  facebook: https://www.facebook.com/fsspvalence
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Valence et Mont\xE9limar"
+  jeudi: ''
+  lundi: 9h
+  mardi: 9h
+  mercredi: ''
+  nom: Notre-Dame
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/w5edqr9
 - communaute: ''
   dimanche: 10h30
   facebook: ''
@@ -1805,6 +2029,20 @@ messes:
   site: ''
   vendredi: ''
   youtube: ''
+- communaute: ''
+  dimanche: 9h30
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Vannes"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: St-Patern
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/uvmr9sb
 - communaute: ''
   dimanche: 10h
   facebook: ''
@@ -1903,355 +2141,33 @@ messes:
   site: ''
   vendredi: 19h
   youtube: ''
-- communaute: ''
-  dimanche: ''
-  facebook: ''
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Viviers"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: St Pierre de Crussol
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/s6sgnj6
-- communaute: FSSP
-  dimanche: 10h30
-  facebook: https://tinyurl.com/vrcvsch
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Bordeaux"
-  jeudi: 9h
-  lundi: 9h
-  mardi: 9h
-  mercredi: 9h
-  nom: St Bruno
-  samedi: 9h
-  site: ''
-  vendredi: 9h
-  youtube: ''
-- communaute: FSSP
-  dimanche: ''
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Chartres"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: St Aignan
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/r7vdnwp
-- communaute: FSSP
-  dimanche: 9h
-  facebook: https://www.facebook.com/fsspdijon
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Dijon"
-  jeudi: ''
-  lundi: 9h
-  mardi: ''
-  mercredi: ''
-  nom: Dijon
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: FSSP
-  dimanche: 11h
-  facebook: https://tinyurl.com/s2lesxy
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Grenoble"
-  jeudi: ''
-  lundi: 11h
-  mardi: ''
-  mercredi: ''
-  nom: Grenoble
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/sw2ba38
-- communaute: FSSP
-  dimanche: 10h
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Lyon"
-  jeudi: 18h45
-  lundi: 18h45
-  mardi: 18h45
-  mercredi: 18h45
-  nom: St Just
-  samedi: '11'
-  site: ''
-  vendredi: 28h45
-  youtube: https://tinyurl.com/st5e6ko
-- communaute: FSSP
-  dimanche: 9h
-  facebook: https://tinyurl.com/rkqma3z
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Paris"
-  jeudi: ''
-  lundi: 9h et 19h45 - chapelet 19h15
-  mardi: ''
-  mercredi: ''
-  nom: Paris
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: FSSP
-  dimanche: 10h30
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Perpignan"
-  jeudi: ''
-  lundi: 18h
-  mardi: ''
-  mercredi: ''
-  nom: Pau
-  samedi: 9h
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/wjkouje
-- communaute: FSSP
-  dimanche: ''
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Perpignan"
-  jeudi: ''
-  lundi: pas encore de messe en direct
-  mardi: ''
-  mercredi: ''
-  nom: Perpignan
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/qtrynso
-- communaute: FSSP
-  dimanche: 10h
-  facebook: https://www.facebook.com/fsspvalence
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Valence et Mont\xE9limar"
-  jeudi: ''
-  lundi: 9h
-  mardi: ''
-  mercredi: ''
-  nom: Notre-Dame
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/w5edqr9
 - communaute: FSSP
   dimanche: 10h
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Versailles"
-  jeudi: ''
+  jeudi: 18h
   lundi: 18h
-  mardi: ''
-  mercredi: ''
+  mardi: 18h
+  mercredi: 18h
   nom: "Immacul\xE9e"
   samedi: 11h
   site: ''
-  vendredi: ''
+  vendredi: 18h
   youtube: https://tinyurl.com/vhfhtf2
-- communaute: ''
-  dimanche: 10h30
-  facebook: https://www.facebook.com/FraterniteSaintVincentFerrier/
-  forme: Extraordinaire
-  groupe: ''
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Fraternit\xE9 Saint-Vincent-Ferrier"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/uxlk5pp
-- communaute: ''
-  dimanche: 10h
-  facebook: https://www.barroux.org/fr/liturgie/ecoutez-nos-offices.html
-  forme: Extraordinaire
-  groupe: ''
-  jeudi: ''
-  lundi: 19h45
-  mardi: ''
-  mercredi: ''
-  nom: Abbaye du Barroux
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: ''
-  dimanche: ''
-  facebook: https://tinyurl.com/u8u3czp
-  forme: Extraordinaire
-  groupe: ''
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Chanoines de Lagrasse (Chanoines R\xE9gulier de la M\xE8re de Dieu)"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: ''
-  dimanche: 10h
-  facebook: https://www.facebook.com/icrspLille
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Lille"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: ICRSP Notre-Dame de Fatima et ICRSP Lille
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/tzljqa3
-- communaute: ''
-  dimanche: 11h et 18h30
-  facebook: https://tinyurl.com/qubv7to
-  forme: Extraordinaire
-  groupe: ''
-  jeudi: ''
-  lundi: 11h et 18h30
-  mardi: ''
-  mercredi: ''
-  nom: Institut du Bon Pasteur
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/wfxhxak
-- communaute: ''
-  dimanche: 9h et 11h30
-  facebook: https://tinyurl.com/wdaoked
-  forme: Extraordinaire
-  groupe: ''
-  jeudi: ''
-  lundi: 9h
-  mardi: ''
-  mercredi: ''
-  nom: "Institut du Christ Roi Souverain Pr\xEAtre"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: ''
-  dimanche: 9h et 10h30
-  facebook: https://tinyurl.com/sae3cl6
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Lyon"
-  jeudi: ''
-  lundi: 9h et 18h30
-  mardi: ''
-  mercredi: ''
-  nom: St Georges
-  samedi: 9h et 11h
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/t6ctwjv
-- communaute: ''
-  dimanche: 10h30
-  facebook: https://tinyurl.com/rem8knc
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Toulon"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Missionnaires de la Mis\xE9ricorde Divine"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/rovnj5t
-- communaute: ''
-  dimanche: ''
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Nanterre"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: 19h00
-  nom: La Garenne-Colombes St Urbain
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: ''
-- communaute: ''
-  dimanche: 9h30
-  facebook: https://www.facebook.com/SaintRochParis/
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Paris"
-  jeudi: ''
-  lundi: 8h30
-  mardi: ''
-  mercredi: ''
-  nom: Saint Roch
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/tsz6bt5
-- communaute: ''
-  dimanche: 11h et 19h
-  facebook: https://www.facebook.com/Saint.Eugene.Sainte.Cecile/
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Paris"
-  jeudi: ''
-  lundi: 19h
-  mardi: ''
-  mercredi: ''
-  nom: "Saint-Eug\xE8ne Sainte-C\xE9cile"
-  samedi: 9h30
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/w2huzrx
-- communaute: ''
-  dimanche: 11h
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Rome"
-  jeudi: ''
-  lundi: 18H30
-  mardi: ''
-  mercredi: ''
-  nom: Institut du Bon Pasteur
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/vlgk6s4
-- communaute: ''
-  dimanche: 9h30
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Vannes"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: St-Patern
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/uvmr9sb
 - communaute: ''
   dimanche: 10h
   facebook: https://tinyurl.com/t6ghpmb
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Versailles"
-  jeudi: ''
+  jeudi: 18h
   lundi: 18h
-  mardi: ''
-  mercredi: ''
+  mardi: 18h
+  mercredi: 18h
   nom: "Notre-Dame des Arm\xE9es (NDA)"
-  samedi: ''
+  samedi: 18h
   site: ''
-  vendredi: ''
+  vendredi: 18h
   youtube: https://tinyurl.com/umkjevm
 - communaute: ''
   dimanche: 10h30
@@ -2267,3 +2183,31 @@ messes:
   site: ''
   vendredi: ''
   youtube: https://tinyurl.com/tlj5e9t
+- communaute: ''
+  dimanche: ''
+  facebook: ''
+  forme: Ordinaire
+  groupe: "Dioc\xE8se de Viviers"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: St Pierre de Crussol
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/s6sgnj6
+- communaute: ''
+  dimanche: 10h
+  facebook: ''
+  forme: Ordinaire
+  groupe: "Suisse - Dioc\xE8se de Sion"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: Secteur Aigle
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/ro63soe
