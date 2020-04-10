@@ -39,6 +39,11 @@ Pour mieux célébrer le dimanche :
 * Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
 * [PrierEnFamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
 
+## Suivre les offices monastiques: 
+
+* L'abbaye du Barroux propose l'écoute des offices du jour en [direct](https://www.barroux.org/fr/liturgie/ecoutez-nos-offices.html), en différé par [podcast](https://podcasts.apple.com/fr/podcast/les-offices-de-labbaye-du-barroux/id1160516335) ou sur son application mobile : [Android](https://play.google.com/store/apps/details?id=com.leta027.localhost.abbayedubarroux), [iOS](https://apps.apple.com/fr/app/barroux/id486795862)
+* Radio Espérance, parmi d'autres contenus, propose la diffusion des offices de diverses abbayes bénédictines sur sa [chaine grégorienne](http://player.radio-esperance.fr/?radio=chant-gregorien#current) 
+
 ## Prier pour un proche en train de mourir
 
 * Le sanctuaire Notre-Dame de Montligeon propose de vous accompagner à vivre ce temps, malgré la distance : [Un proche est en train de mourir et je ne suis pas là…](https://montligeon.org/un-proche-est-en-train-de-mourir-et-je-ne-suis-pas-la/)
