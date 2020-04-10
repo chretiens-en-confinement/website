@@ -119,8 +119,11 @@ L'Église propose tous ses contenus en ligne :
 * La chaîne [Padreblog](https://www.youtube.com/channel/UCRSBl51vh5qVSn3rDXFiitQ) propose de nombreux contenus d'actualités.
 * La communauté de l'Emmanuel propose une webtv « [Emmanuel Play - La WebTV qui diffuse la joie de Dieu](https://play.emmanuel.info/) » et a notamment lancé le [Cathoflix](https://play.emmanuel.info/playlist/cathoflix-15477/)
 * Consultez les différentes proposition de RCF dans la rubrique [Fondamentaux de la foi, Actualités religieuses](https://rcf.fr/spiritualite/fondamentaux-de-la-foi)
+* Chaque jour, l'appli [Pearl](https://pearl.laperledujour.fr/) t’envoie la « perle du jour », une bonne nouvelle catho, insolite et décalée
+* Les hors-séries de Famille Chrétienne sont disponibles gratuitement depuis l'application [iOS](https://apps.apple.com/fr/app/famille-chr%C3%A9tienne/id1313833765) ou [Android](https://play.google.com/store/apps/details?id=fr.famillechretienne.dev&hl=fr)
 
 ### Psychologie, philosophie et éthique
+
 * [Le blog du père Pascal Ide](http://pascalide.fr/) apporte de nombreux éclairages sur des situations que nous pouvons vivre
 * Les podcats/vidéos de [Philia - les Soirées de la Philo](https://www.philia-asso.fr/) sont en libre accès pendant le confinement, pour explorer les grandes questions que nous n’avons pas toujours le temps de nous poser
 
