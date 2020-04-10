@@ -137,6 +137,7 @@ const IndexPage = ({ data }) => {
       <h2>Autres listes</h2>
       <p>Vous trouverez d'autres listes ici :</p>
       <ul>
+        <li><a href="https://messes.info/">Messes Info</a> qui propose une recherche spéciale pour la <a href="https://messes.info/horaires/semaineste">Semaine Sainte</a>.</li>
         <li>
           KTO :{" "}
           <a href="https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video">
