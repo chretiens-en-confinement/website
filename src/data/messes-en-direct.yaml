@@ -13,7 +13,7 @@ messes:
   site: https://emmanuel.info/les-messes-en-direct/
   vendredi: 12h
   youtube: https://www.youtube.com/user/ctedelemmanuel
-- communaute: ''
+- communaute: "Communaut\xE9 Saint Martin"
   dimanche: 11h
   facebook: https://www.facebook.com/communautesaintmartin
   forme: Ordinaire
@@ -97,7 +97,7 @@ messes:
   site: https://www.tiberiade.be/
   vendredi: 17h
   youtube: ''
-- communaute: ''
+- communaute: "Communaut\xE9 du Chemin Neuf"
   dimanche: 12h et 19h
   facebook: https://www.facebook.com/CheminNeuf
   forme: Ordinaire
@@ -531,7 +531,7 @@ messes:
   site: ''
   vendredi: 18h
   youtube: https://www.youtube.com/channel/UCp-lbRGuqKNylnC_cGOwzOA
-- communaute: ''
+- communaute: Dominicains
   dimanche: 11h
   facebook: ''
   forme: Ordinaire
@@ -540,7 +540,7 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: Bordeaux - Dominicains
+  nom: Couvent de Bordeaux
   samedi: ''
   site: ''
   vendredi: ''
@@ -736,11 +736,11 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: FMJP2 International
+  nom: "Fraternit\xE9 Missionnaire Jean-Paul II - Paroisse Saint Roch"
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/u6wchuv
+  youtube: https://www.youtube.com/channel/UCBTT_REiQD2yRYihQdtkZew
 - communaute: ''
   dimanche: 10h15
   facebook: https://tinyurl.com/strfh37
@@ -1258,21 +1258,21 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: ''
+  youtube: https://www.youtube.com/c/ParoisseSaintUrbainSainteMariedesVall%C3%A9es
 - communaute: ''
   dimanche: 10h
-  facebook: https://tinyurl.com/qtb45or
+  facebook: https://www.facebook.com/ParoisseNotreDamedeNantes/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nantes"
   jeudi: 10h
   lundi: 10h
   mardi: 10h
   mercredi: 10h
-  nom: Notre-Dame
+  nom: Notre-Dame de Nantes
   samedi: 10h
   site: ''
   vendredi: 10h
-  youtube: https://tinyurl.com/rv4jwwd
+  youtube: https://www.youtube.com/channel/UC83YgsPRfqvH65AesWmLqAg?view_as=subscriber
 - communaute: ''
   dimanche: 11h
   facebook: https://tinyurl.com/tl6623r
@@ -1408,7 +1408,7 @@ messes:
   lundi: 19h
   mardi: 19h
   mercredi: 19h
-  nom: St JB de Grenelle
+  nom: St Jean Baptiste de Grenelle
   samedi: 9h
   site: http://www.sjbg.org/
   vendredi: 19h
@@ -1750,20 +1750,6 @@ messes:
   vendredi: ''
   youtube: ''
 - communaute: ''
-  dimanche: 11h
-  facebook: ''
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Rome"
-  jeudi: 18h30
-  lundi: 18h30
-  mardi: 18h30
-  mercredi: 18h30
-  nom: Institut du Bon Pasteur
-  samedi: 18h30
-  site: ''
-  vendredi: 18h30
-  youtube: https://tinyurl.com/vlgk6s4
-- communaute: ''
   dimanche: 10h
   facebook: https://tinyurl.com/tatan7z
   forme: Ordinaire
@@ -1931,20 +1917,20 @@ messes:
   site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/sylb6ah
-- communaute: ''
+- communaute: Domincains
   dimanche: ''
-  facebook: https://tinyurl.com/sb7vpdb
+  facebook: https://www.facebook.com/Dominicains.Province.de.Toulouse/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Toulouse"
   jeudi: ''
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: Dominicains
+  nom: Dominicains - Province de Toulouse
   samedi: ''
-  site: https://tinyurl.com/y2fot9ke
+  site: https://www.radiopresence.com/direct-presence/
   vendredi: ''
-  youtube: https://tinyurl.com/wou9gc3
+  youtube: https://www.youtube.com/channel/UCHzdwgEpfh4UzEN0R3ek64w
 - communaute: "Communaut\xE9 Saint Martin"
   dimanche: 11h
   facebook: https://tinyurl.com/r5zrhyv
@@ -2197,6 +2183,20 @@ messes:
   site: ''
   vendredi: ''
   youtube: https://tinyurl.com/s6sgnj6
+- communaute: ''
+  dimanche: 11h
+  facebook: ''
+  forme: Extraordinaire
+  groupe: "Italie - Dioc\xE8se de Rome"
+  jeudi: 18h30
+  lundi: 18h30
+  mardi: 18h30
+  mercredi: 18h30
+  nom: Institut du Bon Pasteur
+  samedi: 18h30
+  site: ''
+  vendredi: 18h30
+  youtube: https://www.youtube.com/channel/UCjQD1vgcv7lw2izFrc3KVgg
 - communaute: ''
   dimanche: 10h
   facebook: ''
