@@ -137,13 +137,12 @@ const IndexPage = ({ data }) => {
       <h2>Autres listes</h2>
       <p>Vous trouverez d'autres listes ici :</p>
       <ul>
-        <li><a href="https://messes.info/">Messes Info</a> qui propose une recherche spéciale pour la <a href="https://messes.info/horaires/semaineste">Semaine Sainte</a> ainsi que les horaires d’offices de la liturgie des heures retransmis en direct.</li>
         <li>
-          KTO :{" "}
-          <a href="https://www.ktotv.com/page/quelles-sont-les-paroisses-qui-diffusent-la-messe-dominicale-en-video">
-            Où suivre la messe en direct sur Internet ?
-          </a>
-          .
+          <a href="https://messes.info/">Messes Info</a> qui propose une
+          recherche spéciale pour la{" "}
+          <a href="https://messes.info/horaires/semaineste">Semaine Sainte</a>{" "}
+          ainsi que les horaires d’offices de la liturgie des heures retransmis
+          en direct.
         </li>
         <li>
           <a href="http://bougetoneglise.fr/recherche/live/">
