@@ -13,7 +13,7 @@ title: "Liste collaborative pour vivre le confinement autrement"
 * Un kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
 * Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
 * [Priez pour la régression du Covid-19](https://www.finducovid19.com/) Jeudi, Vendredi et Samedi Saint
-* Menez l'enquête et [découvrez ce que le linceul de Turin veut nous révéler](https://www.linceulturin.net/lenquete/).
+* Menez l'enquête et [découvrez ce que le linceul de Turin veut nous révéler](https://www.linceulturin.net/lenquete/)
 
 Pour les enfants :
 
@@ -21,6 +21,9 @@ Pour les enfants :
 * Des idées d'activités, des vidéos, des coloriages et des chants pour chaque jour chez [Prions en Église](https://www.prionseneglise.fr/en-famille)
 * Les [coloriages de Mame](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 * Théobule propose une sélection d'activité et de jeux pour le [Carême et Pâques](https://www.theobule.org/jeux-et-bricolages)
+
+### Dan l'octave de Pâques
+* 7 évêques se sont associés pour permettre d'[expérimenter la miséricorde de Dieu en 7 jours](https://hozana.org/communaute/8947-parcoursmisericorde)
 
 ## Suivre la messe
 
