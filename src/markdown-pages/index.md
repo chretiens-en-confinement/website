@@ -22,7 +22,7 @@ Pour les enfants :
 * Les [coloriages de Mame](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 * Théobule propose une sélection d'activité et de jeux pour le [Carême et Pâques](https://www.theobule.org/jeux-et-bricolages)
 
-### Dan l'octave de Pâques
+### Dans l'octave de Pâques
 * 7 évêques se sont associés pour permettre d'[expérimenter la miséricorde de Dieu en 7 jours](https://hozana.org/communaute/8947-parcoursmisericorde)
 
 ## Suivre la messe
