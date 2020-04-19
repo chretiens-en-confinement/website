@@ -378,7 +378,7 @@ messes:
   vendredi: 18h
   youtube: https://www.youtube.com/channel/UCyTFwB2k0HuTu-zpOyxSvwQ
 - communaute: "Communaut\xE9 Saint Jean"
-  dimanche: 09h - 10h30
+  dimanche: 10h
   facebook: https://www.facebook.com/saintruf/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Avignon"
@@ -1651,6 +1651,20 @@ messes:
   site: ''
   vendredi: 19h
   youtube: https://tinyurl.com/w2huzrx
+- communaute: ''
+  dimanche: 11h
+  facebook: ''
+  forme: Ordinaire
+  groupe: "Dioc\xE8se de Paris"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Paroisse Sainte Trinit\xE9"
+  samedi: ''
+  site: http://latriniteparis.com/qui-sommes-nous/
+  vendredi: ''
+  youtube: https://www.youtube.com/channel/UChG36WvHWwgkEVlWgm9xq8g
 - communaute: FSSP
   dimanche: 10h30
   facebook: ''
