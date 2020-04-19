@@ -30,7 +30,7 @@ const IndexPage = ({ data }) => {
       </p>
 
       <p>
-        Déjà consultée par près de 5 000 personnes, cette liste est faite pour
+        Déjà consultée par près de 6 500 personnes, cette liste est faite pour
         être partagée avec votre famille, vos proches, vos paroisses et vos
         diocèses !
       </p>
