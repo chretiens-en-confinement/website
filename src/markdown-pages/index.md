@@ -204,7 +204,6 @@ Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d
 ## Occuper mes enfants pendant 10 min
 
 * Magnificat Junior propose de très jolis [coloriages](https://francais.magnificat.net/accueil/coloriages/)
-* Prions en Église propose également des coloriages dans sa section [En famille](https://www.prionseneglise.fr/en-famille).
 * Les éditions Mame met à disposition gracieusement un grand nombre de [coloriages et activités à la maison](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 
 ![](./coloriages-magnificat.png)
