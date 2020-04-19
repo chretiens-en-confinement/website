@@ -68,6 +68,7 @@ Pour mieux célébrer le dimanche :
 * L'application [Prie en chemin](https://prieenchemin.org/) propose la méditation guidée d'un passage de la liturgie (podcast de 15 min) + des prières spécifiques pour vivre ce temps d'isolement
 * Participez à [la traversée, une aventure spirtuelle pendant le confinement](https://frejustoulon.fr/la-traversee-une-aventure-humaine-et-spirituelle-a-travers-le-covid-19/) proposée par le diocès de Fréjus Toulon.
 * [Découvrir Dieu - pour rencontrer Dieu dans nos vies de tous les jours](https://decouvrir-dieu.com/) vous envoie un email tous les jours avec l’évangile, un commentaire pour vous aider à le méditer et un chant pour vous accompagner
+* Utiliser l'application iOS [Liturgie](https://apps.apple.com/app/liturgie-la-liturgie-des-heures/id991620025) pour prier la liturgie des heures.
 
 ## 📖 Nourrir ma prière
 
@@ -240,6 +241,7 @@ Pendant ce temps de confinement, quoi de mieux qu’un bel extrait de concert, d
 * En plus des coloriages et des activités, les éditions Mame proposent également des [ressources catéchèse et éveil à la foi à la maison](https://www.mameeditions.com/ressources-catechese-a-la-maison)
 * Le diocèse de Paris propose [un jardin de Pâques à fabriquer avec les enfants](https://www.paris.catholique.fr/un-jardin-de-paques-a-fabriquer-49223.html)
 * Le catéchisme de l'Emmanuel pour les enfants de 8 à 11 ans propose pour chaque thème : un chant, une œuvre d’art, une vidéo : [Catéchisme Emmanuel](https://catechisme-emmanuel.com/)
+* Le site Catéchèse et Catéchuménat propose de nombreux [jeux](https://catechese.catholique.fr/outils/jeux/).
 
 ## Faire la catéchèse pour les ados
 
