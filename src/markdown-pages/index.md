@@ -8,12 +8,13 @@ title: "Liste collaborative pour vivre le confinement autrement"
 
 # 🙏 Prier
 
-## Spécial Semaine Sainte
+## Spécial Semaine Sainte et temps pascal
 
 * Un kit pour vivre toutes les célébrations de la Semaine Sainte à la maison, par les dominicains : [Kit Semaine Sainte](https://www.dominicains.com/kit-semaine-sainte-2020/)
 * Écoutez les chants de la semaine sainte et du temps de Pâques avec les [Fraternités Monastiques de Jérusalem](https://open.spotify.com/album/7cIxbvypp1OnCp7fOhblw1?si=IFcBwSsjRf2d8wHiGsO19w)
 * [Priez pour la régression du Covid-19](https://www.finducovid19.com/) Jeudi, Vendredi et Samedi Saint
 * Menez l'enquête et [découvrez ce que le linceul de Turin veut nous révéler](https://www.linceulturin.net/lenquete/)
+* 7 évêques se sont associés pour permettre d'[expérimenter la miséricorde de Dieu en 7 jours](https://hozana.org/communaute/8947-parcoursmisericorde)
 
 Pour les enfants :
 
@@ -21,9 +22,6 @@ Pour les enfants :
 * Des idées d'activités, des vidéos, des coloriages et des chants pour chaque jour chez [Prions en Église](https://www.prionseneglise.fr/en-famille)
 * Les [coloriages de Mame](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 * Théobule propose une sélection d'activité et de jeux pour le [Carême et Pâques](https://www.theobule.org/jeux-et-bricolages)
-
-### Dans l'octave de Pâques
-* 7 évêques se sont associés pour permettre d'[expérimenter la miséricorde de Dieu en 7 jours](https://hozana.org/communaute/8947-parcoursmisericorde)
 
 ## Suivre la messe
 
@@ -43,7 +41,7 @@ Pour mieux célébrer le dimanche :
 * Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
 * [PrierEnFamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
 
-## Suivre les offices monastiques:
+## Suivre les offices monastiques
 
 * L'abbaye du Barroux propose l'écoute des offices du jour en [direct](https://www.barroux.org/fr/liturgie/ecoutez-nos-offices.html), en différé par [podcast](https://podcasts.apple.com/fr/podcast/les-offices-de-labbaye-du-barroux/id1160516335) ou sur son application mobile : [Android](https://play.google.com/store/apps/details?id=com.leta027.localhost.abbayedubarroux), [iOS](https://apps.apple.com/fr/app/barroux/id486795862)
 * Radio Espérance, parmi d'autres contenus, propose la diffusion des offices de diverses abbayes bénédictines sur sa [chaine grégorienne](http://player.radio-esperance.fr/?radio=chant-gregorien#current)
