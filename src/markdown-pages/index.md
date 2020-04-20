@@ -165,6 +165,7 @@ L'Église propose tous ses contenus en ligne :
 
 * Le diocèse de Nantes propose des [tutos pour retransmettre une messes sur Youtube et Facebook](https://diocese44.fr/retransmission-de-messes-en-loire-atlantique/)
 * [Jésus Box - tuto confinement](https://www.jesusbox.fr/confinement)
+* Découvez le [MOOC de l'académie Sainte Faustine](https://www.academiesaintefaustine.com/cours-en-ligne/) pour apprendre à évangéliser sur Internet (7 cours de 15 minutes en vidéo avec un quiz à chaque fois)
 
 # 🏖 Me distraire
 
