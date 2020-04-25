@@ -125,7 +125,7 @@ messes:
   site: https://www.lourdes-france.org/
   vendredi: 10h
   youtube: https://www.youtube.com/channel/UC7zlbnNCnuAPiC3goKcFgUg
-- communaute: ''
+- communaute: "Fraternit\xE9 Saint-Vincent-Ferrier"
   dimanche: 10h30
   facebook: https://www.facebook.com/FraterniteSaintVincentFerrier/
   forme: Extraordinaire
@@ -134,7 +134,7 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Ch\xE9m\xE9r\xE9-le-roi - Fraternit\xE9 Saint-Vincent-Ferrier"
+  nom: "Ch\xE9m\xE9r\xE9-le-roi"
   samedi: ''
   site: ''
   vendredi: ''
@@ -153,7 +153,7 @@ messes:
   site: ''
   vendredi: ''
   youtube: ''
-- communaute: ''
+- communaute: "Chanoines R\xE9gulier de la M\xE8re de Dieu"
   dimanche: ''
   facebook: https://www.facebook.com/abbayedeschanoinesdelagrasse/
   forme: Extraordinaire
@@ -162,7 +162,7 @@ messes:
   lundi: ''
   mardi: ''
   mercredi: ''
-  nom: "Chanoines de Lagrasse (Chanoines R\xE9gulier de la M\xE8re de Dieu)"
+  nom: Chanoines de Lagrasse
   samedi: ''
   site: ''
   vendredi: ''
@@ -645,18 +645,18 @@ messes:
   youtube: https://www.youtube.com/channel/UCr0ZBaOK8aL2tWpywb0EpUA
 - communaute: "Fraternit\xE9 Missionnaire Marie M\xE8re des Ap\xF4tres"
   dimanche: 11h
-  facebook: https://tinyurl.com/rwtpkpx
+  facebook: https://www.facebook.com/ParoissesdeSollies/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
   jeudi: 11h30
-  lundi: 11h30
+  lundi: ''
   mardi: 11h30
   mercredi: 11h30
-  nom: "Solli\xE8s"
+  nom: "Paroisses Solli\xE8s-Pont & Solli\xE8s-Toucas"
   samedi: 11h30
   site: ''
   vendredi: 11h30
-  youtube: https://tinyurl.com/t9gqvfw
+  youtube: https://www.youtube.com/channel/UCArx-kzOMS2juyETgFxHQgA/
 - communaute: ''
   dimanche: ''
   facebook: https://tinyurl.com/vfckfo9
@@ -1996,7 +1996,7 @@ messes:
   lundi: 18h30
   mardi: 18h30
   mercredi: 18h30
-  nom: N-D de Lourdes et saint Pie X
+  nom: N-D de Lourdes et Saint Pie X
   samedi: 9h
   site: http://eglise-vannes-emmanuel.fr/2020/03/18/les-messes-en-direct/
   vendredi: 18h30

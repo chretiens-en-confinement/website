@@ -22,6 +22,7 @@ Pour les enfants :
 * Des idées d'activités, des vidéos, des coloriages et des chants pour chaque jour chez [Prions en Église](https://www.prionseneglise.fr/en-famille)
 * Les [coloriages de Mame](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 * Théobule propose une sélection d'activité et de jeux pour le [Carême et Pâques](https://www.theobule.org/jeux-et-bricolages)
+* Plein de bonnes idées pour préparer la messe : [une vidéo très bien faite avec des playmobil par la Fraternité Missionaire Marie Mère des Apôtres](https://www.youtube.com/watch?v=YupNjx4Widk)
 
 ## Suivre la messe
 
