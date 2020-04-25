@@ -14,3 +14,7 @@ src/data/messes-en-direct.yaml: src/data/messes-en-direct.csv scripts/csv2yaml.p
 build:
 	npm run build
 .PHONY: build
+
+install:
+	npm install
+.PHONY: install

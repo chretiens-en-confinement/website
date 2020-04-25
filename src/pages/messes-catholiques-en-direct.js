@@ -98,22 +98,12 @@ const IndexPage = ({ data }) => {
       <ContributeMessage />
       <h2>Messes</h2>
       <p>
-        <span role="img" aria-label="attention">
-          ⚠️
-        </span>{" "}
-        Cette liste est en construction. Nous travaillons avec le groupe messes
-        en direct pour l'améliorer et faciliter l'ajout de messes.
-      </p>
-      <p>
         Pour bien suivre la messe (notamment avec des enfants), consultez la{" "}
         <a href="/">page d'accueil</a>.
       </p>
       <p>
-        Nous remercions tout particulièrement le groupe{" "}
-        <a href="https://docs.google.com/spreadsheets/d/1EDgu6afQ3aq7Bh8l1hAvQlQE3DIVTO2e20yDIOWuxlE/edit#gid=1308810296">
-          Messes en direct
-        </a>{" "}
-        pour la mise à disposition des horaires des messes.
+        Nous remercions tout particulièrement le groupe Messes en direct pour la
+        mise à disposition des horaires des messes.
       </p>
       <table class="table">
         <RowHeader />
@@ -149,12 +139,6 @@ const IndexPage = ({ data }) => {
             Bouge ton Église
           </a>
         </li>
-        <li>
-          Groupe Facebook{" "}
-          <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
-            Messes en direct
-          </a>
-        </li>{" "}
       </ul>
     </Layout>
   )

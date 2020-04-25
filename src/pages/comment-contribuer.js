@@ -33,16 +33,12 @@ const ContributePage = () => {
       </p>
       <h2>Pour ajouter une messe</h2>
       <p>
-        <strong>Notre solution préférée</strong> : nous travaillons avec le
-        groupe Messes en direct. Consultez leur compte Facebook pour la marche à
-        suivre :{" "}
-        <a href="https://www.facebook.com/Messe-en-direct-108221737482184/">
-          Messe en direct
+        <strong>Notre solution préférée</strong> : remplissez le formulaire
+        Google :{" "}
+        <a href="https://forms.gle/oxRe5Qes3SESDa7P6">
+          Ajouter ou modifier une messe sur chretiens-en-confinement.org
         </a>
         .
-      </p>
-      <p>
-        Autre solution : allez sur notre Github <Github />.
       </p>
       <p>
         Autre solution : envoyez-nous un email sur <Email />. Nous recevons de
