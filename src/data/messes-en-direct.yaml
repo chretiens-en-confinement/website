@@ -770,6 +770,20 @@ messes:
   vendredi: ''
   youtube: https://tinyurl.com/tcuhrbw
 - communaute: ''
+  dimanche: 10h30
+  facebook: https://tinyurl.com/rem8knc
+  forme: Extraordinaire
+  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  jeudi: ''
+  lundi: ''
+  mardi: ''
+  mercredi: ''
+  nom: "Missionnaires de la Mis\xE9ricorde Divine"
+  samedi: ''
+  site: ''
+  vendredi: ''
+  youtube: https://tinyurl.com/rovnj5t
+- communaute: ''
   dimanche: 10h
   facebook: https://tinyurl.com/s2c3fr7
   forme: Ordinaire
@@ -1890,20 +1904,6 @@ messes:
   vendredi: ''
   youtube: https://tinyurl.com/rjsgctr
 - communaute: ''
-  dimanche: 10h30
-  facebook: https://tinyurl.com/rem8knc
-  forme: Extraordinaire
-  groupe: "Dioc\xE8se de Toulon"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Missionnaires de la Mis\xE9ricorde Divine"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/rovnj5t
-- communaute: ''
   dimanche: 11h
   facebook: https://tinyurl.com/v56zrw7
   forme: Ordinaire
@@ -1931,7 +1931,7 @@ messes:
   site: ''
   vendredi: 18h
   youtube: https://tinyurl.com/sylb6ah
-- communaute: Domincains
+- communaute: Dominicains
   dimanche: ''
   facebook: https://www.facebook.com/Dominicains.Province.de.Toulouse/
   forme: Ordinaire
