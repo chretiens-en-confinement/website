@@ -19,10 +19,8 @@ title: "Liste collaborative pour vivre le confinement autrement"
 Pour les enfants :
 
 * Magnificat Junior propose des [coloriages, bandes dessinées et activités](https://francais.magnificat.net/accueil/coloriages/)
-* Des idées d'activités, des vidéos, des coloriages et des chants pour chaque jour chez [Prions en Église](https://www.prionseneglise.fr/en-famille)
 * Les [coloriages de Mame](https://www.mameeditions.com/coloriages-et-activites-a-la-maison)
 * Théobule propose une sélection d'activité et de jeux pour le [Carême et Pâques](https://www.theobule.org/jeux-et-bricolages)
-* Plein de bonnes idées pour préparer la messe : [une vidéo très bien faite avec des playmobil par la Fraternité Missionaire Marie Mère des Apôtres](https://www.youtube.com/watch?v=YupNjx4Widk)
 
 ## Suivre la messe
 
@@ -41,6 +39,7 @@ Pour mieux célébrer le dimanche :
 
 * Les éditions Mame mettent à disposition pour chaque dimanche un dossier avec des coloriages, une aide guidée pour expliquer l'évangile du jour et des extraits de l'évangile en BD sur [célébrer le dimanche en famille à la maison](https://www.mameeditions.com/vivre-la-messe-en-famille-a-la-maison)
 * [PrierEnFamille](https://www.prierenfamille.com/) aide les parents à accompagner leurs enfants vers Dieu chaque dimanche avec des coloriages, des explications de l'Évangile, etc.
+* Plein de bonnes idées pour préparer la messe : [une vidéo très bien faite avec des playmobil par la Fraternité Missionaire Marie Mère des Apôtres](https://www.youtube.com/watch?v=YupNjx4Widk)
 
 ## Suivre les offices monastiques
 
