@@ -52,6 +52,15 @@ module.exports = {
             },
           },
           { resolve: `gatsby-remark-autolink-headers` },
+          {
+            resolve: `gatsby-remark-table-of-contents`,
+            options: {
+              exclude: "Table of Contents",
+              tight: false,
+              fromHeading: 1,
+              toHeading: 2,
+            },
+          },
         ],
       },
     },
