@@ -4,6 +4,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -18,6 +19,7 @@ messes:
   facebook: https://www.facebook.com/communautesaintmartin
   forme: Ordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -32,6 +34,7 @@ messes:
   facebook: https://www.facebook.com/regnumchristi.france
   forme: Ordinaire
   groupe: ''
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -46,6 +49,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: ''
+  is_hd: 'FALSE'
   jeudi: 12h15
   lundi: 12h15
   mardi: 12h15
@@ -60,6 +64,7 @@ messes:
   facebook: https://m.facebook.com/Serviteurs.SJM/
   forme: Ordinaire
   groupe: ''
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -74,6 +79,7 @@ messes:
   facebook: https://www.facebook.com/PetitsFreres2Marie/
   forme: Ordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: 11h
   lundi: 11h
   mardi: 11h
@@ -88,6 +94,7 @@ messes:
   facebook: https://www.facebook.com/Fraternite.Tiberiade/
   forme: Ordinaire
   groupe: ''
+  is_hd: 'FALSE'
   jeudi: 17h
   lundi: 18h30
   mardi: 17h
@@ -102,6 +109,7 @@ messes:
   facebook: https://www.facebook.com/CheminNeuf
   forme: Ordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -116,6 +124,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -130,6 +139,7 @@ messes:
   facebook: https://www.facebook.com/FraterniteSaintVincentFerrier/
   forme: Extraordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -144,6 +154,7 @@ messes:
   facebook: https://www.barroux.org/fr/liturgie/ecoutez-nos-offices.html
   forme: Extraordinaire
   groupe: ''
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: 19h45
   mardi: 19h45
@@ -158,6 +169,7 @@ messes:
   facebook: https://www.facebook.com/abbayedeschanoinesdelagrasse/
   forme: Extraordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -172,6 +184,7 @@ messes:
   facebook: https://www.facebook.com/Institut.du.Bon.Pasteur
   forme: Extraordinaire
   groupe: ''
+  is_hd: 'TRUE'
   jeudi: 11h et 18h30
   lundi: 11h et 18h30
   mardi: 11h et 18h30
@@ -186,6 +199,7 @@ messes:
   facebook: https://www.facebook.com/gricigliano.icrss
   forme: Extraordinaire
   groupe: ''
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -200,6 +214,7 @@ messes:
   facebook: https://www.facebook.com/FranciscainsConventuelsBXL/
   forme: Ordinaire
   groupe: "Belgique - Dioc\xE8se de Bruxelles"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -214,6 +229,7 @@ messes:
   facebook: https://www.facebook.com/aumoneriemilitairenouvellecaledonie/
   forme: Ordinaire
   groupe: "Dioc\xE8se aux Arm\xE9es"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -228,6 +244,7 @@ messes:
   facebook: https://www.facebook.com/DioAixArles/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Aix et Arles"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -242,6 +259,7 @@ messes:
   facebook: https://www.facebook.com/ParoisseArles/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Aix et Arles"
+  is_hd: 'FALSE'
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -256,6 +274,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Amiens"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -270,6 +289,7 @@ messes:
   facebook: https://www.facebook.com/saintsapotres
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Amiens"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -284,6 +304,7 @@ messes:
   facebook: https://www.facebook.com/choletcatho/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Angers"
+  is_hd: 'FALSE'
   jeudi: 11h30
   lundi: 11h30
   mardi: 11h30
@@ -298,6 +319,7 @@ messes:
   facebook: https://www.facebook.com/charles.defoucauld.50
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Angers"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -312,6 +334,7 @@ messes:
   facebook: https://www.diocese49.org/prier-ensemble-en-video-grace-au-web
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Angers"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -326,6 +349,7 @@ messes:
   facebook: https://www.facebook.com/angouleme.catholique.fr/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Angoul\xEAme"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -340,6 +364,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Angoul\xEAme"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -354,6 +379,7 @@ messes:
   facebook: https://www.facebook.com/paroissenotredameencite/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Arras"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -368,6 +394,7 @@ messes:
   facebook: https://www.facebook.com/sacrecoeur.paray/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Autun-Ch\xE2lons-Macon"
+  is_hd: 'TRUE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -382,6 +409,7 @@ messes:
   facebook: https://www.facebook.com/saintruf/
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Avignon"
+  is_hd: 'TRUE'
   jeudi: 08h30
   lundi: 11h
   mardi: 08h30
@@ -396,6 +424,7 @@ messes:
   facebook: https://www.facebook.com/saintlaurentorleans
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Orl\xE9ans"
+  is_hd: 'TRUE'
   jeudi: 8h
   lundi: 8h
   mardi: 8h
@@ -410,6 +439,7 @@ messes:
   facebook: https://www.facebook.com/groupementR2L
   forme: Ordinaire
   groupe: "Dioc\xE8se d'Orl\xE9ans"
+  is_hd: 'FALSE'
   jeudi: 8h
   lundi: 8h
   mardi: 8h
@@ -424,6 +454,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Bayonne"
+  is_hd: 'FALSE'
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -438,6 +469,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Belley-Ars"
+  is_hd: 'TRUE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -452,6 +484,7 @@ messes:
   facebook: https://www.facebook.com/pereolivier.barnay
   forme: Ordinaire
   groupe: "Dioc\xE8se de Belley-Ars"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -466,6 +499,7 @@ messes:
   facebook: https://www.facebook.com/anthony.chopard
   forme: Ordinaire
   groupe: "Dioc\xE8se de Besan\xE7on"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -480,6 +514,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Besan\xE7on"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -494,6 +529,7 @@ messes:
   facebook: https://www.facebook.com/paroissedemontoire/?hc_location=ufi
   forme: Ordinaire
   groupe: "Dioc\xE8se de Blois"
+  is_hd: 'FALSE'
   jeudi: 19h30
   lundi: ''
   mardi: 19h30
@@ -508,6 +544,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Bordeaux"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -522,6 +559,7 @@ messes:
   facebook: https://www.facebook.com/catholibourne
   forme: Ordinaire
   groupe: "Dioc\xE8se de Bordeaux"
+  is_hd: 'TRUE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -536,6 +574,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Bordeaux"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -550,6 +589,7 @@ messes:
   facebook: https://www.facebook.com/fssp.bordeaux.7
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Bordeaux"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -564,6 +604,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Bourges"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -578,6 +619,7 @@ messes:
   facebook: https://www.facebook.com/ParoissedeFigeac46/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Cahors"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -592,6 +634,7 @@ messes:
   facebook: https://www.facebook.com/paroissessaintloetagneaux/?ref=bookmarks
   forme: Ordinaire
   groupe: "Dioc\xE8se de Coutances"
+  is_hd: 'FALSE'
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -606,6 +649,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Dijon"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -620,6 +664,7 @@ messes:
   facebook: https://www.facebook.com/fsspdijon
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Dijon"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -634,6 +679,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -648,6 +694,7 @@ messes:
   facebook: https://www.facebook.com/ParoissesdeSollies/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'TRUE'
   jeudi: 11h30
   lundi: ''
   mardi: 11h30
@@ -658,24 +705,11 @@ messes:
   vendredi: 11h30
   youtube: https://www.youtube.com/channel/UCArx-kzOMS2juyETgFxHQgA/
 - communaute: ''
-  dimanche: ''
-  facebook: https://tinyurl.com/vfckfo9
-  forme: Ordinaire
-  groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
-  jeudi: ''
-  lundi: ''
-  mardi: ''
-  mercredi: ''
-  nom: "Notre-Dame de la Nativit\xE9"
-  samedi: ''
-  site: ''
-  vendredi: ''
-  youtube: https://tinyurl.com/wkcbo2p
-- communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/vdabyza
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'FALSE'
   jeudi: 8h45
   lundi: 18h30
   mardi: 8h45
@@ -684,12 +718,13 @@ messes:
   samedi: 8h45
   site: ''
   vendredi: 8h45
-  youtube: https://tinyurl.com/rmj99eq
+  youtube: https://www.youtube.com/channel/UCqLSkSAPPwrWkz4DtMVb-Fg?fbclid=IwAR2Qxt8lAOtmrJdHVm2wyPkaqy00PDXIkY-QD7PeocOCAyQ3WMm2lUflkNs
 - communaute: ''
   dimanche: ''
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -698,12 +733,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/vasf9s5
+  youtube: https://www.youtube.com/channel/UCXdpc8qD5th8CsXduRbpyCQ
 - communaute: ''
   dimanche: ''
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -712,12 +748,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/u6sd7wa
+  youtube: https://www.youtube.com/channel/UClAJqaDpEM1p3A1vdCcEPcw?fbclid=IwAR0MUCJKM_uEb3uN1Gh_NmAtziN5pgG8SOWOXrqqOqr06iZLSMzCOZjjObU
 - communaute: ''
   dimanche: ''
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -726,12 +763,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/vspwgce
+  youtube: https://www.youtube.com/watch?v=Ve5AWNtW26U
 - communaute: ''
   dimanche: ''
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -746,6 +784,7 @@ messes:
   facebook: https://tinyurl.com/strfh37
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'FALSE'
   jeudi: 18h30
   lundi: 8h45
   mardi: 18h30
@@ -754,12 +793,13 @@ messes:
   samedi: 10h15
   site: ''
   vendredi: 8h45
-  youtube: https://tinyurl.com/yx4ynaym
+  youtube: https://www.youtube.com/channel/UC4sHHiPMJKRAGrHxLjsl6_g?view_as=subscriber
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/t37z25u
   forme: Ordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -768,12 +808,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/tcuhrbw
+  youtube: https://www.youtube.com/watch?v=_6nmInFrCkU&list=PLO58wDOXE0XkrktUl-smZWbD0lp3h73p6
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/rem8knc
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Fr\xE9jus-Toulon"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -782,12 +823,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/rovnj5t
+  youtube: https://www.youtube.com/user/misericordetv
 - communaute: ''
   dimanche: 10h
   facebook: https://tinyurl.com/s2c3fr7
   forme: Ordinaire
   groupe: "Dioc\xE8se de Gap"
+  is_hd: 'TRUE'
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -796,12 +838,13 @@ messes:
   samedi: 10h
   site: ''
   vendredi: 10h
-  youtube: https://tinyurl.com/vcuzxv4
+  youtube: https://www.youtube.com/user/SanctuaireNDduLaus
 - communaute: ''
   dimanche: 10h45
   facebook: https://tinyurl.com/uwptnd6
   forme: Ordinaire
   groupe: "Dioc\xE8se de Grenoble"
+  is_hd: 'FALSE'
   jeudi: 11h45
   lundi: 18h
   mardi: 11h45
@@ -810,12 +853,13 @@ messes:
   samedi: 11h45
   site: ''
   vendredi: 11h45
-  youtube: https://tinyurl.com/w9lr2le
+  youtube: https://www.youtube.com/watch?v=0JMqQQoLUYA
 - communaute: FSSP
   dimanche: 11h
   facebook: https://tinyurl.com/s2lesxy
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Grenoble"
+  is_hd: 'FALSE'
   jeudi: 11h
   lundi: 11h
   mardi: 11h
@@ -824,12 +868,13 @@ messes:
   samedi: 11h
   site: ''
   vendredi: 11h
-  youtube: https://tinyurl.com/sw2ba38
+  youtube: https://www.youtube.com/channel/UCLFaFtNEDw2x1pUU_1NaCHQ/featured?app=desktop
 - communaute: ''
   dimanche: 11h
   facebook: https://tinyurl.com/t5bzxvx
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lille"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -838,12 +883,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/s947j8j
+  youtube: https://www.youtube.com/channel/UCQGIneC-5la-6EN8wd4wD6A/featured
 - communaute: ''
   dimanche: 11h
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lille"
+  is_hd: 'TRUE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -852,12 +898,13 @@ messes:
   samedi: 18h
   site: ''
   vendredi: 18h
-  youtube: https://tinyurl.com/u9z4jsz
+  youtube: https://www.youtube.com/channel/UCRGzQFC4tloBGIV-WRpA3aQ
 - communaute: ''
   dimanche: 10h
   facebook: https://www.facebook.com/icrspLille
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Lille"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -866,12 +913,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/tzljqa3
+  youtube: https://www.youtube.com/channel/UCg41bbACemv0i--Tv6ZtuUA/videos?view_as=subscriber&fbclid=IwAR2_gK8p2YtH2js23aD9TnPEssdShiE8AVwIhNRPQfIA309K8IzBG5ea9ZI
 - communaute: ''
   dimanche: 11h30
   facebook: https://tinyurl.com/s59qu8k
   forme: Ordinaire
   groupe: "Dioc\xE8se de Limoges"
+  is_hd: 'TRUE'
   jeudi: 11h30
   lundi: 11h30
   mardi: 11h30
@@ -880,12 +928,13 @@ messes:
   samedi: 11h30
   site: ''
   vendredi: 11h30
-  youtube: https://tinyurl.com/r48xf53
+  youtube: https://www.youtube.com/channel/UCbKcpuBV4QoHqPBbvr_SBMg
 - communaute: ''
   dimanche: 9h30 et 11h
-  facebook: https://tinyurl.com/uy45yun
+  facebook: "https://www.facebook.com/Paroisses-Montaigu-La-Bruffi\xE8re-380417932741177/"
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lu\xE7on"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 19h
   mardi: 9h
@@ -900,6 +949,7 @@ messes:
   facebook: https://tinyurl.com/wtankwc
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'TRUE'
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -908,12 +958,13 @@ messes:
   samedi: 10h
   site: ''
   vendredi: 10h
-  youtube: https://tinyurl.com/vfrfsy9
+  youtube: https://www.youtube.com/channel/UCwC-VAXxzjF3vcp-pB6NaBA
 - communaute: "Communaut\xE9 de l'Emmanuel"
   dimanche: '10h30 '
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'TRUE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -922,12 +973,13 @@ messes:
   samedi: 9h
   site: https://www.nd-misericorde.com/
   vendredi: 9h
-  youtube: https://tinyurl.com/rua5esc
+  youtube: https://www.youtube.com/channel/UC8S219RqASZK7Gm2tyjG7Pg
 - communaute: ''
   dimanche: 17h
   facebook: https://tinyurl.com/thwvse7
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'FALSE'
   jeudi: 17h
   lundi: 17h
   mardi: 17h
@@ -936,12 +988,13 @@ messes:
   samedi: 17h
   site: ''
   vendredi: 17h
-  youtube: https://tinyurl.com/vkdn2cp
+  youtube: https://www.youtube.com/channel/UC0KUfHVeBdixDdP-fkGxgXA
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/wd7owtl
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -950,12 +1003,13 @@ messes:
   samedi: 11h
   site: ''
   vendredi: 19h
-  youtube: https://tinyurl.com/wzop4my
+  youtube: https://www.youtube.com/channel/UCBvhZCGq3qe6Zl0VpN0c_vQ/videos
 - communaute: "Communaut\xE9 de l'Emmanuel"
   dimanche: 10H30
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -964,12 +1018,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/qnh8893
+  youtube: https://www.youtube.com/channel/UCWNnKqbDMez9Ix6k3oNxXlQ
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/uorzs4r
   forme: Ordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'FALSE'
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -978,12 +1033,13 @@ messes:
   samedi: 12h
   site: ''
   vendredi: 12h
-  youtube: https://tinyurl.com/tu5ugoo
+  youtube: https://www.youtube.com/channel/UC6-fFD-7iiHdMo-TV7QzJyA
 - communaute: FSSP
   dimanche: 10h
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'FALSE'
   jeudi: 18h45
   lundi: 18h45
   mardi: 18h45
@@ -992,12 +1048,13 @@ messes:
   samedi: 11h
   site: ''
   vendredi: 28h45
-  youtube: https://tinyurl.com/st5e6ko
+  youtube: https://www.youtube.com/channel/UCbUFCVgYukiowYO9kEk61mQ
 - communaute: ''
   dimanche: 9h et 10h30
   facebook: https://tinyurl.com/sae3cl6
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Lyon"
+  is_hd: 'TRUE'
   jeudi: 9h et 18h30
   lundi: 9h et 18h30
   mardi: 9h et 18h30
@@ -1006,12 +1063,13 @@ messes:
   samedi: 9h et 11h
   site: ''
   vendredi: 9h et 18h30
-  youtube: https://tinyurl.com/t6ctwjv
+  youtube: https://www.youtube.com/channel/UCGs5sHhPEbFI2GfNDp2roZg
 - communaute: ''
   dimanche: 10h30
   facebook: https://tinyurl.com/wnxr3tc
   forme: Ordinaire
   groupe: "Dioc\xE8se de Marseille"
+  is_hd: 'FALSE'
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -1020,12 +1078,13 @@ messes:
   samedi: 12h
   site: https://www.saintvincentdepaulmarseille.com/
   vendredi: 12h
-  youtube: https://tinyurl.com/wnxhwwm
+  youtube: https://www.youtube.com/channel/UC8BFZ1SCqg2vzMIuaNhWcFg?fbclid=IwAR0xRFfL2FTg-W4y3k47yIwsGmw42X4n4V1CRFxe561V_KjOEoqV04wC6fA
 - communaute: ''
   dimanche: 9h30
-  facebook: https://tinyurl.com/r7va8oj
+  facebook: https://www.meluncatholique.fr/?fbclid=IwAR23AIviPwrHvH-vcPXNqkUgm1B0ifOB3kV9knap9YQGOZ4l5Fw5V50V6kM
   forme: Ordinaire
   groupe: "Dioc\xE8se de Melun"
+  is_hd: 'FALSE'
   jeudi: 9h30
   lundi: 9h30
   mardi: 9h30
@@ -1040,6 +1099,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Montauban"
+  is_hd: 'FALSE'
   jeudi: 8h30
   lundi: 8h30
   mardi: 8h30
@@ -1054,6 +1114,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Montpellier"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1068,6 +1129,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Montr\xE9al"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1082,6 +1144,7 @@ messes:
   facebook: https://tinyurl.com/waybxdr
   forme: Ordinaire
   groupe: "Dioc\xE8se de Moulins"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1096,6 +1159,7 @@ messes:
   facebook: https://tinyurl.com/teuk47m
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1110,6 +1174,7 @@ messes:
   facebook: https://tinyurl.com/rwj5g6l
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -1124,6 +1189,7 @@ messes:
   facebook: https://tinyurl.com/wjmjhkt
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1138,6 +1204,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1152,6 +1219,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -1166,6 +1234,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -1180,6 +1249,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1194,6 +1264,7 @@ messes:
   facebook: https://tinyurl.com/PSJBSCXFB
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 18h
   mardi: 9h
@@ -1208,6 +1279,7 @@ messes:
   facebook: https://tinyurl.com/yxxx4hgo
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -1222,6 +1294,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1236,6 +1309,7 @@ messes:
   facebook: https://tinyurl.com/scdlw4g
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 19h
   mardi: 9h
@@ -1250,6 +1324,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1264,6 +1339,7 @@ messes:
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Nanterre"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1278,6 +1354,7 @@ messes:
   facebook: https://www.facebook.com/ParoisseNotreDamedeNantes/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nantes"
+  is_hd: 'FALSE'
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -1292,6 +1369,7 @@ messes:
   facebook: https://tinyurl.com/tl6623r
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nantes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1306,6 +1384,7 @@ messes:
   facebook: https://tinyurl.com/uhvgatp
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nantes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1320,6 +1399,7 @@ messes:
   facebook: https://tinyurl.com/yxxt97ks
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nantes"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1334,6 +1414,7 @@ messes:
   facebook: https://tinyurl.com/uggdd6w
   forme: Ordinaire
   groupe: "Dioc\xE8se de Nantes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1348,6 +1429,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 13h
   lundi: 13h
   mardi: 13h
@@ -1362,6 +1444,7 @@ messes:
   facebook: https://tinyurl.com/sgnpy6r
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 13h
   lundi: 13h
   mardi: 13h
@@ -1376,6 +1459,7 @@ messes:
   facebook: https://tinyurl.com/sf78yv4
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 9h15
   lundi: 9h15
   mardi: 9h15
@@ -1390,6 +1474,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1404,6 +1489,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1418,6 +1504,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -1432,6 +1519,7 @@ messes:
   facebook: https://tinyurl.com/szcj2on
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1446,6 +1534,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1460,6 +1549,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1474,6 +1564,7 @@ messes:
   facebook: https://tinyurl.com/t3vz8od
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1488,6 +1579,7 @@ messes:
   facebook: https://tinyurl.com/sopm7f5
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 18h15
   lundi: 18h15
   mardi: 18h15
@@ -1502,6 +1594,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1516,6 +1609,7 @@ messes:
   facebook: https://tinyurl.com/tdlgn6z
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 7h30, 8h35, 12h, 19h
   lundi: 12h et 19h
   mardi: 7h30, 8h35, 12h, 19h
@@ -1530,6 +1624,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 12h
   lundi: 12h
   mardi: 12h
@@ -1544,6 +1639,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1558,6 +1654,7 @@ messes:
   facebook: https://tinyurl.com/t44zhe8
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 12h15
   lundi: 12h15
   mardi: 12h15
@@ -1572,6 +1669,7 @@ messes:
   facebook: https://tinyurl.com/yxxn74p2
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1586,6 +1684,7 @@ messes:
   facebook: https://tinyurl.com/t5h3age
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 10h
   lundi: 10h
   mardi: 10h
@@ -1600,6 +1699,7 @@ messes:
   facebook: https://tinyurl.com/wyxd88w
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 9h, 12h, 19h
   lundi: 9h, 12h, 19h
   mardi: 9h, 12h, 19h
@@ -1614,6 +1714,7 @@ messes:
   facebook: https://tinyurl.com/qqprkv3
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 8h30
   lundi: 8h30
   mardi: 8h30
@@ -1628,6 +1729,7 @@ messes:
   facebook: https://tinyurl.com/rkqma3z
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 9h et 19h45
   lundi: 9h et 19h45
   mardi: 9h et 19h45
@@ -1642,6 +1744,7 @@ messes:
   facebook: https://www.facebook.com/SaintRochParis/
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 8h30
   lundi: 8h30
   mardi: 8h30
@@ -1656,6 +1759,7 @@ messes:
   facebook: https://www.facebook.com/Saint.Eugene.Sainte.Cecile/
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -1670,6 +1774,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Paris"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1684,6 +1789,7 @@ messes:
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Perpignan"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1698,6 +1804,7 @@ messes:
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Perpignan"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1712,6 +1819,7 @@ messes:
   facebook: https://tinyurl.com/qps24gp
   forme: Ordinaire
   groupe: "Dioc\xE8se de Pontoise"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1726,6 +1834,7 @@ messes:
   facebook: https://tinyurl.com/wdxgoqf
   forme: Ordinaire
   groupe: "Dioc\xE8se de Quimper"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1740,6 +1849,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Rennes"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -1754,6 +1864,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Rennes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1768,6 +1879,7 @@ messes:
   facebook: https://tinyurl.com/u5nsn89
   forme: Ordinaire
   groupe: "Dioc\xE8se de Rennes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1782,6 +1894,7 @@ messes:
   facebook: https://tinyurl.com/tatan7z
   forme: Ordinaire
   groupe: "Dioc\xE8se de Rouen"
+  is_hd: 'FALSE'
   jeudi: 12h15
   lundi: 12h15
   mardi: 12h15
@@ -1796,6 +1909,7 @@ messes:
   facebook: https://tinyurl.com/s3une7l
   forme: Ordinaire
   groupe: "Dioc\xE8se de Rouen"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1810,6 +1924,7 @@ messes:
   facebook: https://tinyurl.com/yx7jddho
   forme: Ordinaire
   groupe: "Dioc\xE8se de Rouen"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 11h
   mardi: 11h
@@ -1824,6 +1939,7 @@ messes:
   facebook: https://www.facebook.com/Estree93200/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Saint-Denis"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1838,6 +1954,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Saint-Denis"
+  is_hd: 'FALSE'
   jeudi: ' '
   lundi: ' '
   mardi: ' '
@@ -1852,6 +1969,7 @@ messes:
   facebook: https://tinyurl.com/rrjqf2a
   forme: Ordinaire
   groupe: "Dioc\xE8se de Saint-Etienne"
+  is_hd: 'FALSE'
   jeudi: 11h
   lundi: 11h
   mardi: 11h
@@ -1866,6 +1984,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Saint-Flour"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1880,6 +1999,7 @@ messes:
   facebook: https://tinyurl.com/ruyue5j
   forme: Ordinaire
   groupe: "Dioc\xE8se de S\xE9ez"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1894,6 +2014,7 @@ messes:
   facebook: https://tinyurl.com/r2ukgn8
   forme: Ordinaire
   groupe: "Dioc\xE8se de S\xE9ez"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1908,6 +2029,7 @@ messes:
   facebook: https://tinyurl.com/v56zrw7
   forme: Ordinaire
   groupe: "Dioc\xE8se de Toulouse"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1922,6 +2044,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Toulouse"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -1936,6 +2059,7 @@ messes:
   facebook: https://www.facebook.com/Dominicains.Province.de.Toulouse/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Toulouse"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -1950,6 +2074,7 @@ messes:
   facebook: https://tinyurl.com/r5zrhyv
   forme: Ordinaire
   groupe: "Dioc\xE8se de Tours"
+  is_hd: 'FALSE'
   jeudi: 11h
   lundi: 11h
   mardi: 11h
@@ -1964,6 +2089,7 @@ messes:
   facebook: https://tinyurl.com/qt7ep6j
   forme: Ordinaire
   groupe: "Dioc\xE8se de Tours"
+  is_hd: 'FALSE'
   jeudi: 9h
   lundi: 9h
   mardi: 9h
@@ -1978,6 +2104,7 @@ messes:
   facebook: https://www.facebook.com/fsspvalence
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Valence et Mont\xE9limar"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: 9h
   mardi: 9h
@@ -1992,6 +2119,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Vannes"
+  is_hd: 'FALSE'
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -2006,6 +2134,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Vannes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2020,6 +2149,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Vannes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2034,6 +2164,7 @@ messes:
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Vannes"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2048,6 +2179,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2062,6 +2194,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2076,6 +2209,7 @@ messes:
   facebook: https://tinyurl.com/t3alh2c
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2090,6 +2224,7 @@ messes:
   facebook: https://tinyurl.com/sl4hpwv
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2104,6 +2239,7 @@ messes:
   facebook: https://tinyurl.com/versaillesNDfacebook
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2118,6 +2254,7 @@ messes:
   facebook: https://m.facebook.com/paroissesqsv/
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2132,6 +2269,7 @@ messes:
   facebook: https://tinyurl.com/v8hezv7
   forme: Ordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: 19h
   lundi: 19h
   mardi: 19h
@@ -2146,6 +2284,7 @@ messes:
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -2160,6 +2299,7 @@ messes:
   facebook: https://tinyurl.com/t6ghpmb
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: 18h
   lundi: 18h
   mardi: 18h
@@ -2174,6 +2314,7 @@ messes:
   facebook: ''
   forme: Extraordinaire
   groupe: "Dioc\xE8se de Versailles"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2188,6 +2329,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Dioc\xE8se de Viviers"
+  is_hd: 'FALSE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2196,12 +2338,13 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/s6sgnj6
+  youtube: https://www.youtube.com/channel/UCaj7IhZe6FJwuDCx027VvFA?app=desktop&fbclid=IwAR13_4C-SqjcIfDd01g7F55MF1XFkY-w7-Gq6R8vf2oK-NXWqYGS8fB7Tt8
 - communaute: ''
   dimanche: 11h
   facebook: ''
   forme: Extraordinaire
   groupe: "Italie - Dioc\xE8se de Rome"
+  is_hd: 'TRUE'
   jeudi: 18h30
   lundi: 18h30
   mardi: 18h30
@@ -2216,6 +2359,7 @@ messes:
   facebook: ''
   forme: Ordinaire
   groupe: "Suisse - Dioc\xE8se de Sion"
+  is_hd: 'TRUE'
   jeudi: ''
   lundi: ''
   mardi: ''
@@ -2224,4 +2368,4 @@ messes:
   samedi: ''
   site: ''
   vendredi: ''
-  youtube: https://tinyurl.com/ro63soe
+  youtube: https://www.youtube.com/channel/UCT4fhwDiLH6kFeJ6TuybzJg

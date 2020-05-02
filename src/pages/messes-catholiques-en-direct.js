@@ -10,12 +10,16 @@ import ContributeMessage from "../components/ContributeMessage"
 
 const WEEKDAYS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"]
 
+const HD = () => {
+  return <span>HQ</span>
+}
+
 const Masses = ({ masses }) => {
   return sortBy("nom")(masses).map(m => {
     return (
       <tr>
         <td>
-          {m.nom}
+          {m.nom} {m.is_hd && <HD />}
           {m.communaute && (
             <>
               <br />
@@ -165,6 +169,7 @@ export const pageQuery = graphql`
           youtube
           facebook
           site
+          is_hd
         }
       }
     }

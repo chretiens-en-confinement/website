@@ -21,6 +21,7 @@ KEYS = {
     "Samedi": "samedi",
     "Dimanche": "dimanche",
     "Forme": "forme",
+    "HD": "is_hd",
 }
 URL_KEYS = ("youtube", "facebook", "site")
 
