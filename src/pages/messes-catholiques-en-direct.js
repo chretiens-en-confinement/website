@@ -16,9 +16,9 @@ const HD = () => {
 }
 
 const Masses = ({ masses }) => {
-  return sortBy("nom")(masses).map(m => {
+  return sortBy("nom")(masses).map((m) => {
     return (
-      <tr>
+      <tr key={m.id}>
         <td>
           {m.nom} {m.is_hd && <HD />}
           {m.communaute && (
@@ -101,30 +101,35 @@ const IndexPage = ({ data }) => {
       <SEO title="Messes et offices" />
       <h1>Messes et offices en ligne</h1>
       <ContributeMessage />
-      <h2>Messes</h2>
       <p>
         Pour bien suivre la messe (notamment avec des enfants), consultez la{" "}
         <a href="/">page d'accueil</a>.
       </p>
+      <h3>
+        Haute qualité <HD />
+      </h3>
       <p>
-        Nous remercions tout particulièrement le groupe Messes en direct pour la
-        mise à disposition des horaires des messes.
+        Nous avons créé un indicateur pour les messes filmées en « haute qualité
+        », pour lesquelles nous avons créé trois critères : l'enregistrement en
+        haute définition, le son continu et de très bonne qualité, le changement
+        de prise de vue pendant la messe.
       </p>
-      <table class="table">
+      <h2>Liste des messes</h2>
+      <table>
         <RowHeader />
         <tbody>
           {Object.entries(groupBy("groupe")(messes)).map(([groupe, masses]) => {
             return (
-              <>
+              <React.Fragment key={groupe}>
                 <tr>
                   {!!groupe && (
-                    <td colspan="4">
+                    <td colSpan="4">
                       <h3>{groupe}</h3>
                     </td>
                   )}
                 </tr>
                 <Masses masses={masses} />
-              </>
+              </React.Fragment>
             )
           })}
         </tbody>
@@ -145,6 +150,10 @@ const IndexPage = ({ data }) => {
           </a>
         </li>
       </ul>
+      <p>
+        Nous remercions tout particulièrement le groupe Messes en direct pour la
+        mise à disposition initiale des horaires des messes.
+      </p>
     </Layout>
   )
 }
@@ -156,6 +165,7 @@ export const pageQuery = graphql`
     allDataYaml {
       nodes {
         messes {
+          id
           groupe
           nom
           communaute

@@ -11,13 +11,14 @@ const Menu = () => {
   ]
   return (
     <div style={{ marginTop: 16 }}>
-      {menuItems.map(i => {
+      {menuItems.map((i) => {
         return (
           <span
             style={{
               marginRight: 24,
               color: `white`,
             }}
+            key={i.url}
           >
             <Link
               to={i.url}

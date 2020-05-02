@@ -46,6 +46,7 @@ def transform(mass: Dict[str, Any]) -> Union[None, Dict[str, str]]:
         return value
 
     m = {new_key: get_value(mass, k.lower()) for k, new_key in KEYS.items()}
+    m["id"] = "-".join([m["groupe"], m["nom"]])
 
     return m
 
@@ -55,6 +56,13 @@ def main(infile: TextIO, outfile: TextIO) -> None:
     rows = list(reader)
 
     masses = sorted(list(filter(None, map(transform, rows))), key=itemgetter("groupe"))
+
+    # Alert on duplicates
+    ids = list(map(itemgetter("id"), masses))
+    duplicates = set(m for m in ids if ids.count(m) > 1)
+
+    if duplicates:
+        raise ValueError(f"Found duplicate ids: {duplicates!r}")
 
     out = {"messes": masses}
 

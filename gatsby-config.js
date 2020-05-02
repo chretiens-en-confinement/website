@@ -1,13 +1,14 @@
+const siteName = "Chrétiens en confinement"
+
 module.exports = {
   siteMetadata: {
-    title: `Chrétiens en confinement`,
+    title: siteName,
     description: `Une liste collaborative de qualité pour vivre le confinement en chrétiens.`,
     author: `@charlax`,
     siteUrl: "https://www.chretiens-en-confinement.org",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    "gatsby-plugin-theme-ui",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -20,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: siteName,
+        short_name: `CeC`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
@@ -76,5 +77,6 @@ module.exports = {
         locale: "fr",
       },
     },
+    "gatsby-plugin-theme-ui",
   ],
 }
