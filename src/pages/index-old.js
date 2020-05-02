@@ -6,8 +6,8 @@ import SEO from "../components/seo"
 import ContributeMessage from "../components/ContributeMessage"
 
 const IndexPage = ({ data }) => {
-  const { markdownRemark, currentBuildDate } = data
-  const { html, tableOfContents } = markdownRemark
+  const { mdx, currentBuildDate } = data
+  const { html, tableOfContents } = mdx
 
   return (
     <Layout>
@@ -58,9 +58,9 @@ export const pageQuery = graphql`
     currentBuildDate {
       currentDate
     }
-    markdownRemark(frontmatter: { path: { eq: "/" } }) {
+    mdx(frontmatter: { path: { eq: "/" } }) {
       html
-      tableOfContents(maxDepth: 2, absolute: false)
+      tableOfContents(maxDepth: 2)
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         path

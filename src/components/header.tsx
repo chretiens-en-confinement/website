@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 import React from "react"
 
-import { color } from "../utils/typography"
+import { color } from "../gatsby-plugin-theme-ui"
 
 const Menu = () => {
   const menuItems = [
