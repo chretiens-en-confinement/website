@@ -7,7 +7,7 @@ export const color = `#1ca086`
 
 const theme = merge(toTheme(typographyTheme), {
   colors: {
-    text: "#000",
+    text: "rgba(0, 0, 0, 0.8)",
     background: "#fff",
     primary: color,
   },
@@ -15,6 +15,11 @@ const theme = merge(toTheme(typographyTheme), {
     fontFamily: "body",
     lineHeight: "body",
     fontWeight: "body",
+  },
+  styles: {
+    a: {
+      color: "primary",
+    },
   },
 })
 
