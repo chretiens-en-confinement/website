@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import groupBy from "lodash/fp/groupBy"
 import join from "lodash/fp/join"
 import sortBy from "lodash/fp/sortBy"
+import { Badge } from "theme-ui"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,7 +12,7 @@ import ContributeMessage from "../components/ContributeMessage"
 const WEEKDAYS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"]
 
 const HD = () => {
-  return <span>HQ</span>
+  return <Badge>HQ</Badge>
 }
 
 const Masses = ({ masses }) => {

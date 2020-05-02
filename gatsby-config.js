@@ -7,6 +7,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    "gatsby-plugin-theme-ui",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -50,12 +51,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-typescript`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {

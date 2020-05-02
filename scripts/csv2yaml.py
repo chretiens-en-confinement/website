@@ -24,6 +24,7 @@ KEYS = {
     "HD": "is_hd",
 }
 URL_KEYS = ("youtube", "facebook", "site")
+BOOL_KEYS = ("hd",)
 
 
 def transform(mass: Dict[str, Any]) -> Union[None, Dict[str, str]]:
@@ -31,13 +32,20 @@ def transform(mass: Dict[str, Any]) -> Union[None, Dict[str, str]]:
     if "groupe" not in mass or not mass.get("nom"):
         return None
 
-    m = {new_key: mass[k.lower()] for k, new_key in KEYS.items()}
+    def get_value(mass, key):
+        value = mass[key]
 
-    for k in URL_KEYS:
-        value = m.get(k, "")
-        if not value.startswith("http") or " " in value:
-            # Reset to avoid weird values
-            m[k] = ""
+        if key in URL_KEYS:
+            if not value.startswith("http") or " " in value:
+                # Reset to avoid weird values
+                return ""
+
+        if key in BOOL_KEYS:
+            return value == "TRUE"
+
+        return value
+
+    m = {new_key: get_value(mass, k.lower()) for k, new_key in KEYS.items()}
 
     return m
 
